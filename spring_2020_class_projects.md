@@ -161,6 +161,66 @@ ___
 ## Career Track Project 1
 ___
 
+### Affirm.e
+
+> Description 
+>> Affirm.e is a Twitter bot whose purpose is to bring you positive affirmations regularly throughout the day, so that you can practice long-term changes to your thought processes and your daily life.
+>
+- Live Site: https://twitter.com/affirm_e
+- Github: https://github.com/Affirm-e/affirmations-project
+- Organization: https://github.com/Affirm-e
+ 
+
+>| Name  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/) | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
+>|  [Briseida Pagador](https://briseida-pagador.com/) | [Github](https://github.com/bpagador)  | [LinkedIn](https://www.linkedin.com/in/briseida-pagador/)  |
+>|  [Lucia Brammer](https://lucia-brammer.com/) | [Github](https://github.com/brammerl)  | [LinkedIn](https://www.linkedin.com/in/luciabrammer/)  |
+>|  [Max Lamb](https://www.linkedin.com/in/max-lamb/) | [Github](https://github.com/MaximusLamb)  | [LinkedIn](https://www.linkedin.com/in/max-lamb/)  |
+
+___
+___
+
+### Memory Organizer
+
+> Description 
+>> Full-stack application that provides a repository for users to upload photos and notes about their memories. All photos utilize the Google Cloud Vision API to auto-tag the images for increased searchability.
+>
+- Live Site: https://memory-organizer.netlify.app/
+- Github Backend: https://github.com/MemoryOrganizer/memory-organizer-be
+- Github Frontend: https://github.com/MemoryOrganizer/memory-organizer-fe
+- Organization: https://github.com/MemoryOrganizer
+ 
+
+>| Name  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
+>|  [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/) | [Github](https://github.com/jaimekinsley)   | [LinkedIn](https://www.linkedin.com/in/jaimelyn/)   |
+>|  [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/) | [Github](https://github.com/langstonBS)  | [LinkedIn](https://www.linkedin.com/in/langston-beckwith-stanley/)  |
+>|  [Nikki Kiga](https://www.linkedin.com/in/nikkikiga) | [Github](https://github.com/nikki-kiga)  | [LinkedIn](https://www.linkedin.com/in/nikkikiga)  |
+
+### Game_Reccs
+
+> Description 
+>> A twitter bot for your one-stop-shop for game recommendations.
+
+>
+- Live Site: https://twitter.com/game_reccs
+- Github: https://github.com/flight-scraper/game-scraping-tool
+ 
+
+>| Name  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Dan Bennington](https://www.linkedin.com/in/dan-bennington/) | [Github](https://github.com/dbennin125)  | [LinkedIn](https://www.linkedin.com/in/dan-bennington/)  |
+>|  [Jake Pendergraft](https://www.linkedin.com/in/jake-pendergraft/) | [Github](https://github.com/Jpendy)  | [LinkedIn](https://www.linkedin.com/in/jake-pendergraft/)  |
+>|  [Joey Leaptrott](https://github.com/JoLeaper) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
+
+___
+___
+
+## Career Track Project 2
+___
+
  ### Songs About Humanity
 
 > Description 
