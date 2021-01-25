@@ -16,7 +16,7 @@ ___
 >|  [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/) | [Github](https://github.com/jaimekinsley)   | [LinkedIn](https://www.linkedin.com/in/jaimelyn/)   |
 >|  [Jake Pendergraft](https://www.linkedin.com/in/jake-pendergraft/) | [Github](https://github.com/Jpendy)  | [LinkedIn](https://www.linkedin.com/in/jake-pendergraft/)  |
 >|  [Charlie Smith](https://www.linkedin.com/in/charlie-smith-b7840b1a5/) | [Github](https://github.com/internetcharles)  | [LinkedIn](https://www.linkedin.com/in/charlie-smith-b7840b1a5/)  |
->|  |    |    |
+
 ___
 ___
 
@@ -35,7 +35,7 @@ ___
 >|  [Joey Leaptrott](https://github.com/JoLeaper) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
 >|  [Max Lamb](https://www.linkedin.com/in/max-lamb/) | [Github](https://github.com/MaximusLamb)  | [LinkedIn](https://www.linkedin.com/in/max-lamb/)  |
 >|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
->|  |    |    |
+
 
 ___
 ___
@@ -77,6 +77,86 @@ ___
 >|  [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/) | [Github](https://github.com/PeepTheMoon)  | [LinkedIn](https://www.linkedin.com/in/rachelmdonahue/)  |
 
 ___
+## Foundations Project 2
+___
+
+ ### Fetch-ART
+
+> Description 
+>> Full-stack application that is made for those seeking a meditative space to listen to calming music while favoriting images inspired by emotions.
+>
+- Live Site: https://fetch-art.netlify.app/
+- Frontend Github: https://github.com/breeannb/fetch-art-fe 
+- Backend Github: https://github.com/jaimekinsley/fetch-art-be 
+- Heroku Backend: https://nameless-hollows-93608.herokuapp.com
+- Organization: https://github.com/fetch-ART
+ 
+
+>| Name  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/) | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
+>|  [Briseida Pagador](https://briseida-pagador.com/) | [Github](https://github.com/bpagador)  | [LinkedIn](https://www.linkedin.com/in/briseida-pagador/)  |
+>|  [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/) | [Github](https://github.com/jaimekinsley)   | [LinkedIn](https://www.linkedin.com/in/jaimelyn/)   |
+>|  [Max Lamb](https://www.linkedin.com/in/max-lamb/) | [Github](https://github.com/MaximusLamb)  | [LinkedIn](https://www.linkedin.com/in/max-lamb/)  |
+
+___
+___
+
+ ### Triple Jeopardy
+> Description 
+>> N/A
+>
+- Live Site: https://github.com/triple-jeopardy
+- Frontend Github: https://github.com/triple-jeopardy/jeopardy-game-fe
+- Backend Github: https://github.com/triple-jeopardy/jeopardy-game-be
+- Organization: https://github.com/triple-jeopardy
+ 
+>| Name  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Dan Bennington](https://www.linkedin.com/in/dan-bennington/) | [Github](https://github.com/dbennin125)  | [LinkedIn](https://www.linkedin.com/in/dan-bennington/)  |
+>|  [Jake Pendergraft](https://www.linkedin.com/in/jake-pendergraft/) | [Github](https://github.com/Jpendy)  | [LinkedIn](https://www.linkedin.com/in/jake-pendergraft/)  |
+>|  [Joey Leaptrott](https://github.com/JoLeaper) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
+
+___
+___
+
+ ### Burning Suns
+> Description 
+>> Burning Suns is a simple web app for the cosmically curious, designed and built over a five-day sprint as a part of Alchemy Code Lab's curriculum.  This app was built in Node and React, with heavy dependence on the Material UI library for front-end rendering.
+>
+- Heroku: https://burningsuns.herokuapp.com/
+- Frontend Github: https://github.com/langstonBS/burning-suns-fr
+- Backend Github: https://github.com/PeepTheMoon/burning-suns-be
+
+ 
+>| Name  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/) | [Github](https://github.com/langstonBS)  | [LinkedIn](https://www.linkedin.com/in/langston-beckwith-stanley/)  |
+>|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
+>|  [Nikki Kiga](https://www.linkedin.com/in/nikkikiga) | [Github](https://github.com/nikki-kiga)  | [LinkedIn](https://www.linkedin.com/in/nikkikiga)  |
+>|  [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/) | [Github](https://github.com/PeepTheMoon)  | [LinkedIn](https://www.linkedin.com/in/rachelmdonahue/)  |
+
+___
+___
+
+ ### Third Git From the Hub
+> Description 
+>> A roll-based space game that involves exploring randomly generated planets and encountering different scenarios.
+>
+- Heroku: https://lit-depths-90375.herokuapp.com/
+- Frontend Github: https://github.com/3rd-git-from-the-hub/space-game-fe
+- Backend Github: https://github.com/3rd-git-from-the-hub/space-game-backend
+- Organization: https://github.com/3rd-git-from-the-hub
+
+ 
+>| Name  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Erik Ford](https://www.linkedin.com/in/erik-ford-business/) | [Github](https://github.com/Morriden)  | [LinkedIn](https://www.linkedin.com/in/erik-ford-business/)  |
+>|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
+>|  [Lucia Brammer](https://lucia-brammer.com/) | [Github](https://github.com/brammerl)  | [LinkedIn](https://www.linkedin.com/in/luciabrammer/)  |
+
+___
+___
 
 ## Career Track Project 1
 ___
@@ -96,11 +176,10 @@ ___
 >|  [Joey Leaptrott](https://github.com/JoLeaper) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
 >|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
 >|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
->|  |    |    |
 ___
 ___
 
-  ### DropZone
+### DropZone
 
 > Description 
 >>DropZone allows users to get straight to the action of earning in game rewards by watching their favorite streamers live on Twitch. Cut through the hassle of having to search through hundreds of games and thousands of streamers and get straight to earning drops!
