@@ -21,7 +21,6 @@ ___
 
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
-
 >|  [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/) | [Github](https://github.com/jaimekinsley)   | [LinkedIn](https://www.linkedin.com/in/jaimelyn/)   |
 >|  [Joey Leaptrott](https://github.com/JoLeaper) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
 >|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
