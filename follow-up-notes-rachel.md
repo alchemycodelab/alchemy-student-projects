@@ -1,0 +1,1 @@
+- get project descriptions from the students after career week for fall-2020
