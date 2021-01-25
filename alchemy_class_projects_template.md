@@ -7,16 +7,16 @@ ___
 > Description 
 >>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-* Repo link FE:
+* Repo FE
 
-* Repo link BE:
+* Repo BE
 
-* Deployed site link:
+* Deployed Site
 
 * Video Presentation
 
 >
->| Name  | Github  | LinkedIn  |
+>| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  Student Name(links to Portfolio) | Github Link   | LinkedIn Link   |
 
@@ -27,16 +27,16 @@ ___
 > Description 
 >>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-* Repo link FE:
+* Repo FE
 
-* Repo link BE:
+* Repo BE
 
-* Deployed site link:
+* Deployed Site
 
 * Video Presentation
 
 >
->| Name  | Github  | LinkedIn  |
+>| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  Student Name(links to Portfolio) | Github Link   | LinkedIn Link   |
 
