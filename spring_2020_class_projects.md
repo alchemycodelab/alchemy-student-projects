@@ -5,7 +5,7 @@ ___
  ### Casino Del Corona
 
 > Description 
->> n/a
+>> A fun game that brings the casino to your home, especially when you are quarantining during this crazy year.  
 >
 - Live Site: https://four-of-a-kind.github.io/casino-app/slots/
 - Github: https://github.com/Four-of-a-kind
@@ -104,9 +104,9 @@ ___
 
  ### Triple Jeopardy
 > Description 
->> N/A
+>> Jeopardy Lite is based off of the long-running game show, Jeopardy! In a short 10-question for the Jeopardy fans out there!  
 >
-- Live Site: https://github.com/triple-jeopardy
+- Live Site: https://jeopardy-lite.netlify.app/
 - Frontend Github: https://github.com/triple-jeopardy/jeopardy-game-fe
 - Backend Github: https://github.com/triple-jeopardy/jeopardy-game-be
 - Organization: https://github.com/triple-jeopardy
