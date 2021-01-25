@@ -263,6 +263,9 @@ ___
 >|  [Nikki Kiga](https://www.linkedin.com/in/nikkikiga) | [Github](https://github.com/nikki-kiga)  | [LinkedIn](https://www.linkedin.com/in/nikkikiga)  |
 >|  [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/) | [Github](https://github.com/PeepTheMoon)  | [LinkedIn](https://www.linkedin.com/in/rachelmdonahue/)  |
 
+___
+___
+
  ### Songs About Humanity
 
 > Description 
@@ -274,9 +277,8 @@ ___
 
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
+>|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
 >|  [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/) | [Github](https://github.com/jaimekinsley)   | [LinkedIn](https://www.linkedin.com/in/jaimelyn/)   |
 >|  [Joey Leaptrott](https://github.com/JoLeaper) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
->|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
 >|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
-___
-___
+
