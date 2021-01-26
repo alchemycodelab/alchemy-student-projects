@@ -67,6 +67,10 @@ ___
 ___
 
 ## Career Track Project 1
+
+These students are 7 weeks from finishing our professional software development training. Following you will find their BackEnd Projects which harnesses the use of MongoDB, NodeJS and Express. These projects were built in a one week sprint, remotely. The first time Alchemy students have ever done so this way. 
+
+Our emphasis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. As the only engineering education in town that serves Portland and Portland only, combined with in-person training by experienced senior software developers, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve Portland's economy and community through the companies they go to work for. [Here is an overview](https://docs.google.com/document/d/1RVKZ4wzOLJn5OeIE-94riRoJGLpwLRG1SuBdGY7sedg/edit?usp=sharing) of their syllabus through our Career Track training.
 ___
 
 ### Social Distance-Ping
