@@ -1,4 +1,4 @@
-# Spring 2020 Cohort
+# Winter 2020 Cohort
 ## Foundations 1
 ___
 
