@@ -143,23 +143,3 @@ ___
 >| Ethan Pierce |  [Github](https://github.com/jumpybuns)  |  [LinkedIn](https://www.linkedin.com/in/ethanpiercepresents/)  |
 
 ___
-
-## Foundations II
-___
-
- ### Aurora Synth
-
-> Description 
->>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-* [Repo](https://github.com/bryanakitchen/aurora)
-
-* [Deployed Site](bryanakitchen.github.io/aurora/)
-
->
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
->| Andrew Bray |  [Github](https://github.com/Andrew-Bray)  |  [LinkedIn](https://www.linkedin.com/in/andrew-michael-bray/)  |
->| Bryana Kitchen |  [Github](https://github.com/bryanakitchen)  |  [LinkedIn](https://www.linkedin.com/in/bryanakitchen/)  |
->| Ethan Pierce |  [Github](https://github.com/jumpybuns)  |  [LinkedIn](https://www.linkedin.com/in/ethanpiercepresents/)  |
