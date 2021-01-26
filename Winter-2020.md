@@ -110,7 +110,6 @@ ___
 
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
-
 >|[Chris Ficht](https://www.linkedin.com/in/chrisficht/) | [Github](https://github.com/cficht)  | [LinkedIn](https://www.linkedin.com/in/chrisficht/)  |
 >| Owen Prendergast | [Github](https://github.com/prendergasto)  | N/A |
 >|[Cody Brown](https://www.linkedin.com/in/codylylebrown/) | [Github](https://github.com/Cody2934)  | [LinkedIn](https://www.linkedin.com/in/codylylebrown/)  |
@@ -251,7 +250,6 @@ ___
 >|[Chris Ficht](https://www.linkedin.com/in/chrisficht/) | [Github](https://github.com/cficht)  | [LinkedIn](https://www.linkedin.com/in/chrisficht/)  |
 >|[Mikey Romay](https://www.linkedin.com/in/michaelromay/) | [Github](https://github.com/mikeymasonic)  | [LinkedIn](https://www.linkedin.com/in/michaelromay/)  |
 >|[Will Piro](https://www.linkedin.com/in/willpiro/) | [Github](https://github.com/Shaka2Pass)  | [LinkedIn](https://www.linkedin.com/in/willpiro/)  |
-
 
 ___
 ___

@@ -1,7 +1,7 @@
 - [ ] Fall 2020 (Rachel)
-- [ ] Summer 2020 (Langston)
+- [x] Summer 2020 (Langston)
 - [x] Spring 2020 (Breeann)
-- [ ] Winter 2020 (Breeann)
+- [x] Winter 2020 (Breeann)
 - [ ] Fall 2019 (Langston)
 - [ ] Summer 2019
 - [ ] Spring 2019
