@@ -134,9 +134,9 @@ ___
 
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
+>|[Josh Ford](https://www.linkedin.com/in/thisisjoshford/) | [Github](https://github.com/thisisjoshford)  | [LinkedIn](https://www.linkedin.com/in/thisisjoshford/)  |
 >|[Mikey Romay](https://www.linkedin.com/in/michaelromay/) | [Github](https://github.com/mikeymasonic)  | [LinkedIn](https://www.linkedin.com/in/michaelromay/)  |
 >|[Nathan Martel](https://www.linkedin.com/in/nathanmartel/) | [Github](https://github.com/SeHarlan)  | [LinkedIn](https://www.linkedin.com/in/nathanmartel/)  |
->|[Josh Ford](https://www.linkedin.com/in/thisisjoshford/) | [Github](https://github.com/thisisjoshford)  | [LinkedIn](https://www.linkedin.com/in/thisisjoshford/)  |
 >|[Scott Campbell](https://www.linkedin.com/in/scottthomascampbell/) | [Github](https://github.com/thisisscottcampbell)  | [LinkedIn](https://www.linkedin.com/in/scottthomascampbell/)  |
 
 ___
@@ -152,12 +152,12 @@ ___
 
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|[Will Piro](https://www.linkedin.com/in/willpiro/) | [Github](https://github.com/Shaka2Pass)  | [LinkedIn](https://www.linkedin.com/in/willpiro/)  |
->|[Rosalie Lee-Washington](https://www.linkedin.com/in/rosalielee/) | [Github](https://github.com/rosalie337)  | [LinkedIn](https://www.linkedin.com/in/rosalielee/)  |
->|[Nick Roberto](https://www.linkedin.com/in/nicholas-roberto/) | [Github](https://github.com/nrobert444)  | [LinkedIn](https://www.linkedin.com/in/nicholas-roberto/)  |
->|[Kyle Devine](https://www.linkedin.com/in/kyleadevine/) | [Github](https://github.com/devinenoise)  | [LinkedIn](https://www.linkedin.com/in/kyleadevine/)  |
 >|[Angela Venger](https://www.linkedin.com/in/ziyizhao19/) | [Github](https://github.com/avenger0901)  | [LinkedIn](https://www.linkedin.com/in/ziyizhao19/)  |
 >|[Eli Zevin](https://www.linkedin.com/in/eli-zevin/) | [Github](https://github.com/dizzyjaguar)  | [LinkedIn](https://www.linkedin.com/in/eli-zevin/)  |
+>|[Kyle Devine](https://www.linkedin.com/in/kyleadevine/) | [Github](https://github.com/devinenoise)  | [LinkedIn](https://www.linkedin.com/in/kyleadevine/)  |
+>|[Nick Roberto](https://www.linkedin.com/in/nicholas-roberto/) | [Github](https://github.com/nrobert444)  | [LinkedIn](https://www.linkedin.com/in/nicholas-roberto/)  |
+>|[Rosalie Lee-Washington](https://www.linkedin.com/in/rosalielee/) | [Github](https://github.com/rosalie337)  | [LinkedIn](https://www.linkedin.com/in/rosalielee/)  |
+>|[Will Piro](https://www.linkedin.com/in/willpiro/) | [Github](https://github.com/Shaka2Pass)  | [LinkedIn](https://www.linkedin.com/in/willpiro/)  |
 
 ___
 ___
