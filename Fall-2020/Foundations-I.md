@@ -1,6 +1,7 @@
 # Alchemy Class Projects - Fall 2020
 
 ## Foundations I
+First one week sprint, from concept through delivery, after week 5 in the program.  Focus was vanilla JS and teams built this working remotely.
 ___
 
  ### Octogotchi
@@ -47,7 +48,7 @@ ___
  ### Mystechal Tarot Divinator
 
 > Description 
->>Major Arcana Divinator App written in vanilla JavaScript.
+>>Major Arcana Divinator App written using vanilla JavaScript, HTML and CSS.
 
 * [Repo](https://github.com/Mystechal-Divinators/project-week-tarot-divinators)
 
@@ -67,7 +68,7 @@ ___
  ### My Vampire Boyfriend
 
 > Description 
->>A survival choose-your-own-adventure game, disguised as a dating simulator with a horror twist using vanilla JavaScript.
+>>A survival choose-your-own-adventure game, disguised as a dating simulator with a horror twist using vanilla JavaScript, HTML and CSS.
 
 * [Repo](https://github.com/SjaanHydrick/my-vampire-boyfriend)
 
@@ -87,7 +88,7 @@ ___
  ### Oregon Trail Nuevo
 
 > Description 
->>In Oregon Trail Nuevo the player assumes the role of a driver and is faced with a series of choices as they relocate from San Diego, California to Portland, Oregon.  Written in vanilla JavaScript.
+>>In Oregon Trail Nuevo the player assumes the role of a driver and is faced with a series of choices as they relocate from San Diego, California to Portland, Oregon.  Written in vanilla JavaScript with HTML and CSS.
 
 * [Repo](https://github.com/Oregon-Trail-2020)
 
@@ -116,7 +117,7 @@ ___
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  [Shane Upchurch](https://600cd45411748a8e9f7530ca--shane-upchurch.netlify.app/)| [Github](https://github.com/ShaneUP1)   | [LinkedIn](https://www.linkedin.com/in/shaneupchurch/)   |
+>|  [Shane Upchurch](https://shane-upchurch.netlify.app/)| [Github](https://github.com/ShaneUP1)   | [LinkedIn](https://www.linkedin.com/in/shaneupchurch/)   |
 >| Erik Graciosa |  [Github](https://github.com/ErikGraciosa)  |  [LinkedIn](https://www.linkedin.com/in/erikgraciosa/)  |
 >| Kevin Fiero |  [Github](https://github.com/kevinfiero)  |  [LinkedIn](https://www.linkedin.com/in/kevinfiero/)  |
 >| Sam Formichella |  [Github](https://github.com/sformichella)  |  [LinkedIn](https://www.linkedin.com/in/sam-formichella/)  |
@@ -127,7 +128,7 @@ ___
  ### Aurora Synth
 
 > Description 
->>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+>>Aurora Synth is a browser synthesizer built in a 5 day sprint using pure Vanilla JavaScript, HTML, and CSS. The user has the ability to play the synthesizer solo or with a pre-recorded beat, as well as choose between the different waveforms: sine, square, triangle, and sawtooth.
 
 * [Repo](https://github.com/bryanakitchen/aurora)
 
