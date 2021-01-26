@@ -10,7 +10,22 @@ ___
 ## Foundations 2
 ___
 
- ### Burning Suns
+ ### Sew Organized
+
+> Description 
+>>A code companion. Budding software developers often struggle with the learning process of code challenges. This learning platform combines resources, videos and documentation to help developers build a foundation. Users can not only practice from our library of code challenges, but they can also review past attempts at various problems. We invite you take the Alcherithm challenge; happy coding!
+>
+- [Live Site](https://bard-of-avon.herokuapp.com/login)
+- [Github Organization](https://github.com/Sew-Organized)
+
+>| Contributing Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|[Chelsea Spangler](https://www.linkedin.com/in/chelseanspangler/) | [Github](https://github.com/CNSpangler)  | [LinkedIn](https://www.linkedin.com/in/chelseanspangler/)  |
+>|[Dakota Druley](https://www.linkedin.com/in/dakota-druley/) | [Github](https://github.com/dakotadruley)  | [LinkedIn](https://www.linkedin.com/in/dakota-druley/)  |
+>|[Dannie Schumaker](http://www.dannieschumaker.com) | [Github](https://github.com/DannieSchu)  | [LinkedIn](https://www.linkedin.com/in/dannieschumaker/)  |
+>|[Fiona Ochs](https://fionaochs.dev/) | [Github](https://github.com/fionaochs)  | [LinkedIn](https://www.linkedin.com/in/fionaochs/)  |
+>|[Janelle Mellor](https://www.linkedin.com/in/janellemellor/) | [Github](https://github.com/jennagoldman)  | [LinkedIn](https://www.linkedin.com/in/janellemellor/)  |
+
 
 
 ___
@@ -19,7 +34,23 @@ ___
 ## Career Track Project 1
 ___
 
-### Affirm.e
+### Alcherithm
+
+> Description 
+>>A code companion. Budding software developers often struggle with the learning process of code challenges. This learning platform combines resources, videos and documentation to help developers build a foundation. Users can not only practice from our library of code challenges, but they can also review past attempts at various problems. We invite you take the Alcherithm challenge; happy coding!
+>
+- [Live Site](https://alcherithm.netlify.app/)
+- [Github Organization](https://github.com/Alcherithm)
+- [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590793266000) (Password: Password: 7O?Vi0*.)
+
+>| Contributing Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|[Dakota Druley](https://www.linkedin.com/in/dakota-druley/) | [Github](https://github.com/dakotadruley)  | [LinkedIn](https://www.linkedin.com/in/dakota-druley/)  |
+>|[Dannie Schumaker](http://www.dannieschumaker.com) | [Github](https://github.com/DannieSchu)  | [LinkedIn](https://www.linkedin.com/in/dannieschumaker/)  |
+>|[Janelle Mellor](https://www.linkedin.com/in/janellemellor/) | [Github](https://github.com/jennagoldman)  | [LinkedIn](https://www.linkedin.com/in/janellemellor/)  |
+>|[Mikey Romay](https://www.linkedin.com/in/michaelromay/) | [Github](https://github.com/mikeymasonic)  | [LinkedIn](https://www.linkedin.com/in/michaelromay/)  |
+>|[Will Piro](https://www.linkedin.com/in/willpiro/) | [Github](https://github.com/Shaka2Pass)  | [LinkedIn](https://www.linkedin.com/in/willpiro/)  |
+
 
 
 ___
