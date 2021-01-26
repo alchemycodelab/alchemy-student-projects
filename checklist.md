@@ -2,7 +2,7 @@
 - [ ] Summer 2020 (Langston)
 - [x] Spring 2020 (Breeann)
 - [ ] Winter 2020 (Breeann)
-- [ ] Fall 2019
+- [ ] Fall 2019 (Langston)
 - [ ] Summer 2019
 - [ ] Spring 2019
 - [ ] Winter 2019
