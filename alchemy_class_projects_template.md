@@ -1,5 +1,5 @@
 # Alchemy Class Projects - cohort 
-### project week
+## project week
 ___
 
  ### Heading name of group
@@ -14,7 +14,7 @@ ___
 >
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
->|  Langston | mine   | mine   |
+>|  [Langston]() | [Github]()   | [Linkedin]()   |
 
 ___
 ___
@@ -30,7 +30,7 @@ ___
 >
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
->|  Langston | mine   | mine   |
+>|  [Langston]() | [Github]()   | [Linkedin]()   |
 
 ___
 ___
