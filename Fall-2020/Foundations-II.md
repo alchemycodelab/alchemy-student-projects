@@ -9,6 +9,8 @@ ___
 > Description 
 >>This is an app where users who are interested in climate change data can view current news publications to stay informed, find ways to get involved in environmental initiatives, use our climate map and charts to view temperature changes over time in various cities, and create a user profile to save climate data from the map, charts, and articles. A full stack application featuring react-tiny-link, react-simple-maps, react-slider, and reactjs-popup.
 
+* [Organization](https://github.com/Hexa-P)
+
 * [Repo-FE](https://github.com/Hexa-P/hexa-p-front-end)
 
 * [Repo-BE](https://github.com/Hexa-P/hexa-p-back-end)
@@ -31,6 +33,8 @@ ___
 > Description 
 >>A full stack React Magic the Gathering deck builder app built using Material UI.
 
+* [Organization](https://github.com/cardcoven)
+
 * [Repo-FE](https://github.com/cardcoven/card-coven-front-end)
 
 * [Repo-BE](https://github.com/cardcoven/card-coven-back-end)
@@ -44,6 +48,30 @@ ___
 >| [Justin Martin](http://justinmartincodes.com/) |  [Github](https://github.com/JustinMartin7x)  |  [LinkedIn](https://www.linkedin.com/in/justin-martin7x/)  |
 >| Jonathan Quesada |  [Github](https://github.com/QuesadaJon)  |  [LinkedIn](https://www.linkedin.com/in/quesada-jonathan/)  |
 >| Donny Vu |  [Github](https://github.com/DonnyLVu)  |  [LinkedIn](https://www.linkedin.com/in/donnylvu/)  |
+
+___
+___
+### Alchezoomy
+
+> Description 
+>>Fullstack application that utilizes the Zoom API to allow users to search and favorite videos, transcripts, and chats from various published Alchemy zoom meetings. Designed and built over a five-day sprint as a part of the Alchemy Code Lab's curriculum using ReactJS, NodeJS, PostgreSQL, Morgan, Node-webvtt and FuseJS.
+
+* [Organization](https://github.com/Alchezoomy)
+
+* [Repo-FE](https://github.com/Alchezoomy/zoom-search-app)
+
+* [Repo-BE](https://github.com/Alchezoomy/zoom-search-sql)
+
+* [Deployed Site](https://alchezoomy.netlify.app/)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Dee Watson |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
+>| Jillian Gibson |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
+>| Evan Finkelstein |  [Github](https://github.com/Evan-Finkelstein)  |  [LinkedIn](https://www.linkedin.com/in/evan-finkelstein91/)  |
+>| [Paul Stevens](https://paulstevens.dev/) |  [Github](https://github.com/Protopaco)  |  [LinkedIn](https://www.linkedin.com/in/paul-stevens-dev/)  |
+>|  Sjaan Hydrick | [Github](https://github.com/SjaanHydrick)   | [LinkedIn](https://www.linkedin.com/in/sjaan-hydrick/)   |
 
 ___
 ___
