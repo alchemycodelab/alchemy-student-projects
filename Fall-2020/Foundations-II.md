@@ -26,3 +26,24 @@ ___
 
 ___
 ___
+ ### Card Coven
+
+> Description 
+>>A full stack React Magic the Gathering deck builder app built using Material UI.
+
+* [Repo-FE](https://github.com/cardcoven/card-coven-front-end)
+
+* [Repo-BE](https://github.com/cardcoven/card-coven-back-end)
+
+* [Deployed Site](https://card-coven2020.netlify.app/)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| David Butler |  [Github](https://github.com/davidabutler92)  |  [LinkedIn](https://www.linkedin.com/in/david-arron-butler/)  |
+>| [Justin Martin](http://justinmartincodes.com/) |  [Github](https://github.com/JustinMartin7x)  |  [LinkedIn](https://www.linkedin.com/in/justin-martin7x/)  |
+>| Jonathan Quesada |  [Github](https://github.com/QuesadaJon)  |  [LinkedIn](https://www.linkedin.com/in/quesada-jonathan/)  |
+>| Donny Vu |  [Github](https://github.com/DonnyLVu)  |  [LinkedIn](https://www.linkedin.com/in/donnylvu/)  |
+
+___
+___
