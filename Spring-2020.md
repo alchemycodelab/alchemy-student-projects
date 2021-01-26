@@ -10,7 +10,7 @@ ___
 - [Live Site](https://four-of-a-kind.github.io/casino-app/slots/)
 - [Github](https://github.com/Four-of-a-kind)
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Charlie Smith](https://www.linkedin.com/in/charlie-smith-b7840b1a5/) | [Github](https://github.com/internetcharles)  | [LinkedIn](https://www.linkedin.com/in/charlie-smith-b7840b1a5/)  |
 >|  [Dan Bennington](https://www.linkedin.com/in/dan-bennington/) | [Github](https://github.com/dbennin125)  | [LinkedIn](https://www.linkedin.com/in/dan-bennington/)  |
@@ -29,7 +29,7 @@ ___
 - [Live Site](https://langstonbs.github.io/TerraFive)
 - [Github](https://github.com/langstonBS/TerraFive)
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Alan Willoughby](https://www.linkedin.com/in/alan-willoughby/) | [Github](https://github.com/satyadvaya) | [LinkedIn](https://www.linkedin.com/in/alan-willoughby/)  |
 >|  [Karl Witek](https://github.com/karlwitek) | [Github](https://github.com/karlwitek) | N/A  |
@@ -49,7 +49,7 @@ ___
 - [Live Site](https://cryptostimulus.github.io/Project-Week-cryptoStimulus/)
 - [Github](https://github.com/cryptoStimulus/Project-Week-cryptoStimulus) 
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Annalise Murphy](https://annalisemurphy.netlify.app/) | [Github](https://github.com/Annalise-M)  | [LinkedIn](https://www.linkedin.com/in/annalise-murphy/)  |
 >|  [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/) | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
@@ -67,7 +67,7 @@ ___
 - [Live Site](https://team-jhemm-fighters.github.io/jhemm-fighters/)
 - [Github](https://github.com/team-jhemm-fighters/jhemm-fighters/)
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Erik Ford](https://www.linkedin.com/in/erik-ford-business/) | [Github](https://github.com/Morriden)  | [LinkedIn](https://www.linkedin.com/in/erik-ford-business/)  |
 >|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
@@ -89,7 +89,7 @@ ___
 - [Backend Github](https://github.com/PeepTheMoon/burning-suns-be)
 
  
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/) | [Github](https://github.com/langstonBS)  | [LinkedIn](https://www.linkedin.com/in/langston-beckwith-stanley/)  |
 >|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
@@ -111,7 +111,7 @@ ___
 - [Organization](https://github.com/fetch-ART)
  
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/) | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
 >|  [Briseida Pagador](https://briseida-pagador.com/) | [Github](https://github.com/bpagador)  | [LinkedIn](https://www.linkedin.com/in/briseida-pagador/)  |
@@ -131,7 +131,7 @@ ___
 - [Organization](https://github.com/3rd-git-from-the-hub)
 
  
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Erik Ford](https://www.linkedin.com/in/erik-ford-business/) | [Github](https://github.com/Morriden)  | [LinkedIn](https://www.linkedin.com/in/erik-ford-business/)  |
 >|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
@@ -149,7 +149,7 @@ ___
 - [Backend Github](https://github.com/triple-jeopardy/jeopardy-game-be)
 - [Organization](https://github.com/triple-jeopardy)
  
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Dan Bennington](https://www.linkedin.com/in/dan-bennington/) | [Github](https://github.com/dbennin125)  | [LinkedIn](https://www.linkedin.com/in/dan-bennington/)  |
 >|  [Jake Pendergraft](https://www.linkedin.com/in/jake-pendergraft/) | [Github](https://github.com/Jpendy)  | [LinkedIn](https://www.linkedin.com/in/jake-pendergraft/)  |
@@ -171,7 +171,7 @@ ___
 - [Organization](https://github.com/Affirm-e)
  
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/) | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
 >|  [Briseida Pagador](https://briseida-pagador.com/) | [Github](https://github.com/bpagador)  | [LinkedIn](https://www.linkedin.com/in/briseida-pagador/)  |
@@ -191,7 +191,7 @@ ___
 - [Github](https://github.com/flight-scraper/game-scraping-tool) 
  
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Dan Bennington](https://www.linkedin.com/in/dan-bennington/) | [Github](https://github.com/dbennin125)  | [LinkedIn](https://www.linkedin.com/in/dan-bennington/)  |
 >|  [Jake Pendergraft](https://www.linkedin.com/in/jake-pendergraft/) | [Github](https://github.com/Jpendy)  | [LinkedIn](https://www.linkedin.com/in/jake-pendergraft/)  |
@@ -211,7 +211,7 @@ ___
 - [Organization](https://github.com/MemoryOrganizer)
  
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
 >|  [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/) | [Github](https://github.com/jaimekinsley)   | [LinkedIn](https://www.linkedin.com/in/jaimelyn/)   |
@@ -233,7 +233,7 @@ ___
 - [Organization](https://github.com/MemoryOrganizer)
  
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Erik Ford](https://www.linkedin.com/in/erik-ford-business/) | [Github](https://github.com/Morriden)  | [LinkedIn](https://www.linkedin.com/in/erik-ford-business/)  |
 >|  [Logan Scott](https://www.linkedin.com/in/logantscott/) | [Github](https://github.com/logantscott)  | [LinkedIn](https://www.linkedin.com/in/logantscott/)  |
@@ -256,7 +256,7 @@ ___
 - [Github Back End](https://github.com/DropTopIncorporated/DropZoneBE/tree/master) 
 - [Video Presentation](https://zoom.us/rec/share/vNQyc5qz2khJcqvExkbNVaEeJ6qiaaa82iEWrKBZyEqbAM-Eu2yiHC08hGLjkHad?startTime=1598648854000)
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Dan Bennington](https://www.linkedin.com/in/dan-bennington/) | [Github](https://github.com/dbennin125)  | [LinkedIn](https://www.linkedin.com/in/dan-bennington/)  |
 >|  [Erik Ford](https://www.linkedin.com/in/erik-ford-business/) | [Github](https://github.com/Morriden)  | [LinkedIn](https://www.linkedin.com/in/erik-ford-business/)  |
@@ -276,7 +276,7 @@ ___
 - [Github Front End](https://github.com/GOATDreamTeam/frontend)
 - [Github Back End](https://github.com/GOATDreamTeam/backend )
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/) | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
 >|  [Briseida Pagador](https://briseida-pagador.com/) | [Github](https://github.com/bpagador)  | [LinkedIn](https://www.linkedin.com/in/briseida-pagador/)  |
@@ -296,7 +296,7 @@ ___
 - [Github](https://github.com/songs-about-humanity) 
 - [Video Presentation](https://zoom.us/rec/share/vNQyc5qz2khJcqvExkbNVaEeJ6qiaaa82iEWrKBZyEqbAM-Eu2yiHC08hGLjkHad?startTime=1598653839000)
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
 >|  [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/) | [Github](https://github.com/jaimekinsley)   | [LinkedIn](https://www.linkedin.com/in/jaimelyn/)   |
