@@ -11,8 +11,7 @@ ___
 * repo link BE
 * deployed site link
 
->|Contributing Team Members:|^|^|
->|---|---|---|
+>### Contributing Team Members
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Langston]() | [Github]()   | [Linkedin]()   |
