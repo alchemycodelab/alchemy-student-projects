@@ -1,5 +1,5 @@
 # Spring 2020 Cohort
-## Foundations Project 1
+## Foundations 1
 ___
 
  ### Casino Del Corona
@@ -7,8 +7,8 @@ ___
 > Description 
 >> A fun game that brings the casino to your home, especially when you are quarantining during this crazy year.  
 >
-- Live Site: https://four-of-a-kind.github.io/casino-app/slots/
-- Github: https://github.com/Four-of-a-kind
+- [Live Site](https://four-of-a-kind.github.io/casino-app/slots/)
+- [Github](https://github.com/Four-of-a-kind)
 
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
@@ -26,8 +26,8 @@ ___
 >> A pure JavaScript Application That shows gives the user hiking recommendations from Locations in Portland Or. persistent user singe-in on local storage
 >
 
-- Live Site: https://langstonbs.github.io/TerraFive/
-- Github: https://github.com/langstonBS/TerraFive
+- [Live Site](https://langstonbs.github.io/TerraFive)
+- [Github](https://github.com/langstonBS/TerraFive)
 
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
@@ -46,8 +46,8 @@ ___
 >>A directory of Portland based organizations and mutual aid funds for people to donate their stimulus checks. The app allows users to search by category and save favorites into local storage. The app is written in vanilla JavaScript, HTML5 and CSS.
 >
 
-- Live Site: https://cryptostimulus.github.io/Project-Week-cryptoStimulus/
-- Github: https://github.com/cryptoStimulus/Project-Week-cryptoStimulus
+- [Live Site](https://cryptostimulus.github.io/Project-Week-cryptoStimulus/)
+- [Github](https://github.com/cryptoStimulus/Project-Week-cryptoStimulus) 
 
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
@@ -64,8 +64,8 @@ ___
 > Description 
 >>Turn-based, two-player fighting game built in vanilla HTML, CSS, and JavaScript.
 >
-- Live Site: https://team-jhemm-fighters.github.io/jhemm-fighters/
-- Github: https://github.com/team-jhemm-fighters/jhemm-fighters/
+- [Live Site](https://team-jhemm-fighters.github.io/jhemm-fighters/)
+- [Github](https://github.com/team-jhemm-fighters/jhemm-fighters/)
 
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
@@ -77,16 +77,16 @@ ___
 
 ___
 
-## Foundations Project 2
+## Foundations 2
 ___
 
  ### Burning Suns
 > Description 
 >> Burning Suns is a simple web app for the cosmically curious, designed and built over a five-day sprint as a part of Alchemy Code Lab's curriculum.  This app was built in Node and React, with heavy dependence on the Material UI library for front-end rendering.
 >
-- Heroku: https://burningsuns.herokuapp.com/
-- Frontend Github: https://github.com/langstonBS/burning-suns-fr
-- Backend Github: https://github.com/PeepTheMoon/burning-suns-be
+- [Live Site](https://burningsuns.herokuapp.com/) 
+- [Frontend Github](https://github.com/langstonBS/burning-suns-fr)
+- [Backend Github](https://github.com/PeepTheMoon/burning-suns-be)
 
  
 >| Name  | Github  | LinkedIn  |
@@ -104,11 +104,11 @@ ___
 > Description 
 >> Full-stack application that is made for those seeking a meditative space to listen to calming music while favoriting images inspired by emotions.
 >
-- Live Site: https://fetch-art.netlify.app/
-- Frontend Github: https://github.com/breeannb/fetch-art-fe 
-- Backend Github: https://github.com/jaimekinsley/fetch-art-be 
-- Heroku Backend: https://nameless-hollows-93608.herokuapp.com
-- Organization: https://github.com/fetch-ART
+- [Live Site](https://fetch-art.netlify.app/)
+- [Frontend Github](https://github.com/breeannb/fetch-art-fe ) 
+- [Backend Github](https://github.com/jaimekinsley/fetch-art-be)
+- [Heroku Backend](https://nameless-hollows-93608.herokuapp.com)
+- [Organization](https://github.com/fetch-ART)
  
 
 >| Name  | Github  | LinkedIn  |
@@ -125,10 +125,10 @@ ___
 > Description 
 >> A roll-based space game that involves exploring randomly generated planets and encountering different scenarios.
 >
-- Heroku: https://lit-depths-90375.herokuapp.com/
-- Frontend Github: https://github.com/3rd-git-from-the-hub/space-game-fe
-- Backend Github: https://github.com/3rd-git-from-the-hub/space-game-backend
-- Organization: https://github.com/3rd-git-from-the-hub
+- [Heroku](https://lit-depths-90375.herokuapp.com/) 
+- [Frontend Github](https://github.com/3rd-git-from-the-hub/space-game-fe) 
+- [Backend Github](https://github.com/3rd-git-from-the-hub/space-game-backend)
+- [Organization](https://github.com/3rd-git-from-the-hub)
 
  
 >| Name  | Github  | LinkedIn  |
@@ -144,10 +144,10 @@ ___
 > Description 
 >> Jeopardy Lite is based off of the long-running game show, Jeopardy! In a short 10-question for the Jeopardy fans out there!  
 >
-- Live Site: https://jeopardy-lite.netlify.app/
-- Frontend Github: https://github.com/triple-jeopardy/jeopardy-game-fe
-- Backend Github: https://github.com/triple-jeopardy/jeopardy-game-be
-- Organization: https://github.com/triple-jeopardy
+- [Live Site](https://jeopardy-lite.netlify.app/)
+- [Frontend Github](https://github.com/triple-jeopardy/jeopardy-game-fe) 
+- [Backend Github](https://github.com/triple-jeopardy/jeopardy-game-be)
+- [Organization](https://github.com/triple-jeopardy)
  
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
@@ -166,9 +166,9 @@ ___
 > Description 
 >> Affirm.e is a Twitter bot whose purpose is to bring you positive affirmations regularly throughout the day, so that you can practice long-term changes to your thought processes and your daily life.
 >
-- Live Site: https://twitter.com/affirm_e
-- Github: https://github.com/Affirm-e/affirmations-project
-- Organization: https://github.com/Affirm-e
+- [Live Site](https://twitter.com/affirm_e)
+- [Github](https://github.com/Affirm-e/affirmations-project)
+- [Organization](https://github.com/Affirm-e)
  
 
 >| Name  | Github  | LinkedIn  |
@@ -187,8 +187,8 @@ ___
 >> A twitter bot for your one-stop-shop for game recommendations.
 
 >
-- Live Site: https://twitter.com/game_reccs
-- Github: https://github.com/flight-scraper/game-scraping-tool
+- [Live Site](https://twitter.com/game_reccs)
+- [Github](https://github.com/flight-scraper/game-scraping-tool) 
  
 
 >| Name  | Github  | LinkedIn  |
@@ -205,10 +205,10 @@ ___
 > Description 
 >> Full-stack application that provides a repository for users to upload photos and notes about their memories. All photos utilize the Google Cloud Vision API to auto-tag the images for increased searchability.
 >
-- Live Site: https://memory-organizer.netlify.app/
-- Github Backend: https://github.com/MemoryOrganizer/memory-organizer-be
-- Github Frontend: https://github.com/MemoryOrganizer/memory-organizer-fe
-- Organization: https://github.com/MemoryOrganizer
+- [Live Site](https://memory-organizer.netlify.app/)
+- [Github Backend](https://github.com/MemoryOrganizer/memory-organizer-be)
+- [Github Frontend](https://github.com/MemoryOrganizer/memory-organizer-fe) 
+- [Organization](https://github.com/MemoryOrganizer)
  
 
 >| Name  | Github  | LinkedIn  |
@@ -229,9 +229,9 @@ ___
 > Description 
 >>DropZone allows users to get straight to the action of earning in game rewards by watching their favorite streamers live on Twitch. Cut through the hassle of having to search through hundreds of games and thousands of streamers and get straight to earning drops!
 >
-- Live Site: https://thedropzone.netlify.app/
-- Github (Front End): https://github.com/DropTopIncorporated/DropZoneFE/tree/master
-- Github (Back End): https://github.com/DropTopIncorporated/DropZoneBE/tree/master
+- [Live Site](https://thedropzone.netlify.app/)
+- [Github Front End](https://github.com/DropTopIncorporated/DropZoneFE/tree/master)
+- [Github Back End](https://github.com/DropTopIncorporated/DropZoneBE/tree/master) 
 - [Video Presentation](https://zoom.us/rec/share/vNQyc5qz2khJcqvExkbNVaEeJ6qiaaa82iEWrKBZyEqbAM-Eu2yiHC08hGLjkHad?startTime=1598648854000)
 
 >| Name  | Github  | LinkedIn  |
@@ -250,9 +250,9 @@ ___
 >>FloraFile is a pocket garden application that allows plant newbies and botanists alike to search for plants based on their common or scientific names and get details about the plant as well as a gallery of images for identifying the plant.
 >
 
-- Live Site: https://florafile.netlify.app 
-- Github (Front End): https://github.com/GOATDreamTeam/frontend
-- Github (Back End): https://github.com/GOATDreamTeam/backend 
+- [Live Site](https://florafile.netlify.app )
+- [Github Front End](https://github.com/GOATDreamTeam/frontend)
+- [Github Back End](https://github.com/GOATDreamTeam/backend )
 
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
@@ -270,8 +270,8 @@ ___
 > Description 
 >>Songs About Humanity allows players to join rooms and compete to give the best song recommendations when given a prompt (similar to Apples to Apples or Cards Against Humanity) in real-time. Front-end was built with React, Redux, and Socket.io, back-end with Node and Socket.io, with music playing and searching done via the Spotify API and Spotify web playback SDK.
 >
-- Live Site: https://songs-about-humanity.netlify.app
-- Github: https://github.com/songs-about-humanity
+- [Live Site](https://songs-about-humanity.netlify.app)
+- [Github](https://github.com/songs-about-humanity) 
 - [Video Presentation](https://zoom.us/rec/share/vNQyc5qz2khJcqvExkbNVaEeJ6qiaaa82iEWrKBZyEqbAM-Eu2yiHC08hGLjkHad?startTime=1598653839000)
 
 >| Name  | Github  | LinkedIn  |
