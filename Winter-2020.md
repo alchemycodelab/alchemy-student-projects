@@ -38,7 +38,7 @@ ___
 - [Github Organization](https://github.com/Alcherithm)
 - [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590793266000) (Password: Password: 7O?Vi0*.)
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|[Dakota Druley](https://www.linkedin.com/in/dakota-druley/) | [Github](https://github.com/dakotadruley)  | [LinkedIn](https://www.linkedin.com/in/dakota-druley/)  |
 >|[Dannie Schumaker](http://www.dannieschumaker.com) | [Github](https://github.com/DannieSchu)  | [LinkedIn](https://www.linkedin.com/in/dannieschumaker/)  |
@@ -58,7 +58,7 @@ ___
 - [Github Organization](https://github.com/Going-Viral)
 - [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590793266000) (Password: Password: 7O?Vi0*.)
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|[Chelsea Spangler](https://www.linkedin.com/in/chelseanspangler/) | [Github](https://github.com/CNSpangler)  | [LinkedIn](https://www.linkedin.com/in/chelseanspangler/)  |
 >|[Fiona Ochs](https://fionaochs.dev/) | [Github](https://github.com/fionaochs)  | [LinkedIn](https://www.linkedin.com/in/fionaochs/)  |
@@ -78,7 +78,7 @@ ___
 - [Github Backend](https://github.com/Just-A-Recipe/Just-A-Recipe-Back-End)
 - [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590793266000) (Password: Password: 7O?Vi0*.)
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|[Anastasia Morozova](https://www.linkedin.com/in/morozova-anastasia/) | [Github](https://github.com/asiamorozova)  | [LinkedIn](https://www.linkedin.com/in/morozova-anastasia/)  |
 >|[Cody Brown](https://www.linkedin.com/in/codylylebrown/) | [Github](https://github.com/Cody2934)  | [LinkedIn](https://www.linkedin.com/in/codylylebrown/)  |
@@ -98,7 +98,7 @@ ___
 - [Github Organization](https://github.com/Secret-Menu)
 - [Video Presentation](https://zoom.us/rec/share/veZ1C4r71mJLQ7Piwx_VUJYZRdXgX6a8hnVN-PJenk6RcJT09Kq1SkKlNGGi-zox?startTime=1590793266000) (Password: Password: 7O?Vi0*.)
 
->| Name  | Github  | LinkedIn  |
+>| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|[Chris Ficht](https://www.linkedin.com/in/chrisficht/) | [Github](https://github.com/cficht)  | [LinkedIn](https://www.linkedin.com/in/chrisficht/)  |
 >|[Hannah Riley](https://www.linkedin.com/in/hannah-m-riley/) | [Github](https://github.com/hannahriley33)  | [LinkedIn](https://www.linkedin.com/in/hannah-m-riley/)  |
