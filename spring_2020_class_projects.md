@@ -12,10 +12,10 @@ ___
 
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
+>|  [Charlie Smith](https://www.linkedin.com/in/charlie-smith-b7840b1a5/) | [Github](https://github.com/internetcharles)  | [LinkedIn](https://www.linkedin.com/in/charlie-smith-b7840b1a5/)  |
 >|  [Dan Bennington](https://www.linkedin.com/in/dan-bennington/) | [Github](https://github.com/dbennin125)  | [LinkedIn](https://www.linkedin.com/in/dan-bennington/)  |
 >|  [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/) | [Github](https://github.com/jaimekinsley)   | [LinkedIn](https://www.linkedin.com/in/jaimelyn/)   |
 >|  [Jake Pendergraft](https://www.linkedin.com/in/jake-pendergraft/) | [Github](https://github.com/Jpendy)  | [LinkedIn](https://www.linkedin.com/in/jake-pendergraft/)  |
->|  [Charlie Smith](https://www.linkedin.com/in/charlie-smith-b7840b1a5/) | [Github](https://github.com/internetcharles)  | [LinkedIn](https://www.linkedin.com/in/charlie-smith-b7840b1a5/)  |
 
 ___
 ___
@@ -23,7 +23,7 @@ ___
 ### City Hikes PDX
 
 > Description 
->>A pure JavaScript Application That shows gives the user hiking recommendations from Locations in Portland Or. persistent user singe-in on local storage
+>> A pure JavaScript Application That shows gives the user hiking recommendations from Locations in Portland Or. persistent user singe-in on local storage
 >
 
 - Live Site: https://langstonbs.github.io/TerraFive/
@@ -31,7 +31,7 @@ ___
 
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
->|  [Alan Willoughby](https://github.com/karlwitek) | [Github](https://github.com/satyadvaya) | [LinkedIn](https://www.linkedin.com/in/alan-willoughby/)  |
+>|  [Alan Willoughby](https://www.linkedin.com/in/alan-willoughby/) | [Github](https://github.com/satyadvaya) | [LinkedIn](https://www.linkedin.com/in/alan-willoughby/)  |
 >|  [Karl Witek](https://github.com/karlwitek) | [Github](https://github.com/karlwitek) | N/A  |
 >|  [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/) | [Github](https://github.com/langstonBS)  | [LinkedIn](https://www.linkedin.com/in/langston-beckwith-stanley/)  |
 >|  [Nikki Kiga](https://www.linkedin.com/in/nikkikiga) | [Github](https://github.com/nikki-kiga)  | [LinkedIn](https://www.linkedin.com/in/nikkikiga)  |
@@ -71,10 +71,9 @@ ___
 >|---|---|---|
 >|  [Erik Ford](https://www.linkedin.com/in/erik-ford-business/) | [Github](https://github.com/Morriden)  | [LinkedIn](https://www.linkedin.com/in/erik-ford-business/)  |
 >|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
->|  [Joey Leaptrott](https://github.com/JoLeaper) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
+>|  [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
 >|  [Max Lamb](https://www.linkedin.com/in/max-lamb/) | [Github](https://github.com/MaximusLamb)  | [LinkedIn](https://www.linkedin.com/in/max-lamb/)  |
 >|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
-
 
 ___
 
@@ -154,7 +153,7 @@ ___
 >|---|---|---|
 >|  [Dan Bennington](https://www.linkedin.com/in/dan-bennington/) | [Github](https://github.com/dbennin125)  | [LinkedIn](https://www.linkedin.com/in/dan-bennington/)  |
 >|  [Jake Pendergraft](https://www.linkedin.com/in/jake-pendergraft/) | [Github](https://github.com/Jpendy)  | [LinkedIn](https://www.linkedin.com/in/jake-pendergraft/)  |
->|  [Joey Leaptrott](https://github.com/JoLeaper) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
+>|  [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
 
 ___
 ___
@@ -279,6 +278,6 @@ ___
 >|---|---|---|
 >|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
 >|  [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/) | [Github](https://github.com/jaimekinsley)   | [LinkedIn](https://www.linkedin.com/in/jaimelyn/)   |
->|  [Joey Leaptrott](https://github.com/JoLeaper) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
+>|  [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
 >|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
 
