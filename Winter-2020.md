@@ -82,7 +82,6 @@ ___
 >|---|---|---|
 >|[Anastasia Morozova](https://www.linkedin.com/in/morozova-anastasia/) | [Github](https://github.com/asiamorozova)  | [LinkedIn](https://www.linkedin.com/in/morozova-anastasia/)  |
 >|[Cody Brown](https://www.linkedin.com/in/codylylebrown/) | [Github](https://github.com/Cody2934)  | [LinkedIn](https://www.linkedin.com/in/codylylebrown/)  |
-
 >|[Dorje Kirsten](https://www.linkedin.com/in/dorjekirsten/) | [Github](https://github.com/dorjepadma)  | [LinkedIn](https://www.linkedin.com/in/dorjekirsten/)  |
 >|[James Eserjose](https://www.linkedin.com/in/jamesreserjose/) | [Github](https://github.com/ezjim)  | [LinkedIn](https://www.linkedin.com/in/jamesreserjose/)  |
 >|[Surelis Segarra](https://www.linkedin.com/in/surelis-segarra-bbbba3186/) | [Github](https://github.com/SuriSegarra)  | [LinkedIn](https://www.linkedin.com/in/surelis-segarra-bbbba3186/)  |
