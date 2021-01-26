@@ -221,6 +221,28 @@ ___
 ___
 ___
 
+### Libraryinth
+
+> Description 
+>> The Libraryinth is a simple multiplayer virtual, text-based game on interactive fiction. The user is able to interact with the game by typing commands that represent natural language through our language processing lexicon, and users are able to interact in a chat room and talk with other players in real-time.
+>> In our Libraryinth, we currently have four rooms accessible: the library itself, the horror room, the fantasy room, and the sci-fi room. The rooms are accessed in the game by the central room, the library, through books which transport them into another world where the real gameplay begins. When players complete the room, they are transported back to the library where they can then choose another book.
+>
+- [Live Site](https://libraryinth-spire.herokuapp.com/)
+- [Github Backend](https://github.com/MemoryOrganizer/memory-organizer-be)
+- [Github Frontend](https://github.com/MemoryOrganizer/memory-organizer-fe) 
+- [Organization](https://github.com/MemoryOrganizer)
+ 
+
+>| Name  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Erik Ford](https://www.linkedin.com/in/erik-ford-business/) | [Github](https://github.com/Morriden)  | [LinkedIn](https://www.linkedin.com/in/erik-ford-business/)  |
+>|  [Logan Scott](https://www.linkedin.com/in/logantscott/) | [Github](https://github.com/logantscott)  | [LinkedIn](https://www.linkedin.com/in/logantscott/)  |
+>|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
+>|  [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/) | [Github](https://github.com/PeepTheMoon)  | [LinkedIn](https://www.linkedin.com/in/rachelmdonahue/)  |
+
+___
+___
+
 ## Career Track Project 2
 ___
 
