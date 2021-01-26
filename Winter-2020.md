@@ -2,7 +2,22 @@
 ## Foundations 1
 ___
 
- ### Casino Del Corona
+### Alchimia
+
+> Description 
+>>Created in a one week sprint using vanilla Javascript, HTML/CSS and utilizing local storage. A tile based online board game. Score is kept based on how many and what kind of connections were made.
+>
+- [Live Site](https://alchimia-by-the-meeps.github.io/alchimia/)
+- [Github](https://github.com/Alchimia-by-the-meeps/alchimia)
+
+>| Contributing Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|[Dakota Druley](https://www.linkedin.com/in/dakota-druley/) | [Github](https://github.com/dakotadruley)  | [LinkedIn](https://www.linkedin.com/in/dakota-druley/)  |
+>|[Fiona Ochs](https://fionaochs.dev/) | [Github](https://github.com/fionaochs)  | [LinkedIn](https://www.linkedin.com/in/fionaochs/)  |
+>|[Hannah Riley](https://www.linkedin.com/in/hannah-m-riley/) | [Github](https://github.com/hannahriley33)  | [LinkedIn](https://www.linkedin.com/in/hannah-m-riley/)  |
+>|[Logan Scott](https://www.linkedin.com/in/logantscott/) | [Github](https://github.com/logantscott)  | [LinkedIn](https://www.linkedin.com/in/logantscott/)  |
+>|[Nathan Martel](https://www.linkedin.com/in/nathanmartel/) | [Github](https://github.com/SeHarlan)  | [LinkedIn](https://www.linkedin.com/in/nathanmartel/)  |
+>|[Scott Harlan](https://scottharlan.dev/) | [Github](https://github.com/SeHarlan)  | [LinkedIn](https://www.linkedin.com/in/scottharlan-pnw/)  |
 
 ___
 ___
@@ -10,12 +25,26 @@ ___
 ## Foundations 2
 ___
 
- ### Sew Organized
+### Bard of Avon
 
 > Description 
->>A code companion. Budding software developers often struggle with the learning process of code challenges. This learning platform combines resources, videos and documentation to help developers build a foundation. Users can not only practice from our library of code challenges, but they can also review past attempts at various problems. We invite you take the Alcherithm challenge; happy coding!
+>>A full-stack React app creating a virtual repository for storing thread based on color and serial number. Utilizes SQL, React, Express, and more
 >
-- [Live Site](https://bard-of-avon.herokuapp.com/login)
+- [Live Site](https://sew-organized.herokuapp.com/)
+- [Github Organization](https://github.com/Sew-Organized)
+
+>| Contributing Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+
+
+___
+___
+### Sew Organized
+
+> Description 
+>>A full-stack React app creating a virtual repository for storing thread based on color and serial number. Utilizes SQL, React, Express, and more
+>
+- [Live Site](https://sew-organized.herokuapp.com/)
 - [Github Organization](https://github.com/Sew-Organized)
 
 >| Contributing Team Members  | Github  | LinkedIn  |
@@ -24,9 +53,7 @@ ___
 >|[Dakota Druley](https://www.linkedin.com/in/dakota-druley/) | [Github](https://github.com/dakotadruley)  | [LinkedIn](https://www.linkedin.com/in/dakota-druley/)  |
 >|[Dannie Schumaker](http://www.dannieschumaker.com) | [Github](https://github.com/DannieSchu)  | [LinkedIn](https://www.linkedin.com/in/dannieschumaker/)  |
 >|[Fiona Ochs](https://fionaochs.dev/) | [Github](https://github.com/fionaochs)  | [LinkedIn](https://www.linkedin.com/in/fionaochs/)  |
->|[Janelle Mellor](https://www.linkedin.com/in/janellemellor/) | [Github](https://github.com/jennagoldman)  | [LinkedIn](https://www.linkedin.com/in/janellemellor/)  |
-
-
+>|[Janelle Mellor](https://www.linkedin.com/in/janellemellor/) | [Github](https://github.com/janellemellor)  | [LinkedIn](https://www.linkedin.com/in/janellemellor/)  |
 
 ___
 ___
@@ -47,7 +74,7 @@ ___
 >|---|---|---|
 >|[Dakota Druley](https://www.linkedin.com/in/dakota-druley/) | [Github](https://github.com/dakotadruley)  | [LinkedIn](https://www.linkedin.com/in/dakota-druley/)  |
 >|[Dannie Schumaker](http://www.dannieschumaker.com) | [Github](https://github.com/DannieSchu)  | [LinkedIn](https://www.linkedin.com/in/dannieschumaker/)  |
->|[Janelle Mellor](https://www.linkedin.com/in/janellemellor/) | [Github](https://github.com/jennagoldman)  | [LinkedIn](https://www.linkedin.com/in/janellemellor/)  |
+>|[Janelle Mellor](https://www.linkedin.com/in/janellemellor/) | [Github](https://github.com/janellemellor)  | [LinkedIn](https://www.linkedin.com/in/janellemellor/)  |
 >|[Mikey Romay](https://www.linkedin.com/in/michaelromay/) | [Github](https://github.com/mikeymasonic)  | [LinkedIn](https://www.linkedin.com/in/michaelromay/)  |
 >|[Will Piro](https://www.linkedin.com/in/willpiro/) | [Github](https://github.com/Shaka2Pass)  | [LinkedIn](https://www.linkedin.com/in/willpiro/)  |
 
@@ -73,7 +100,7 @@ ___
 >|---|---|---|
 >|[Dakota Druley](https://www.linkedin.com/in/dakota-druley/) | [Github](https://github.com/dakotadruley)  | [LinkedIn](https://www.linkedin.com/in/dakota-druley/)  |
 >|[Dannie Schumaker](http://www.dannieschumaker.com) | [Github](https://github.com/DannieSchu)  | [LinkedIn](https://www.linkedin.com/in/dannieschumaker/)  |
->|[Janelle Mellor](https://www.linkedin.com/in/janellemellor/) | [Github](https://github.com/jennagoldman)  | [LinkedIn](https://www.linkedin.com/in/janellemellor/)  |
+>|[Janelle Mellor](https://www.linkedin.com/in/janellemellor/) | [Github](https://github.com/janellemellor)  | [LinkedIn](https://www.linkedin.com/in/janellemellor/)  |
 >|[Mikey Romay](https://www.linkedin.com/in/michaelromay/) | [Github](https://github.com/mikeymasonic)  | [LinkedIn](https://www.linkedin.com/in/michaelromay/)  |
 >|[Will Piro](https://www.linkedin.com/in/willpiro/) | [Github](https://github.com/Shaka2Pass)  | [LinkedIn](https://www.linkedin.com/in/willpiro/)  |
 
