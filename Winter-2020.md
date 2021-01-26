@@ -80,7 +80,6 @@ ___
 
 >| Name  | Github  | LinkedIn  |
 >|---|---|---|
-
 >|[Anastasia Morozova](https://www.linkedin.com/in/morozova-anastasia/) | [Github](https://github.com/asiamorozova)  | [LinkedIn](https://www.linkedin.com/in/morozova-anastasia/)  |
 >|[Cody Brown](https://www.linkedin.com/in/codylylebrown/) | [Github](https://github.com/Cody2934)  | [LinkedIn](https://www.linkedin.com/in/codylylebrown/)  |
 
