@@ -1,7 +1,8 @@
-# This is a collection of the class projects for each cohort at [Alchemy Code Lab](https://www.alchemycodelab.com/).
-## Each cohort completes 4 projects by the time they graduate.
+# Alchemy Code Lab Foundations I, Foundations II, Career Track Mid and Career Track Final Projects
+## This is a collection of the class projects for each cohort at [Alchemy Code Lab](https://www.alchemycodelab.com/). 
+### Each cohort completes 4 projects by the time they graduate.
 
-### For each project, you will find information on:
+#### For each project, you will find information on:
 
 - The point of the program the application was made in.
 
@@ -21,4 +22,4 @@
     - Github
     - LinkedIn
 ___
-## We hope you enjoy seeing the exciting projects and accomplishments of students at Alchemy!
+### We hope you enjoy seeing the exciting projects and accomplishments of students at Alchemy!
