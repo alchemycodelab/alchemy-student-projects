@@ -1,6 +1,7 @@
 # Spring 2020 Cohort
-## Foundations 1
+## Foundations I
 ___
+First one week sprint, from concept through delivery, after week 3 in the program.  Focus was vanilla JS and teams built this working remotely.
 
  ### Casino Del Corona
 
@@ -23,7 +24,7 @@ ___
 ### City Hikes PDX
 
 > Description 
->> A pure JavaScript Application That shows gives the user hiking recommendations from Locations in Portland Or. persistent user singe-in on local storage
+>> A pure JavaScript Application That shows gives the user hiking recommendations from Locations in Portland, OR. 
 >
 
 - [Live Site](https://langstonbs.github.io/TerraFive)
@@ -74,10 +75,10 @@ ___
 >|  [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
 >|  [Max Lamb](https://www.linkedin.com/in/max-lamb/) | [Github](https://github.com/MaximusLamb)  | [LinkedIn](https://www.linkedin.com/in/max-lamb/)  |
 >|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
-
 ___
 
-## Foundations 2
+## Foundations II
+Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, MongoDB and RESTful API calls hitting a 3rd party API, on fully remote teams.
 ___
 
  ### Burning Suns
@@ -102,7 +103,7 @@ ___
  ### Fetch-ART
 
 > Description 
->> Full-stack application that is made for those seeking a meditative space to listen to calming music while favoriting images inspired by emotions.
+>> Full-stack application that is made for those seeking a meditative space to listen to calming music while choosing their favorite images that are inspired by our emotions.
 >
 - [Live Site](https://fetch-art.netlify.app/)
 - [Frontend Github](https://github.com/breeannb/fetch-art-fe ) 
@@ -142,7 +143,7 @@ ___
 
  ### Triple Jeopardy
 > Description 
->> Jeopardy Lite is based off of the long-running game show, Jeopardy! In a short 10-question for the Jeopardy fans out there!  
+>> Jeopardy Lite is based off of the long-running game show, Jeopardy! In a short 10-question quiz for the Jeopardy fans out there!  
 >
 - [Live Site](https://jeopardy-lite.netlify.app/)
 - [Frontend Github](https://github.com/triple-jeopardy/jeopardy-game-fe) 
@@ -156,9 +157,9 @@ ___
 >|  [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
 
 ___
-___
 
-## Career Track Project 1
+## Career Track Mid Projects
+Third projects one week sprint, from concept through delivery, after week 12 in the program.  A back-end focused app using Node, Express, MongoDB and RESTful API calls, on fully remote teams.
 ___
 
 ### Affirm.e
@@ -166,9 +167,8 @@ ___
 > Description 
 >> Affirm.e is a Twitter bot whose purpose is to bring you positive affirmations regularly throughout the day, so that you can practice long-term changes to your thought processes and your daily life.
 >
-- [Live Site](https://twitter.com/affirm_e)
-- [Github](https://github.com/Affirm-e/affirmations-project)
-- [Organization](https://github.com/Affirm-e)
+- [Twitter](https://twitter.com/affirm_e)
+- [Github Organization](https://github.com/Affirm-e)
  
 
 >| Contributing Team Members  | Github  | LinkedIn  |
@@ -184,7 +184,7 @@ ___
 ### Game_Reccs
 
 > Description 
->> A twitter bot for your one-stop-shop for game recommendations.
+>> A twitter bot for your one-stop-shop game recommendations.
 
 >
 - [Live Site](https://twitter.com/game_reccs)
@@ -196,6 +196,29 @@ ___
 >|  [Dan Bennington](https://www.linkedin.com/in/dan-bennington/) | [Github](https://github.com/dbennin125)  | [LinkedIn](https://www.linkedin.com/in/dan-bennington/)  |
 >|  [Jake Pendergraft](https://www.linkedin.com/in/jake-pendergraft/) | [Github](https://github.com/Jpendy)  | [LinkedIn](https://www.linkedin.com/in/jake-pendergraft/)  |
 >|  [Joey Leaptrott](https://github.com/JoLeaper) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
+
+___
+___
+
+### Libraryinth
+
+> Description 
+>> The Libraryinth is a simple multiplayer virtual, text-based game on interactive fiction. The user is able to interact with the game by typing commands that represent natural language through our language processing lexicon, and users are able to interact in a chat room and talk with other players in real-time.
+
+>> In our Libraryinth, we currently have four rooms accessible: the library itself, the horror room, the fantasy room, and the sci-fi room. The rooms are accessed in the game by the central room, the library, through books which transport them into another world where the real gameplay begins. When players complete the room, they are transported back to the library where they can then choose another book.
+>
+- [Live Site](https://libraryinth-spire.herokuapp.com/)
+- [Github Backend](https://github.com/MemoryOrganizer/memory-organizer-be)
+- [Github Frontend](https://github.com/MemoryOrganizer/memory-organizer-fe) 
+- [Organization](https://github.com/MemoryOrganizer)
+ 
+
+>| Contributing Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Erik Ford](https://www.linkedin.com/in/erik-ford-business/) | [Github](https://github.com/Morriden)  | [LinkedIn](https://www.linkedin.com/in/erik-ford-business/)  |
+>|  [Logan Scott](https://www.linkedin.com/in/logantscott/) | [Github](https://github.com/logantscott)  | [LinkedIn](https://www.linkedin.com/in/logantscott/)  |
+>|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
+>|  [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/) | [Github](https://github.com/PeepTheMoon)  | [LinkedIn](https://www.linkedin.com/in/rachelmdonahue/)  |
 
 ___
 ___
@@ -219,31 +242,9 @@ ___
 >|  [Nikki Kiga](https://www.linkedin.com/in/nikkikiga) | [Github](https://github.com/nikki-kiga)  | [LinkedIn](https://www.linkedin.com/in/nikkikiga)  |
 
 ___
-___
 
-### Libraryinth
-
-> Description 
->> The Libraryinth is a simple multiplayer virtual, text-based game on interactive fiction. The user is able to interact with the game by typing commands that represent natural language through our language processing lexicon, and users are able to interact in a chat room and talk with other players in real-time.
->> In our Libraryinth, we currently have four rooms accessible: the library itself, the horror room, the fantasy room, and the sci-fi room. The rooms are accessed in the game by the central room, the library, through books which transport them into another world where the real gameplay begins. When players complete the room, they are transported back to the library where they can then choose another book.
->
-- [Live Site](https://libraryinth-spire.herokuapp.com/)
-- [Github Backend](https://github.com/MemoryOrganizer/memory-organizer-be)
-- [Github Frontend](https://github.com/MemoryOrganizer/memory-organizer-fe) 
-- [Organization](https://github.com/MemoryOrganizer)
- 
-
->| Contributing Team Members  | Github  | LinkedIn  |
->|---|---|---|
->|  [Erik Ford](https://www.linkedin.com/in/erik-ford-business/) | [Github](https://github.com/Morriden)  | [LinkedIn](https://www.linkedin.com/in/erik-ford-business/)  |
->|  [Logan Scott](https://www.linkedin.com/in/logantscott/) | [Github](https://github.com/logantscott)  | [LinkedIn](https://www.linkedin.com/in/logantscott/)  |
->|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
->|  [Rachel Donahue](https://www.linkedin.com/in/rachelmdonahue/) | [Github](https://github.com/PeepTheMoon)  | [LinkedIn](https://www.linkedin.com/in/rachelmdonahue/)  |
-
-___
-___
-
-## Career Track Project 2
+## Career Track Final Projects
+Fourth and final projects made in a one week sprint, from concept through delivery.  A fullstack application using Node, Express, MongoDB and RESTful API calls, on fully remote teams.
 ___
 
 ### DropZone
@@ -302,4 +303,3 @@ ___
 >|  [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/) | [Github](https://github.com/jaimekinsley)   | [LinkedIn](https://www.linkedin.com/in/jaimelyn/)   |
 >|  [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
 >|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
-
