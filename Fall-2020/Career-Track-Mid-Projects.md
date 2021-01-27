@@ -136,3 +136,24 @@ ___
 >|  Sjaan Hydrick | [Github](https://github.com/SjaanHydrick)   | [LinkedIn](https://www.linkedin.com/in/sjaan-hydrick/)   |
 ___
 ___
+### Mind-Crafting
+
+> Description 
+>>Play mini games in Minecraft with a text-based environment in Slack!  Built using the Slack web API, Mineflayer and Prismarine viewer.
+
+* [Organization](https://github.com/Mind-Crafting)
+
+* [Repo-BE](https://github.com/Mind-Crafting/mind-crafting)
+
+* [Repo-FE](https://github.com/Mind-Crafting/mind-crafting-FE)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Sam Formichella |  [Github](https://github.com/sformichella)  |  [LinkedIn](https://www.linkedin.com/in/sam-formichella/)  |
+>|  Ryan Carreras | [Github](https://github.com/ryanleviathan)   | [LinkedIn](https://www.linkedin.com/in/ryancarreras/)   |
+>| Ray Sakultarawattn |  [Github](https://github.com/rsakultarawattn)  |  [LinkedIn](https://www.linkedin.com/in/raysakultarawattn/)  |
+>| Donny Vu |  [Github](https://github.com/DonnyLVu)  |  [LinkedIn](https://www.linkedin.com/in/donnylvu/)  |
+
+___
+___
