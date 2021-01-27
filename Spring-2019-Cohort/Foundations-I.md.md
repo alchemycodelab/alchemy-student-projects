@@ -1,7 +1,7 @@
 # Alchemy Class Projects - Spring 2019 Cohort
 
 ## Foundations I
-First one week sprint, from concept through delivery, after week 3 in the program.  Focus was vanilla JS.
+First one week sprint, from concept through delivery, after week 3 in the program.  Focus was vanilla JS, HTML and CSS.
 ___
 
 ### Alchemy Type
@@ -64,3 +64,5 @@ ___
 
 ___
 ___
+
+missing 9 students
