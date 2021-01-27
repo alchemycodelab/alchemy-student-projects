@@ -52,10 +52,10 @@ ___
 
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|[Dave Trost](https://www.linkedin.com/in/abbeymasters/) | [Github](https://github.com/DaveTrost)  | [LinkedIn](https://www.linkedin.com/in/abbeymasters/)  |
+>|[Dave Trost](https://www.linkedin.com/in/dave-trost/) | [Github](https://github.com/DaveTrost)  | [LinkedIn](https://www.linkedin.com/in/dave-trost/)  |
 >|[Joe Klause](https://www.linkedin.com/in/joe-klause/) | [Github](https://github.com/JKlause)  | [LinkedIn](https://www.linkedin.com/in/joe-klause/)  |
 >|[Phil Fitch](https://www.linkedin.com/in/philfitch/) | [Github](https://github.com/PhilFitch)  | [LinkedIn](https://www.linkedin.com/in/philfitch/)  |
->|[Sam Jespersen](https://www.linkedin.com/in/sam-mclain-jespersen/) | [Github](https://github.com/samjespersen)  | [LinkedIn](https://www.linkedin.com/in/sam-mclain-jespersen/)  |
+>|[Sam Jespersen](https://samjespersen.com/) | [Github](https://github.com/samjespersen)  | [LinkedIn](https://www.linkedin.com/in/sam-mclain-jespersen/)  |
 
 ___
 ___
@@ -153,7 +153,7 @@ ___
 >|[Angela Vawser](http://hello-jelly.com/) | [Github](https://github.com/hello-jelly)  | [LinkedIn](https://www.linkedin.com/in/angela-vawser/)  |
 >|[Dylan Corvidae](https://www.linkedin.com/in/dylancorvidae/) | [Github](https://github.com/dylancorvidae)  | [LinkedIn](https://www.linkedin.com/in/dylancorvidae/)  |
 >|[Kamran Ali](https://www.linkedin.com/in/kamran-g-ali/) | [Github](https://github.com/kgali21)  | [LinkedIn](https://www.linkedin.com/in/kamran-g-ali/)  |
->|[Sam Jespersen](https://www.linkedin.com/in/sam-mclain-jespersen/) | [Github](https://github.com/samjespersen)  | [LinkedIn](https://www.linkedin.com/in/sam-mclain-jespersen/)  |
+>|[Sam Jespersen](https://samjespersen.com/) | [Github](https://github.com/samjespersen)  | [LinkedIn](https://www.linkedin.com/in/sam-mclain-jespersen/)  |
 
 ___
 ___
@@ -188,7 +188,7 @@ ___
 
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|[Dave Trost](https://www.linkedin.com/in/abbeymasters/) | [Github](https://github.com/DaveTrost)  | [LinkedIn](https://www.linkedin.com/in/abbeymasters/)  |
+>|[Dave Trost](https://www.linkedin.com/in/dave-trost/) | [Github](https://github.com/DaveTrost)  | [LinkedIn](https://www.linkedin.com/in/dave-trost/)  |
 >|[Donna Lambert](https://www.linkedin.com/in/dlambertpdx/) | [Github](https://github.com/sanvean74)  | [LinkedIn](https://www.linkedin.com/in/dlambertpdx/)  |
 >|[John Nelson](https://www.linkedin.com/in/johnnelson4850/) | [Github](https://github.com/John4850)  | [LinkedIn](https://www.linkedin.com/in/johnnelson4850/)  |
 
@@ -249,10 +249,10 @@ ___
 
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|[Dave Trost](https://www.linkedin.com/in/abbeymasters/) | [Github](https://github.com/DaveTrost)  | [LinkedIn](https://www.linkedin.com/in/abbeymasters/)  |
+>|[Dave Trost](https://www.linkedin.com/in/dave-trost/) | [Github](https://github.com/DaveTrost)  | [LinkedIn](https://www.linkedin.com/in/dave-trost/)  |
 >|[Jose Ojeda](https://www.linkedin.com/in/jose-a-ojeda/) | [Github](https://github.com/jaojeda)  | [LinkedIn](https://www.linkedin.com/in/jose-a-ojeda/)  |
 >|[Luke Donahue](https://www.linkedin.com/in/lukedonahue/) | [Github](https://github.com/Luke9389)  | [LinkedIn](https://www.linkedin.com/in/lukedonahue/)  |
->|[Sam Jespersen](https://www.linkedin.com/in/sam-mclain-jespersen/) | [Github](https://github.com/samjespersen)  | [LinkedIn](https://www.linkedin.com/in/sam-mclain-jespersen/)  |
+>|[Sam Jespersen](https://samjespersen.com/) | [Github](https://github.com/samjespersen)  | [LinkedIn](https://www.linkedin.com/in/sam-mclain-jespersen/)  |
 
 ___
 ___
@@ -263,7 +263,7 @@ ___
 >> A vocabulary smartifier. Backend express server integrated with the Datamuse API and an Inquirer CLI frontend. Choose from an assortment of artisan filters to make your sentences "SMRT-ter".
 >
 
-- [Front-end](http://xyz.com/)(when applicable)
+- [Front End](http://xyz.com/) (when applicable)
 - [Github](https://github.com/SMRTbot/smrtbot)
 
 >| Contributing Team Members  | Github  | LinkedIn  |
@@ -293,7 +293,7 @@ ___
 >|[Joe Klause](https://www.linkedin.com/in/joe-klause/) | [Github](https://github.com/JKlause)  | [LinkedIn](https://www.linkedin.com/in/joe-klause/)  |
 >|[Jose Ojeda](https://www.linkedin.com/in/jose-a-ojeda/) | [Github](https://github.com/jaojeda)  | [LinkedIn](https://www.linkedin.com/in/jose-a-ojeda/)  |
 >|[Kamran Ali](https://www.linkedin.com/in/kamran-g-ali/) | [Github](https://github.com/kgali21)  | [LinkedIn](https://www.linkedin.com/in/kamran-g-ali/)  |
->|[Sam Jespersen](https://www.linkedin.com/in/sam-mclain-jespersen/) | [Github](https://github.com/samjespersen)  | [LinkedIn](https://www.linkedin.com/in/sam-mclain-jespersen/)  |
+>|[Sam Jespersen](https://samjespersen.com/) | [Github](https://github.com/samjespersen)  | [LinkedIn](https://www.linkedin.com/in/sam-mclain-jespersen/)  |
 
 ___
 ___
@@ -367,5 +367,5 @@ ___
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|[Abbey Masters](https://www.linkedin.com/in/abbeymasters/) | [Github](https://github.com/abbeymasters)  | [LinkedIn](https://www.linkedin.com/in/abbeymasters/)  |
->|[Dave Trost](https://www.linkedin.com/in/abbeymasters/) | [Github](https://github.com/DaveTrost)  | [LinkedIn](https://www.linkedin.com/in/abbeymasters/)  |
+>|[Dave Trost](https://www.linkedin.com/in/dave-trost/) | [Github](https://github.com/DaveTrost)  | [LinkedIn](https://www.linkedin.com/in/dave-trost/)  |
 >|[Maeve Griffin](https://www.linkedin.com/in/maeve-anne-griffin/) | [Github](https://github.com/adoxic)  | [LinkedIn](https://www.linkedin.com/in/maeve-anne-griffin/)  |
