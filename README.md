@@ -3,7 +3,7 @@ Welcome to [Alchemy Code Lab](https://www.alchemycodelab.com/)! This is a total 
 
 Our emphasis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. As the only engineering education in town that serves Portland and Portland only, combined with in-person training by experienced senior software developers, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve Portland's economy and community through the companies they go to work for.  
 
-## Each cohort completes 4 team-based projects by the time they graduate.
+### Each cohort completes 4 team-based projects by the time they graduate.
 
 ### Below is an overview of the apps that our students have presented, the team contributors, and contact information. 
 
@@ -23,5 +23,7 @@ Our emphasis on process, regular testing and immersive lab sessions allow our gr
   - Portfolio site (if applicable)
   - Github
   - LinkedIn
+
+**Please note, that while we try to keep the most up to date with project links and contact information, some projects or links may be outdated.  Specifically, new updates to MongoDB may not have been changed on the personal projects themselves, and will need to be resolved with the team members of that project. We apologize for any inconvenience.** 
 ___
 ## We hope you enjoy seeing the exciting projects and accomplishments of students at Alchemy!
