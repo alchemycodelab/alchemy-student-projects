@@ -26,3 +26,22 @@ ___
 
 ___
 ___
+
+### Family Recipes
+
+> Description 
+>>Moddo is an app created by Vasily Markov, Jon Forney, Danny Suarez, Alex Ramirez de Cruz, and Emily Ford. It was created as a space to start your day, receive a daily random motto to inpire you, and keep track of your lists and tasks.
+
+* [Organization](https://github.com/familyrecipes)
+
+* [Repo-FE](https://github.com/familyrecipes/https-familyrecipes.github.io)
+
+* [Deployed Site](https://optimistic-panini-e9191b.netlify.com/auth.html)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+
+
+___
+___
