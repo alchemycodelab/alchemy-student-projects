@@ -17,6 +17,8 @@ ___
 
 * [Deployed Site](https://sharp-agnesi-8efe29.netlify.app/)
 
+* [Backend Hosting](https://serene-temple-06405.herokuapp.com/)
+
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -41,6 +43,8 @@ ___
 
 * [Deployed Site](https://card-coven2020.netlify.app/)
 
+* [Backend Hosting](https://card-coven-back-end-2020.herokuapp.com/)
+
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -64,6 +68,8 @@ ___
 
 * [Deployed Site](https://alchezoomy.netlify.app/)
 
+* [Backend Hosting](https://alchezoomy.herokuapp.com/)
+
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -72,6 +78,54 @@ ___
 >| Evan Finkelstein |  [Github](https://github.com/Evan-Finkelstein)  |  [LinkedIn](https://www.linkedin.com/in/evan-finkelstein91/)  |
 >| [Paul Stevens](https://paulstevens.dev/) |  [Github](https://github.com/Protopaco)  |  [LinkedIn](https://www.linkedin.com/in/paul-stevens-dev/)  |
 >|  Sjaan Hydrick | [Github](https://github.com/SjaanHydrick)   | [LinkedIn](https://www.linkedin.com/in/sjaan-hydrick/)   |
+
+___
+___
+### Git There
+
+> Description 
+>>The application will display locations of scooters, bikes, buses, and trains in Portland, OR based on user input location. Requires login/sign-up for use. Log in will save user input locations to favorites for fast retrieval.  Built using ReactJS, NodeJS, and PostgreSQL.
+
+* [Organization](https://github.com/gitThere-API)
+
+* [Repo-FE](https://github.com/gitThere-API/gitthere-api-fe)
+
+* [Repo-BE](https://github.com/gitThere-API/gitthere-api-be)
+
+* [Deployed Site](https://git-there-api.netlify.app/)
+
+* [Backend Hosting](https://desolate-bayou-65072.herokuapp.com/)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Shane Upchurch](https://shane-upchurch.netlify.app/)| [Github](https://github.com/ShaneUP1)   | [LinkedIn](https://www.linkedin.com/in/shaneupchurch/)   |
+>|  Perry Sittser | [Github](https://github.com/sittserp)   | [LinkedIn](https://www.linkedin.com/in/sittserp/)   |
+>| Erik Graciosa |  [Github](https://github.com/ErikGraciosa)  |  [LinkedIn](https://www.linkedin.com/in/erikgraciosa/)  |
+
+___
+___
+### Gather
+
+> Description 
+>>Gather is a recipe application that allows users to browse, save recipes and contribute to food events with friends and family. Created in a 5 day sprint.  Built using ReactJS, NodeJS, and PostgreSQL.
+
+* [Organization](https://github.com/rumham-gather)
+
+* [Repo-FE](https://github.com/rumham-gather/front-end)
+
+* [Repo-BE](https://github.com/rumham-gather/back-end)
+
+* [Deployed Site](https://vigorous-booth-3b4531.netlify.app/)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
+>| Katie Jones |  [Github](https://github.com/katiejonesyo)  |  [LinkedIn](https://www.linkedin.com/in/katiejonesyo/)  |
+>| Rosalie Lee-Washington |  [Github](https://github.com/rosalie337)  |  [LinkedIn](https://www.linkedin.com/in/rosalielee/)  |
+>|  [Jeff Irvine](www.Jeffirvine.dev)| [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
+>| Sydney James |  [Github](https://github.com/scjam)  |  [LinkedIn](https://www.linkedin.com/in/sydjames/)  |
 
 ___
 ___
