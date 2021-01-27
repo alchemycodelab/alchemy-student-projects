@@ -115,18 +115,24 @@ ___
 >| Erik Graciosa |  [Github](https://github.com/ErikGraciosa)  |  [LinkedIn](https://www.linkedin.com/in/erikgraciosa/)  |
 ___
 ___
-### 
+### Petreon
 
 > Description 
->>Realo is a web scraping app that sources data from Zillow to send text alerts to users when new listings go live. This application utilizes Cheerio to parse HTML, Nodemailer to send SMS via email, Pug for server-side rendering, and Bcrypt authentication.
+>>Petreon is a full-stack application where pet owners can showcase their pets by posting images, videos, and/or blogs while soliciting donations from followers. Users can choose pets to follow and curate their dash as well as like and comment on posts they they enjoy.  This app was built using React, AWS-SDK, Multer, Passport, and Google O-Auth.
 
-* [Organization](https://github.com/ET-Phone-Home-Alchemy)
+* [Organization](https://github.com/Alchemy-Petreon)
 
-* [Repo-BE](https://github.com/ET-Phone-Home-Alchemy/realo-app-backend)
+* [Repo-BE](https://github.com/Alchemy-Petreon/Petreon-Backend)
+
+* [Repo-FE](https://github.com/Alchemy-Petreon/Petreon-Frontend)
+
+* [Deployed Site](https://petreon.netlify.app/)
 
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
-
+>| Evan Finkelstein |  [Github](https://github.com/Evan-Finkelstein)  |  [LinkedIn](https://www.linkedin.com/in/evan-finkelstein91/)  |
+>| [Paul Stevens](https://paulstevens.dev/) |  [Github](https://github.com/Protopaco)  |  [LinkedIn](https://www.linkedin.com/in/paul-stevens-dev/)  |
+>|  Sjaan Hydrick | [Github](https://github.com/SjaanHydrick)   | [LinkedIn](https://www.linkedin.com/in/sjaan-hydrick/)   |
 ___
 ___
