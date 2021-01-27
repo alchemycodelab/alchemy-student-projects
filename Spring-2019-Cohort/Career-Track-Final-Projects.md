@@ -95,3 +95,25 @@ ___
 
 ___
 ___
+### ArtAround
+
+> Description 
+>>ArtAround is a social media platform for artists and galleries, helping both to connect with each other. Our app helps break down traditional barriers artists face while making it easier for new galleries to discover new artistic talent.  Built using Google Cloud Storage and Multer.
+
+* [Organization](https://github.com/ArtAround-Social)
+
+* [Repo-FE](https://github.com/ArtAround-Social/client-artaround)
+
+* [Repo-BE](https://github.com/ArtAround-Social/server-artaround)
+
+* [Deployed Site](https://serene-williams-6f2fcb.netlify.com/)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   |
+>|  [Jon Forney](https://www.jonforney.com/) | [Github](https://github.com/MustardJoe)   | [LinkedIn](https://www.linkedin.com/in/jon-forney/)   |
+>|  Vasily Markov | [Github](https://github.com/Vasily93)   | [LinkedIn](https://www.linkedin.com/in/vasily-markov/)   |
+
+___
+___

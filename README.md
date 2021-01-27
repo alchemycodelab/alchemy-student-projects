@@ -22,3 +22,5 @@
     - LinkedIn
 ___
 ## We hope you enjoy seeing the exciting projects and accomplishments of students at Alchemy!
+
+If you have questions about the program or want to talk about hiring one of our grads, please connect with Shannon Rasimas at shannon@alchemycodelab.com!
