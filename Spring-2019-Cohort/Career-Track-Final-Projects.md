@@ -50,3 +50,26 @@ ___
 
 ___
 ___
+### Gyst
+
+> Description 
+>>Fullstack habit tracking app that allows users to create, update, and delete habits, set time-sensitive goals for each habit, track progress over time, and add comments every time they make progress. Created using MongoDB, Express, React & Redux, and Node, designed for mobile devices.
+
+* [Organization](https://github.com/DNDL)
+
+* [Repo-FE](https://github.com/DNDL/GYST-client)
+
+* [Repo-BE](https://github.com/DNDL/GYST-server)
+
+* [Deployed Site](https://www.gyst.dev/)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Lili Boxer](http://www.liliboxer.com/) | [Github](https://github.com/liliboxer)   | [LinkedIn](https://www.linkedin.com/in/lili-boxer/)   |
+>|  Dirt Deodara | [Github](https://github.com/DirtDeodara)   | [LinkedIn](https://www.linkedin.com/in/dirtdeodara/)   |
+>|  [Danny Hogan](http://www.dannyhogan.dev/) | [Github](https://github.com/dannyhogan)   | [LinkedIn](https://www.linkedin.com/in/danny-hogan/)   |
+>|  Noah Puckett | [Github](https://github.com/noah-puckett)   | [LinkedIn](https://www.linkedin.com/in/noahingrampuckett/)   |
+
+___
+___
