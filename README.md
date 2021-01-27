@@ -1,58 +1,24 @@
-<!-- Below is the template to be used for creating consistent information for each project week in each cohort.  Provide as much information as is available.  
+# This is a collection of the class projects for each cohort at [Alchemy Code Lab](https://www.alchemycodelab.com/).
+## Each cohort completes 4 projects by the time they graduate.
 
-Edit link syntax when no link is available, as in the case of students who don't have a portfolio site yet or if there is no back-end repo.  
+### For each project, you will find information on:
 
-Include contextual information for the learning objectives represented in the projects for their point in the program.  
+- The point of the program the application was made in.
 
-Include any new tech/libraries used in the 'Description' field for each application. -->
+- A high-level overview of the learning objectives taught in that portion of the program. 
 
-# Alchemy Class Projects - Cohort 
+- Each application made during that week, including the following. 
 
-## Project week
-Context, for example: First one week sprint, from concept through delivery, after week 4 in the program.  Focus was vanilla JS and teams built this working remotely.
+  - Name and description of the app, complete with languages, libraries, and packages used.
+
+  - Links to:
+    - Repo(s)
+    - Deployed site
+    - Video presentation
+
+  - Contributing team members with links to their:
+    - Portfolio site (if applicable)
+    - Github
+    - LinkedIn
 ___
-
- ### Name of app
-
-> Description 
->>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-* [Repo FE](Link)
-
-* [Repo BE](Link)
-
-* [Deployed Site](Link)
-
-* [Video Presentation](Link)
-
->
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->|  [Student Name](Link-to-Portfolio) | [Github](Link)   | [LinkedIn](Link)   |
->|  Student Name | [Github](Link)   | [LinkedIn](Link)   |
-
-
-___
-___
-
-  ### Name of app
-
-> Description 
->>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-* [Repo FE](Link)
-
-* [Repo BE](Link)
-
-* [Deployed Site](Link)
-
-* [Video Presentation](Link)
-
->
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->|  [Student Name](Link-to-Portfolio) | [Github](Link)   | [LinkedIn](Link)   |
->|  Student Name | [Github](Link)   | [LinkedIn](Link)   |
-
-___
-___
+## We hope you enjoy seeing the exciting projects and accomplishments of students at Alchemy!
