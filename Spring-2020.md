@@ -8,6 +8,7 @@ First one week sprint, from concept through delivery, after week 3 in the progra
 > Description 
 >> A fun game that brings the casino to your home, especially when you are quarantining during this crazy year.  
 >
+
 - [Live Site](https://four-of-a-kind.github.io/casino-app/slots/)
 - [Github](https://github.com/Four-of-a-kind)
 
@@ -65,6 +66,7 @@ ___
 > Description 
 >>Turn-based, two-player fighting game built in vanilla HTML, CSS, and JavaScript.
 >
+
 - [Live Site](https://team-jhemm-fighters.github.io/jhemm-fighters/)
 - [Github](https://github.com/team-jhemm-fighters/jhemm-fighters/)
 
@@ -85,11 +87,11 @@ ___
 > Description 
 >> Burning Suns is a simple web app for the cosmically curious, designed and built over a five-day sprint as a part of Alchemy Code Lab's curriculum.  This app was built in Node and React, with heavy dependence on the Material UI library for front-end rendering.
 >
+
 - [Live Site](https://burningsuns.herokuapp.com/) 
 - [Frontend Github](https://github.com/langstonBS/burning-suns-fr)
 - [Backend Github](https://github.com/PeepTheMoon/burning-suns-be)
 
- 
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/) | [Github](https://github.com/langstonBS)  | [LinkedIn](https://www.linkedin.com/in/langston-beckwith-stanley/)  |
@@ -105,13 +107,13 @@ ___
 > Description 
 >> Full-stack application that is made for those seeking a meditative space to listen to calming music while choosing their favorite images that are inspired by our emotions.
 >
+
 - [Live Site](https://fetch-art.netlify.app/)
 - [Frontend Github](https://github.com/breeannb/fetch-art-fe ) 
 - [Backend Github](https://github.com/jaimekinsley/fetch-art-be)
 - [Heroku Backend](https://nameless-hollows-93608.herokuapp.com)
 - [Organization](https://github.com/fetch-ART)
  
-
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/) | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
@@ -126,12 +128,12 @@ ___
 > Description 
 >> A roll-based space game that involves exploring randomly generated planets and encountering different scenarios.
 >
+
 - [Heroku](https://lit-depths-90375.herokuapp.com/) 
 - [Frontend Github](https://github.com/3rd-git-from-the-hub/space-game-fe) 
 - [Backend Github](https://github.com/3rd-git-from-the-hub/space-game-backend)
 - [Organization](https://github.com/3rd-git-from-the-hub)
 
- 
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Erik Ford](https://www.linkedin.com/in/erik-ford-business/) | [Github](https://github.com/Morriden)  | [LinkedIn](https://www.linkedin.com/in/erik-ford-business/)  |
@@ -145,6 +147,7 @@ ___
 > Description 
 >> Jeopardy Lite is based off of the long-running game show, Jeopardy! In a short 10-question quiz for the Jeopardy fans out there!  
 >
+
 - [Live Site](https://jeopardy-lite.netlify.app/)
 - [Frontend Github](https://github.com/triple-jeopardy/jeopardy-game-fe) 
 - [Backend Github](https://github.com/triple-jeopardy/jeopardy-game-be)
@@ -167,10 +170,10 @@ ___
 > Description 
 >> Affirm.e is a Twitter bot whose purpose is to bring you positive affirmations regularly throughout the day, so that you can practice long-term changes to your thought processes and your daily life.
 >
+
 - [Twitter](https://twitter.com/affirm_e)
 - [Github Organization](https://github.com/Affirm-e)
  
-
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/) | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
@@ -185,12 +188,11 @@ ___
 
 > Description 
 >> A twitter bot for your one-stop-shop game recommendations.
-
 >
+
 - [Live Site](https://twitter.com/game_reccs)
 - [Github](https://github.com/flight-scraper/game-scraping-tool) 
  
-
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Dan Bennington](https://www.linkedin.com/in/dan-bennington/) | [Github](https://github.com/dbennin125)  | [LinkedIn](https://www.linkedin.com/in/dan-bennington/)  |
@@ -207,12 +209,12 @@ ___
 
 >> In our Libraryinth, we currently have four rooms accessible: the library itself, the horror room, the fantasy room, and the sci-fi room. The rooms are accessed in the game by the central room, the library, through books which transport them into another world where the real gameplay begins. When players complete the room, they are transported back to the library where they can then choose another book.
 >
+
 - [Live Site](https://libraryinth-spire.herokuapp.com/)
 - [Github Backend](https://github.com/MemoryOrganizer/memory-organizer-be)
 - [Github Frontend](https://github.com/MemoryOrganizer/memory-organizer-fe) 
 - [Organization](https://github.com/MemoryOrganizer)
  
-
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Erik Ford](https://www.linkedin.com/in/erik-ford-business/) | [Github](https://github.com/Morriden)  | [LinkedIn](https://www.linkedin.com/in/erik-ford-business/)  |
@@ -228,12 +230,12 @@ ___
 > Description 
 >> Full-stack application that provides a repository for users to upload photos and notes about their memories. All photos utilize the Google Cloud Vision API to auto-tag the images for increased searchability.
 >
+
 - [Live Site](https://memory-organizer.netlify.app/)
 - [Github Backend](https://github.com/MemoryOrganizer/memory-organizer-be)
 - [Github Frontend](https://github.com/MemoryOrganizer/memory-organizer-fe) 
 - [Organization](https://github.com/MemoryOrganizer)
  
-
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Hunter Danielson](https://hdanielson.com/) | [Github](https://github.com/hunterdanielson)   | [LinkedIn](https://www.linkedin.com/in/hunter-danielson/)   |
@@ -252,6 +254,7 @@ ___
 > Description 
 >>DropZone allows users to get straight to the action of earning in game rewards by watching their favorite streamers live on Twitch. Cut through the hassle of having to search through hundreds of games and thousands of streamers and get straight to earning drops!
 >
+
 - [Live Site](https://thedropzone.netlify.app/)
 - [Github Front End](https://github.com/DropTopIncorporated/DropZoneFE/tree/master)
 - [Github Back End](https://github.com/DropTopIncorporated/DropZoneBE/tree/master) 
