@@ -1,4 +1,4 @@
-# Alchemy Class Projects - Fall 2020
+# Alchemy Class Projects - Fall 2020 Cohort
 
 ## Foundations I
 First one week sprint, from concept through delivery, after week 3 in the program.  Focus was vanilla JS and teams built this working remotely.
