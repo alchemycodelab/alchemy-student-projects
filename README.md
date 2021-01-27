@@ -1,6 +1,15 @@
+<!-- Below is the template to be used for creating consistent information for each project week in each cohort.  Provide as much information as is available.  
+
+Edit link syntax when no link is available, as in the case of students who don't have a portfolio site yet or if there is no back-end repo.  
+
+Include contextual information for the learning objectives represented in the projects for their point in the program.  
+
+Include any new tech/libraries used in the 'Description' field for each application. -->
+
 # Alchemy Class Projects - Cohort 
 
 ## Project week
+Context at the top, for example: First one week sprint, from concept through delivery, after week 4 in the program.  Focus was vanilla JS and teams built this working remotely.
 ___
 
  ### Name of app
@@ -20,7 +29,7 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Student Name](Link-to-Portfolio) | [Github](Link)   | [LinkedIn](Link)   |
->|  [Student Name](Link-to-Portfolio) | [Github](Link)   | [LinkedIn](Link)   |
+>|  Student Name | [Github](Link)   | [LinkedIn](Link)   |
 
 
 ___
@@ -43,7 +52,7 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Student Name](Link-to-Portfolio) | [Github](Link)   | [LinkedIn](Link)   |
->|  [Student Name](Link-to-Portfolio) | [Github](Link)   | [LinkedIn](Link)   |
+>|  Student Name | [Github](Link)   | [LinkedIn](Link)   |
 
 ___
 ___
