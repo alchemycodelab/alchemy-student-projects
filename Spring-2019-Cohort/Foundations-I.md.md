@@ -44,3 +44,23 @@ ___
 
 ___
 ___
+### Karie Mondo Game
+
+> Description 
+>>A game we created based on the Marie Kondo movement. Tech stack: HTML, CSS, JS.
+
+* [Organization](https://github.com/team-tidy)
+
+* [Repo-FE](https://github.com/team-tidy/Karie-Mondo)
+
+* [Deployed Site](https://team-tidy.github.io/Karie-Mondo/)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Alex Ramirez de Cruz](https://alexramirezdecruz.com/) | [Github](https://github.com/aramirezdecruz3148)   | [LinkedIn](https://www.linkedin.com/in/alex-ramirez-de-cruz/)   |
+>|  [Susan Puckett](susanpuckett.dev) | [Github](https://github.com/sepuckett86)   | [LinkedIn](https://www.linkedin.com/in/susanpuckett/)   |
+>|  Erin Gurley | [Github](https://github.com/eringurley)   | [LinkedIn](https://www.linkedin.com/in/erin-gurley/)   |
+
+___
+___
