@@ -1,6 +1,7 @@
 # Spring 2020 Cohort
-## Foundations 1
+## Foundations I
 ___
+First one week sprint, from concept through delivery, after week 3 in the program.  Focus was vanilla JS and teams built this working remotely.
 
  ### Casino Del Corona
 
@@ -74,10 +75,10 @@ ___
 >|  [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
 >|  [Max Lamb](https://www.linkedin.com/in/max-lamb/) | [Github](https://github.com/MaximusLamb)  | [LinkedIn](https://www.linkedin.com/in/max-lamb/)  |
 >|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
-
 ___
 
-## Foundations 2
+## Foundations II
+Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, MongoDB and RESTful API calls hitting a 3rd party API, on fully remote teams.
 ___
 
  ### Burning Suns
@@ -156,9 +157,9 @@ ___
 >|  [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
 
 ___
-___
 
-## Career Track Project 1
+## Career Track Mid Projects
+Third projects one week sprint, from concept through delivery, after week 12 in the program.  A back-end focused app using Node, Express, MongoDB and RESTful API calls, on fully remote teams.
 ___
 
 ### Affirm.e
@@ -241,9 +242,9 @@ ___
 >|  [Nikki Kiga](https://www.linkedin.com/in/nikkikiga) | [Github](https://github.com/nikki-kiga)  | [LinkedIn](https://www.linkedin.com/in/nikkikiga)  |
 
 ___
-___
 
-## Career Track Project 2
+## Career Track Final Projects
+Fourth and final projects made in a one week sprint, from concept through delivery.  A fullstack application using Node, Express, MongoDB and RESTful API calls, on fully remote teams.
 ___
 
 ### DropZone
@@ -302,4 +303,3 @@ ___
 >|  [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/) | [Github](https://github.com/jaimekinsley)   | [LinkedIn](https://www.linkedin.com/in/jaimelyn/)   |
 >|  [Joey Leaptrott](https://www.linkedin.com/in/joey-leaptrott/) | [Github](https://github.com/JoLeaper)   | [LinkedIn](https://www.linkedin.com/in/joey-leaptrott/)   |
 >|  [Melissa Smoot](https://smoot.dog/) | [Github](https://github.com/smooto)   | [LinkedIn](https://www.linkedin.com/in/smooto/)   |
-
