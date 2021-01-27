@@ -24,4 +24,23 @@ ___
 
 ___
 ___
+### Símon
 
+> Description 
+>>A wonderfully relaxing memory/ matching game built with vanilla javascript, html and css.
+
+* [Organization](https://github.com/simon-gang)
+
+* [Repo-FE](https://github.com/simon-gang/simon-gang.github.io)
+
+* [Deployed Site](https://simon-gang.github.io/)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Danny Suarez](http://www.dannycodes.io/) | [Github](https://github.com/DannySuarez)   | [LinkedIn](https://www.linkedin.com/in/alex-ramirez-de-cruz/)   |
+>| Carlos Us Santiago |  [Github](https://github.com/carlosus)  |  [LinkedIn](https://www.linkedin.com/in/carlosuss/)  |
+>|  Dirt Deodara | [Github](https://github.com/DirtDeodara)   | [LinkedIn](https://www.linkedin.com/in/dirtdeodara/)   |
+
+___
+___
