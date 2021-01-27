@@ -22,6 +22,6 @@ Welcome to [Alchemy Code Lab](https://www.alchemycodelab.com/)! This is a total 
   - Github
   - LinkedIn
 
-**Please note, that while we try to keep the most up to date with project links and contact information, some projects or links may be outdated.  Specifically, new updates to MongoDB may not have been changed on the personal projects themselves, and will need to be resolved with the team members of that project. We apologize for any inconvenience.** 
+**Please note, that while we try to keep the most up to date with project links and contact information, some projects or links may be deprecated or outdates. We apologize for any inconvenience.** 
 ___
 ## We hope you enjoy seeing the exciting projects and accomplishments of students at Alchemy!
