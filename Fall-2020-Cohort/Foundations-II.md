@@ -3,30 +3,29 @@
 ## Foundations II
 Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, PostgreSQL and RESTful API calls hitting a 3rd party API, on fully remote teams.
 ___
-
-### Oregon Environmental Data
+### Alchezoomy
 
 > Description 
->>This is an app where users who are interested in climate change data can view current news publications to stay informed, find ways to get involved in environmental initiatives, use our climate map and charts to view temperature changes over time in various cities, and create a user profile to save climate data from the map, charts, and articles. A full stack application featuring react-tiny-link, react-simple-maps, react-slider, and reactjs-popup.
+>>Fullstack application that utilizes the Zoom API to allow users to search and favorite videos, transcripts, and chats from various published Alchemy zoom meetings. Designed and built over a five-day sprint as a part of the Alchemy Code Lab's curriculum using ReactJS, NodeJS, PostgreSQL, Morgan, Node-webvtt and FuseJS.
 
-* [Organization](https://github.com/Hexa-P)
+* [Organization](https://github.com/Alchezoomy)
 
-* [Repo-FE](https://github.com/Hexa-P/hexa-p-front-end)
+* [Repo-FE](https://github.com/Alchezoomy/zoom-search-app)
 
-* [Repo-BE](https://github.com/Hexa-P/hexa-p-back-end)
+* [Repo-BE](https://github.com/Alchezoomy/zoom-search-sql)
 
-* [Deployed Site](https://sharp-agnesi-8efe29.netlify.app/)
+* [Deployed Site](https://alchezoomy.netlify.app/)
 
-* [Backend Hosting](https://serene-temple-06405.herokuapp.com/)
+* [Backend Hosting](https://alchezoomy.herokuapp.com/)
 
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Andrew Bray |  [Github](https://github.com/Andrew-Bray)  |  [LinkedIn](https://www.linkedin.com/in/andrew-michael-bray/)  |
->| Sam Formichella |  [Github](https://github.com/sformichella)  |  [LinkedIn](https://www.linkedin.com/in/sam-formichella/)  |
->|  Ryan Carreras | [Github](https://github.com/ryanleviathan)   | [LinkedIn](https://www.linkedin.com/in/ryancarreras/)   |
->| Katie Berry |  [Github](https://github.com/KatieMBerry)  |  [LinkedIn](https://www.linkedin.com/in/katie-m-berry/)  |
->| Richard Hillman |  [Github](https://github.com/Richard-Hillman)  |  [LinkedIn](https://www.linkedin.com/in/richard-hillman/)  |
+>| Dee Watson |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
+>| Jillian Gibson |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
+>| Evan Finkelstein |  [Github](https://github.com/Evan-Finkelstein)  |  [LinkedIn](https://www.linkedin.com/in/evan-finkelstein91/)  |
+>| [Paul Stevens](https://paulstevens.dev/) |  [Github](https://github.com/Protopaco)  |  [LinkedIn](https://www.linkedin.com/in/paul-stevens-dev/)  |
+>|  Sjaan Hydrick | [Github](https://github.com/SjaanHydrick)   | [LinkedIn](https://www.linkedin.com/in/sjaan-hydrick/)   |
 
 ___
 ___
@@ -55,29 +54,52 @@ ___
 
 ___
 ___
-### Alchezoomy
+### Choose-Gif
 
 > Description 
->>Fullstack application that utilizes the Zoom API to allow users to search and favorite videos, transcripts, and chats from various published Alchemy zoom meetings. Designed and built over a five-day sprint as a part of the Alchemy Code Lab's curriculum using ReactJS, NodeJS, PostgreSQL, Morgan, Node-webvtt and FuseJS.
+>>Choose Gif uses the Giphy API to gather raw data, manipulate data, and display data on to the app.  Choose Gif is built using React framework with scripts that include React Router Dom, React Copy to Clipboard, and Superagent.
 
-* [Organization](https://github.com/Alchezoomy)
+* [Organization](https://github.com/Choose-Gif)
 
-* [Repo-FE](https://github.com/Alchezoomy/zoom-search-app)
+* [Repo-FE](https://github.com/Choose-Gif/gif-fe)
 
-* [Repo-BE](https://github.com/Alchezoomy/zoom-search-sql)
+* [Repo-BE](https://github.com/Choose-Gif/gif-be)
 
-* [Deployed Site](https://alchezoomy.netlify.app/)
+* [Deployed Site](https://choose-gif-fe.netlify.app/)
 
-* [Backend Hosting](https://alchezoomy.herokuapp.com/)
+* [Backend Hosting](choose-gif-be.herokuapp.com)
 
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Dee Watson |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
->| Jillian Gibson |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
->| Evan Finkelstein |  [Github](https://github.com/Evan-Finkelstein)  |  [LinkedIn](https://www.linkedin.com/in/evan-finkelstein91/)  |
->| [Paul Stevens](https://paulstevens.dev/) |  [Github](https://github.com/Protopaco)  |  [LinkedIn](https://www.linkedin.com/in/paul-stevens-dev/)  |
->|  Sjaan Hydrick | [Github](https://github.com/SjaanHydrick)   | [LinkedIn](https://www.linkedin.com/in/sjaan-hydrick/)   |
+>| Bryana Kitchen |  [Github](https://github.com/bryanakitchen)  |  [LinkedIn](https://www.linkedin.com/in/bryanakitchen/)  |
+>| Franco Ortega |  [Github](https://github.com/franco-ortega)  |  [LinkedIn](https://www.linkedin.com/in/francoortega/)  |
+>| Kevin Fiero |  [Github](https://github.com/kevinfiero)  |  [LinkedIn](https://www.linkedin.com/in/kevinfiero/)  |
+
+___
+___
+
+### Gather
+
+> Description 
+>>Gather is a recipe application that allows users to browse, save recipes and contribute to food events with friends and family. Created in a 5 day sprint.  Built using ReactJS, NodeJS, and PostgreSQL.
+
+* [Organization](https://github.com/rumham-gather)
+
+* [Repo-FE](https://github.com/rumham-gather/front-end)
+
+* [Repo-BE](https://github.com/rumham-gather/back-end)
+
+* [Deployed Site](https://vigorous-booth-3b4531.netlify.app/)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
+>| Katie Jones |  [Github](https://github.com/katiejonesyo)  |  [LinkedIn](https://www.linkedin.com/in/katiejonesyo/)  |
+>| Rosalie Lee-Washington |  [Github](https://github.com/rosalie337)  |  [LinkedIn](https://www.linkedin.com/in/rosalielee/)  |
+>|  [Jeff Irvine](www.Jeffirvine.dev)| [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
+>| Sydney James |  [Github](https://github.com/scjam)  |  [LinkedIn](https://www.linkedin.com/in/sydjames/)  |
 
 ___
 ___
@@ -105,30 +127,6 @@ ___
 
 ___
 ___
-### Gather
-
-> Description 
->>Gather is a recipe application that allows users to browse, save recipes and contribute to food events with friends and family. Created in a 5 day sprint.  Built using ReactJS, NodeJS, and PostgreSQL.
-
-* [Organization](https://github.com/rumham-gather)
-
-* [Repo-FE](https://github.com/rumham-gather/front-end)
-
-* [Repo-BE](https://github.com/rumham-gather/back-end)
-
-* [Deployed Site](https://vigorous-booth-3b4531.netlify.app/)
-
->
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
->| Katie Jones |  [Github](https://github.com/katiejonesyo)  |  [LinkedIn](https://www.linkedin.com/in/katiejonesyo/)  |
->| Rosalie Lee-Washington |  [Github](https://github.com/rosalie337)  |  [LinkedIn](https://www.linkedin.com/in/rosalielee/)  |
->|  [Jeff Irvine](www.Jeffirvine.dev)| [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
->| Sydney James |  [Github](https://github.com/scjam)  |  [LinkedIn](https://www.linkedin.com/in/sydjames/)  |
-
-___
-___
 ### Karaoke Roulette
 
 > Description 
@@ -152,27 +150,29 @@ ___
 
 ___
 ___
-### Choose-Gif
+### Oregon Environmental Data
 
 > Description 
->>Choose Gif uses the Giphy API to gather raw data, manipulate data, and display data on to the app.  Choose Gif is built using React framework with scripts that include React Router Dom, React Copy to Clipboard, and Superagent.
+>>This is an app where users who are interested in climate change data can view current news publications to stay informed, find ways to get involved in environmental initiatives, use our climate map and charts to view temperature changes over time in various cities, and create a user profile to save climate data from the map, charts, and articles. A full stack application featuring react-tiny-link, react-simple-maps, react-slider, and reactjs-popup.
 
-* [Organization](https://github.com/Choose-Gif)
+* [Organization](https://github.com/Hexa-P)
 
-* [Repo-FE](https://github.com/Choose-Gif/gif-fe)
+* [Repo-FE](https://github.com/Hexa-P/hexa-p-front-end)
 
-* [Repo-BE](https://github.com/Choose-Gif/gif-be)
+* [Repo-BE](https://github.com/Hexa-P/hexa-p-back-end)
 
-* [Deployed Site](https://choose-gif-fe.netlify.app/)
+* [Deployed Site](https://sharp-agnesi-8efe29.netlify.app/)
 
-* [Backend Hosting](choose-gif-be.herokuapp.com)
+* [Backend Hosting](https://serene-temple-06405.herokuapp.com/)
 
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Bryana Kitchen |  [Github](https://github.com/bryanakitchen)  |  [LinkedIn](https://www.linkedin.com/in/bryanakitchen/)  |
->| Franco Ortega |  [Github](https://github.com/franco-ortega)  |  [LinkedIn](https://www.linkedin.com/in/francoortega/)  |
->| Kevin Fiero |  [Github](https://github.com/kevinfiero)  |  [LinkedIn](https://www.linkedin.com/in/kevinfiero/)  |
+>| Andrew Bray |  [Github](https://github.com/Andrew-Bray)  |  [LinkedIn](https://www.linkedin.com/in/andrew-michael-bray/)  |
+>| Sam Formichella |  [Github](https://github.com/sformichella)  |  [LinkedIn](https://www.linkedin.com/in/sam-formichella/)  |
+>|  Ryan Carreras | [Github](https://github.com/ryanleviathan)   | [LinkedIn](https://www.linkedin.com/in/ryancarreras/)   |
+>| Katie Berry |  [Github](https://github.com/KatieMBerry)  |  [LinkedIn](https://www.linkedin.com/in/katie-m-berry/)  |
+>| Richard Hillman |  [Github](https://github.com/Richard-Hillman)  |  [LinkedIn](https://www.linkedin.com/in/richard-hillman/)  |
 
 ___
 ___
