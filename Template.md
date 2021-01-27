@@ -31,7 +31,6 @@ ___
 >|  [Student Name](Link-to-Portfolio) | [Github](Link)   | [LinkedIn](Link)   |
 >|  Student Name | [Github](Link)   | [LinkedIn](Link)   |
 
-
 ___
 ___
 

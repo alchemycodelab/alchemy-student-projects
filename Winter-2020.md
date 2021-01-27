@@ -16,7 +16,7 @@ ___
 >|[Fiona Ochs](https://fionaochs.dev/) | [Github](https://github.com/fionaochs)  | [LinkedIn](https://www.linkedin.com/in/fionaochs/)  |
 >|[Hannah Riley](https://www.linkedin.com/in/hannah-m-riley/) | [Github](https://github.com/hannahriley33)  | [LinkedIn](https://www.linkedin.com/in/hannah-m-riley/)  |
 >|[Logan Scott](https://www.linkedin.com/in/logantscott/) | [Github](https://github.com/logantscott)  | [LinkedIn](https://www.linkedin.com/in/logantscott/)  |
->|[Nathan Martel](https://www.linkedin.com/in/nathanmartel/) | [Github](https://github.com/SeHarlan)  | [LinkedIn](https://www.linkedin.com/in/nathanmartel/)  |
+>|[Nathan Martel](https://www.linkedin.com/in/nathanmartel/) | [Github](https://github.com/nathanmartel)  | [LinkedIn](https://www.linkedin.com/in/nathanmartel/)  |
 >|[Scott Harlan](https://scottharlan.dev/) | [Github](https://github.com/SeHarlan)  | [LinkedIn](https://www.linkedin.com/in/scottharlan-pnw/)  |
 
 ___
@@ -135,7 +135,7 @@ ___
 >|---|---|---|
 >|[Josh Ford](https://www.linkedin.com/in/thisisjoshford/) | [Github](https://github.com/thisisjoshford)  | [LinkedIn](https://www.linkedin.com/in/thisisjoshford/)  |
 >|[Mikey Romay](https://www.linkedin.com/in/michaelromay/) | [Github](https://github.com/mikeymasonic)  | [LinkedIn](https://www.linkedin.com/in/michaelromay/)  |
->|[Nathan Martel](https://www.linkedin.com/in/nathanmartel/) | [Github](https://github.com/SeHarlan)  | [LinkedIn](https://www.linkedin.com/in/nathanmartel/)  |
+>|[Nathan Martel](https://www.linkedin.com/in/nathanmartel/) | [Github](https://github.com/nathanmartel)  | [LinkedIn](https://www.linkedin.com/in/nathanmartel/)  |
 >|[Scott Campbell](https://www.linkedin.com/in/scottthomascampbell/) | [Github](https://github.com/thisisscottcampbell)  | [LinkedIn](https://www.linkedin.com/in/scottthomascampbell/)  |
 
 ___
@@ -289,7 +289,7 @@ ___
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|[Dorje Kirsten](https://www.linkedin.com/in/dorjekirsten/) | [Github](https://github.com/dorjepadma)  | [LinkedIn](https://www.linkedin.com/in/dorjekirsten/)  |
->|[Nathan Martel](https://www.linkedin.com/in/nathanmartel/) | [Github](https://github.com/SeHarlan)  | [LinkedIn](https://www.linkedin.com/in/nathanmartel/)  |
+>|[Nathan Martel](https://www.linkedin.com/in/nathanmartel/) | [Github](https://github.com/nathanmartel)  | [LinkedIn](https://www.linkedin.com/in/nathanmartel/)  |
 
 ___
 ___
@@ -389,7 +389,7 @@ ___
 >|---|---|---|
 >|[Chelsea Spangler](https://www.linkedin.com/in/chelseanspangler/) | [Github](https://github.com/CNSpangler)  | [LinkedIn](https://www.linkedin.com/in/chelseanspangler/)  |
 >|[Fiona Ochs](https://fionaochs.dev/) | [Github](https://github.com/fionaochs)  | [LinkedIn](https://www.linkedin.com/in/fionaochs/)  |
->|[Nathan Martel](https://www.linkedin.com/in/nathanmartel/) | [Github](https://github.com/SeHarlan)  | [LinkedIn](https://www.linkedin.com/in/nathanmartel/)  |
+>|[Nathan Martel](https://www.linkedin.com/in/nathanmartel/) | [Github](https://github.com/nathanmartel)  | [LinkedIn](https://www.linkedin.com/in/nathanmartel/)  |
 >|[Scott Harlan](https://scottharlan.dev/) | [Github](https://github.com/SeHarlan)  | [LinkedIn](https://www.linkedin.com/in/scottharlan-pnw/)  |
 
 ___
