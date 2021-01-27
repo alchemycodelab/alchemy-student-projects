@@ -1,4 +1,4 @@
-# Winter 2020 Cohort
+# Summer 2019 Cohort
 ## Foundations 1
 ___
 
@@ -67,6 +67,24 @@ ___
 >|[Angela Vawser](http://hello-jelly.com/) | [Github](https://github.com/hello-jelly)  | [LinkedIn](https://www.linkedin.com/in/angela-vawser/)  |
 >|[John Nelson](https://www.linkedin.com/in/johnnelson4850/) | [Github](https://github.com/John4850)  | [LinkedIn](https://www.linkedin.com/in/johnnelson4850/)  |
 >|[Ollie Comet](https://www.linkedin.com/in/olliecomet/) | [Github](https://github.com/olliecomet)  | [LinkedIn](https://www.linkedin.com/in/olliecomet/)  |
+
+___
+___
+
+### Tarot Reader
+
+> Description 
+>>Group project showcasing pure vanilla Javascript. This project includes randomized tarot readings, a matching game, and persistence utilizing local storage.
+>
+- [Live Site](https://tarot-reader.github.io/)
+- [Github](https://github.com/tarot-reader/tarot-reader.github.io)
+
+>| Contributing Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|[Antonella Gutierrez](https://www.antonella-gutierrez.com/) | [Github](https://github.com/27Nyappy)  | [LinkedIn](https://www.linkedin.com/in/antonella-gutierrez-rodriguez/)  |
+>|[Donna Lambert](https://www.linkedin.com/in/dlambertpdx/) | [Github](https://github.com/sanvean74)  | [LinkedIn](https://www.linkedin.com/in/dlambertpdx/)  |
+>|[Evan Andrewson](https://www.linkedin.com/in/evan-andrewson/) | [Github](https://github.com/evanandrewson)  | [LinkedIn](https://www.linkedin.com/in/evan-andrewson/)  |
+>|[Maeve Griffin](https://www.linkedin.com/in/maeve-anne-griffin/) | [Github](https://github.com/adoxic)  | [LinkedIn](https://www.linkedin.com/in/maeve-anne-griffin/)  |
 
 ___
 ___
@@ -306,7 +324,6 @@ ___
 >|[Antonella Gutierrez](https://www.antonella-gutierrez.com/) | [Github](https://github.com/27Nyappy)  | [LinkedIn](https://www.linkedin.com/in/antonella-gutierrez-rodriguez/)  |
 >|[Donna Lambert](https://www.linkedin.com/in/dlambertpdx/) | [Github](https://github.com/sanvean74)  | [LinkedIn](https://www.linkedin.com/in/dlambertpdx/)  |
 >|[Ollie Comet](https://www.linkedin.com/in/olliecomet/) | [Github](https://github.com/olliecomet)  | [LinkedIn](https://www.linkedin.com/in/olliecomet/)  |
-
 ___
 ___
 
