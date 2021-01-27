@@ -9,7 +9,7 @@ Include any new tech/libraries used in the 'Description' field for each applicat
 # Alchemy Class Projects - Cohort 
 
 ## Project week
-Context at the top, for example: First one week sprint, from concept through delivery, after week 4 in the program.  Focus was vanilla JS and teams built this working remotely.
+Context, for example: First one week sprint, from concept through delivery, after week 4 in the program.  Focus was vanilla JS and teams built this working remotely.
 ___
 
  ### Name of app
