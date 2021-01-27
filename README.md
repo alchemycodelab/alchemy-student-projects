@@ -1,7 +1,7 @@
 # Alchemy Code Lab Foundations I & II and Career Track Mid & Final Projects
 Welcome to [Alchemy Code Lab](https://www.alchemycodelab.com/)! This is a total collection of the class projects, starting in 2019, until present. 
 
-### Each cohort completes 4 team-based projects by the time they graduate.
+### Each cohort completes 4 sprint based team projects by the time they graduate. 
 
 ### Below is an overview of the apps that our students have presented, the team contributors, and contact information. 
 
