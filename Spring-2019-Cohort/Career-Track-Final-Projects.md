@@ -73,3 +73,25 @@ ___
 
 ___
 ___
+### Pindrop
+
+> Description 
+>>Sick of having to text all your friends to see who’s available for a cup of tea? A concert? A work session?  Look no further. Pindrop makes it easy to let your friends know who, when, where, and what time. It’s a social app that can cure the back and forth of details, share the address of where you’ll be, and make plans with your friends a walk in the park. Sign up, follow your friends, post a pin, or just take a look and choose what activity/what friend you want to plan your day around. Spin this instant meetup option into your calendar and see how easy it can be to hang with the people you care about.   Built using Material UI, React Google Maps, and React Geocode.
+
+* [Organization](https://github.com/eez-meet-me/)
+
+* [Repo-FE](https://github.com/eez-meet-me/eez-meet-me-fe)
+
+* [Repo-BE](https://github.com/eez-meet-me/eez-meet-me-be)
+
+* [Deployed Site](http://pindrop.netlify.com/)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  Erin Gurley | [Github](https://github.com/eringurley)   | [LinkedIn](https://www.linkedin.com/in/erin-gurley/)   |
+>|  Eli Nicholson | [Github](https://github.com/EmNicholson93)   | [LinkedIn](https://www.linkedin.com/in/eli-nicholson/)   |
+>|  Zach Butler | [Github](https://github.com/zach-ryan-butler)   | [LinkedIn](https://www.linkedin.com/in/zach-ryan-butler/)   |
+
+___
+___
