@@ -7,7 +7,7 @@ ___
 ### Chatable
 
 > Description 
->>Chatable, a real-time chat app that features Socket.io for it’s two-way connection. A user can sign up, login, create a room and start chatting.
+>>Chatable, a real-time chat app that features Socket.io for it’s two-way connection. A user can sign up, login, create a room and start chatting.  Also built using Material-UI and React.
 
 * [Organization](https://github.com/Chatable-2021)
 
@@ -46,6 +46,87 @@ ___
 >| Richard Hillman |  [Github](https://github.com/Richard-Hillman)  |  [LinkedIn](https://www.linkedin.com/in/richard-hillman/)  |
 >| Sarah Skillen |  [Github](https://github.com/sarah-svg)  |  [LinkedIn](https://www.linkedin.com/in/sarah-skillen-7339b61b8/)  |
 >| Katie Jones |  [Github](https://github.com/katiejonesyo)  |  [LinkedIn](https://www.linkedin.com/in/katiejonesyo/)  |
+
+___
+___
+### Traktion
+
+> Description 
+>>Traktion is an entirely backend SMS-based app that helps users form new habits. The user sets up their reminders, and upon receiving the reminders they respond with a photo of them engaging in their habit of choice. Traktion verifies the user’s face and habit in the photo and then responds with reinforcement and confirmation of completion.  Built using AWS Reckognition, Twilio and Ngrok.
+
+* [Organization](https://github.com/Alchemy-Traction)
+
+* [Repo-BE](https://github.com/Alchemy-Traction/traction)
+
+* [Backend Hosting](https://better-please-traction.herokuapp.com/)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
+>| Katie Jones |  [Github](https://github.com/katiejonesyo)  |  [LinkedIn](https://www.linkedin.com/in/katiejonesyo/)  |
+>| Rosalie Lee-Washington |  [Github](https://github.com/rosalie337)  |  [LinkedIn](https://www.linkedin.com/in/rosalielee/)  |
+>|  Perry Sittser | [Github](https://github.com/sittserp)   | [LinkedIn](https://www.linkedin.com/in/sittserp/)   |
+>| Jonathan Quesada |  [Github](https://github.com/QuesadaJon)  |  [LinkedIn](https://www.linkedin.com/in/quesada-jonathan/)  |
+>| Andrew Bray |  [Github](https://github.com/Andrew-Bray)  |  [LinkedIn](https://www.linkedin.com/in/andrew-michael-bray/)  |
+
+___
+___
+### beHuman
+
+> Description 
+>>beHuman is a VSCode extension that reminds users to make healthy choices throughout their work day with both movement and mindful tips. The movement video links and tips are stored in a SQL database and called upon using RESTful API calls to a Heroku hosted server.  Uses Nodemailer to sign up admin users on the front-end for extension management.
+
+* [Organization](https://github.com/alchemy-be-human)
+
+* [Repo-FE](https://github.com/alchemy-be-human/beHuman)
+
+* [Repo-BE](https://github.com/alchemy-be-human/beHuman-server)
+
+* [Backend Hosting](http://be-human-demo.herokuapp.com/)
+
+* [VSCode Extension Address](https://marketplace.visualstudio.com/items?itemName=not-bot.be-human&ssr=false#overview)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Jillian Gibson |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
+>| Bryana Kitchen |  [Github](https://github.com/bryanakitchen)  |  [LinkedIn](https://www.linkedin.com/in/bryanakitchen/)  |
+>| Franco Ortega |  [Github](https://github.com/franco-ortega)  |  [LinkedIn](https://www.linkedin.com/in/francoortega/)  |
+>|  [Rhone Lachner](http://rhonelachner.com/) | [Github](https://github.com/RhoneLachner)   | [LinkedIn](https://www.linkedin.com/in/rhonelachner/)   |
+>|  [Shane Upchurch](https://shane-upchurch.netlify.app/)| [Github](https://github.com/ShaneUP1)   | [LinkedIn](https://www.linkedin.com/in/shaneupchurch/)   |
+___
+___
+### Realo
+
+> Description 
+>>Realo is a web scraping app that sources data from Zillow to send text alerts to users when new listings go live. This application utilizes Cheerio to parse HTML, Nodemailer to send SMS via email, Pug for server-side rendering, and Bcrypt authentication.
+
+* [Organization](https://github.com/ET-Phone-Home-Alchemy)
+
+* [Repo-BE](https://github.com/ET-Phone-Home-Alchemy/realo-app-backend)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Jeff Irvine](www.Jeffirvine.dev)| [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
+>| Sydney James |  [Github](https://github.com/scjam)  |  [LinkedIn](https://www.linkedin.com/in/sydjames/)  |
+>| Kevin Fiero |  [Github](https://github.com/kevinfiero)  |  [LinkedIn](https://www.linkedin.com/in/kevinfiero/)  |
+>| Erik Graciosa |  [Github](https://github.com/ErikGraciosa)  |  [LinkedIn](https://www.linkedin.com/in/erikgraciosa/)  |
+___
+___
+### 
+
+> Description 
+>>Realo is a web scraping app that sources data from Zillow to send text alerts to users when new listings go live. This application utilizes Cheerio to parse HTML, Nodemailer to send SMS via email, Pug for server-side rendering, and Bcrypt authentication.
+
+* [Organization](https://github.com/ET-Phone-Home-Alchemy)
+
+* [Repo-BE](https://github.com/ET-Phone-Home-Alchemy/realo-app-backend)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
 
 ___
 ___
