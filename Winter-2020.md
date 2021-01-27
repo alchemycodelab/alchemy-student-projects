@@ -66,7 +66,7 @@ ___
 > Description 
 >>Planning and preparing your home emergency kit can be overwhelming. DisasterProof makes it easier by helping you think through what you will need, one category at a time. You can choose which option(s) seem like a good fit for you, and we will compile a custom checklist based on your selections. In just a few minutes, you will have made all the big decisions about your own disaster preparedness plan, and you can get started putting together your kit and making your household DisasterProof.
 >
-
+- [Live Site](https://safety-dance.github.io/disaster-prep-app/)
 - [Github](https://github.com/Safety-Dance/disaster-prep-app)
 
 >| Contributing Team Members  | Github  | LinkedIn  |
@@ -229,7 +229,7 @@ ___
 >|[Dakota Druley](https://www.linkedin.com/in/dakota-druley/) | [Github](https://github.com/dakotadruley)  | [LinkedIn](https://www.linkedin.com/in/dakota-druley/)  |
 >|[Dannie Schumaker](http://www.dannieschumaker.com) | [Github](https://github.com/DannieSchu)  | [LinkedIn](https://www.linkedin.com/in/dannieschumaker/)  |
 >|[Fiona Ochs](https://fionaochs.dev/) | [Github](https://github.com/fionaochs)  | [LinkedIn](https://www.linkedin.com/in/fionaochs/)  |
->|[Janelle Mellor](https://www.linkedin.com/in/janellemellor/) | [Github](https://github.com/janellemellor)  | [LinkedIn](https://www.linkedin.com/in/janellemellor/)  |
+>|[Jenna Goldman](https://jennagoldman.github.io/portfolio/) | [Github](https://github.com/jennagoldman)  | [LinkedIn](https://www.linkedin.com/in/jennagoldman/)  |
 
 ___
 ___
