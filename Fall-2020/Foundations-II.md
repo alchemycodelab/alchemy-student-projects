@@ -129,3 +129,50 @@ ___
 
 ___
 ___
+### Karaoke Roulette
+
+> Description 
+>>
+
+* [Organization](https://github.com/Karaoke-Roulette)
+
+* [Repo-FE](https://github.com/Karaoke-Roulette/karaoke-roulette-fe)
+
+* [Repo-BE](https://rocky-dawn-10139.herokuapp.com/)
+
+* [Deployed Site](https://karaoke-roulette.netlify.app/)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Ethan Pierce |  [Github](https://github.com/jumpybuns)  |  [LinkedIn](https://www.linkedin.com/in/ethanpiercepresents/)  |
+>| Ray Sakultarawattn |  [Github](https://github.com/rsakultarawattn)  |  [LinkedIn](https://www.linkedin.com/in/raysakultarawattn/)  |
+>|  [Rhone Lachner](http://rhonelachner.com/) | [Github](https://github.com/RhoneLachner)   | [LinkedIn](https://www.linkedin.com/in/rhonelachner/)   |
+>| Sarah Skillen |  [Github](https://github.com/sarah-svg)  |  [LinkedIn](https://www.linkedin.com/in/sarah-skillen-7339b61b8/)  |
+
+___
+___
+### Choose-Gif
+
+> Description 
+>>Choose Gif uses the Giphy API to gather raw data, manipulate data, and display data on to the app.  Choose Gif is built using React framework with scripts that include React Router Dom, React Copy to Clipboard, and Superagent.
+
+* [Organization](https://github.com/Choose-Gif)
+
+* [Repo-FE](https://github.com/Choose-Gif/gif-fe)
+
+* [Repo-BE](https://github.com/Choose-Gif/gif-be)
+
+* [Deployed Site](https://choose-gif-fe.netlify.app/)
+
+* [Backend Hosting](choose-gif-be.herokuapp.com)
+
+>
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Bryana Kitchen |  [Github](https://github.com/bryanakitchen)  |  [LinkedIn](https://www.linkedin.com/in/bryanakitchen/)  |
+>| Franco Ortega |  [Github](https://github.com/franco-ortega)  |  [LinkedIn](https://www.linkedin.com/in/francoortega/)  |
+>| Kevin Fiero |  [Github](https://github.com/kevinfiero)  |  [LinkedIn](https://www.linkedin.com/in/kevinfiero/)  |
+
+___
+___
