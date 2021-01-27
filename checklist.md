@@ -7,5 +7,5 @@
 - [ ] Spring 2019 (Rachel)
 
 Other tasks: 
-- [ ] General Descriptions for Each Project 
+- [x] General Descriptions for Each Project 
 - [x] Adding Contributing Team Members to Title
