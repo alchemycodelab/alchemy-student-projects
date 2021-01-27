@@ -5,7 +5,6 @@
 - [ ] Fall 2019 (Langston)
 - [ ] Summer 2019 (Breeann)
 - [ ] Spring 2019
-- [ ] Winter 2019
 
 Other tasks: 
 - [ ] General Descriptions for Each Project 
