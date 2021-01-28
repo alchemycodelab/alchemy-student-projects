@@ -4,6 +4,27 @@
 
 Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, MongoDB, Firebase and RESTful API calls hitting a 3rd party API.
 ___
+### Bid-Up
+
+> Description 
+>>An auction app with realtime updates using JavaScript and Firebase. As a user, you can sign up and either be an auctioneer or bidder. As an auctioneer, you can create an auction lot by providing a description of the item along with an image url. Once everyone is in the auction lot, you can then start the timer and the bidding can begin. As a bidder, you can enter into an auction room and start bidding!
+
+* [Organization](https://github.com/bid-up)
+
+* [Repo](https://github.com/bid-up/BidUp)
+
+* [Deployed Site](https://biduponline.com/)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Lili Boxer](http://www.liliboxer.com/) | [Github](https://github.com/liliboxer)   | [LinkedIn](https://www.linkedin.com/in/lili-boxer/)   |
+>| Carlos Us Santiago |  [Github](https://github.com/carlosus)  |  [LinkedIn](https://www.linkedin.com/in/carlosuss/)  |
+>|  [Leigh-Ann Crivella](lacrivella.netlify.com/) | [Github](https://github.com/lacrivella)   | [LinkedIn](https://www.linkedin.com/in/lacrivella/)   |
+>|  [Susan Puckett](susanpuckett.dev) | [Github](https://github.com/sepuckett86)   | [LinkedIn](https://www.linkedin.com/in/susanpuckett/)   |
+>|  [Wes Griffin](http://nerdrich.io/) | [Github](https://github.com/codingclueless)   | [LinkedIn](https://www.linkedin.com/in/wesgriffincodes/)   |
+
+___
+___
 ### Family Recipes
 
 > Description 
