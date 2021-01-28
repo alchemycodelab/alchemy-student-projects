@@ -76,7 +76,7 @@ ___
 >|---|---|---|
 >|  [Lili Boxer](http://www.liliboxer.com/) | [Github](https://github.com/liliboxer)   | [LinkedIn](https://www.linkedin.com/in/lili-boxer/)   |
 >|  [Emily Ford](http://htmle.dev/) | [Github](https://github.com/mle4d)   | [LinkedIn](https://www.linkedin.com/in/mle4d/)   |
->|  Zach Butler | [Github](https://github.com/zach-ryan-butler)   |
+>|  Zach Butler | [Github](https://github.com/zach-ryan-butler)   | [LinkedIn](https://www.linkedin.com/in/zach-ryan-butler/)   |
 
 ___
 ___
@@ -100,3 +100,20 @@ ___
 
 ___
 ___
+<!-- Missing the below group:
+### 
+
+> Description 
+>>An educational, constellation based game. Written in vanilla JS/HTML/CSS.
+
+* [Organization](https://github.com/star-bbs)
+
+* [Repo-FE](https://github.com/star-bbs/star-bbs.github.io)
+
+* [Deployed Site](https://star-bbs.github.io/)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Wes Griffin](http://nerdrich.io/) | [Github](https://github.com/codingclueless)   | [LinkedIn](https://www.linkedin.com/in/wesgriffincodes/)   |
+>|  Vasily Markov | [Github](https://github.com/Vasily93)   | [LinkedIn](https://www.linkedin.com/in/vasily-markov/)   |
+>|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   | -->

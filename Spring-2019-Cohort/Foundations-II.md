@@ -4,6 +4,26 @@
 
 Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, MongoDB, Firebase and RESTful API calls hitting a 3rd party API.
 ___
+### Kanbanify
+
+> Description 
+>>Inspired by Trello, Kanbanify is an application used to organize projects through a board, list and card structure. With a real-time chat room, ability to invite friends, this project was a great learning opportunity.
+
+* [Organization](https://github.com/kanbanify)
+
+* [Repo-FE](https://github.com/kanbanify/kanbanify.github.io)
+
+* [Deployed Site](https://kanbanify.github.io/)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Danny Hogan](http://www.dannyhogan.dev/) | [Github](https://github.com/dannyhogan)   | [LinkedIn](https://www.linkedin.com/in/danny-hogan/)   |
+>|  [Jack McConnell](http://jackmcconnell.dev/) | [Github](https://github.com/jwmcconnell)   | [LinkedIn](https://www.linkedin.com/in/mcconnelljack/)   |
+>|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   |
+>|  Zach Butler | [Github](https://github.com/zach-ryan-butler)   | [LinkedIn](https://www.linkedin.com/in/zach-ryan-butler/)   |
+
+___
+___
 ### Moddo
 
 > Description 
