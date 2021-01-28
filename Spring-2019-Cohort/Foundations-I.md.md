@@ -61,6 +61,24 @@ ___
 
 ___
 ___
+### Simon Game
+
+> Description 
+>>A Simon game variation. Fun way to explore vanilla JavaScript and CSS.
+
+* [Organization](https://github.com/cold-war-clique)
+
+* [Repo](https://github.com/cold-war-clique/simon-game/tree/gh-pages)
+
+* [Deployed Site](https://cold-war-clique.github.io/simon-game/)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  Vasily Markov | [Github](https://github.com/Vasily93)   | [LinkedIn](https://www.linkedin.com/in/vasily-markov/)   |
+>|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   | -->
+
+___
+___
 ### Spark Joy
 
 > Description 
@@ -100,20 +118,6 @@ ___
 
 ___
 ___
-<!-- Missing the below group:
-### 
 
-> Description 
->>An educational, constellation based game. Written in vanilla JS/HTML/CSS.
-
-* [Organization](https://github.com/star-bbs)
-
-* [Repo](https://github.com/star-bbs/star-bbs.github.io)
-
-* [Deployed Site](https://star-bbs.github.io/)
-
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->|  [Wes Griffin](http://nerdrich.io/) | [Github](https://github.com/codingclueless)   | [LinkedIn](https://www.linkedin.com/in/wesgriffincodes/)   |
->|  Vasily Markov | [Github](https://github.com/Vasily93)   | [LinkedIn](https://www.linkedin.com/in/vasily-markov/)   |
->|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   | -->
+ <!-- Missing a project for this person:
+ >|  [Wes Griffin](http://nerdrich.io/) | [Github](https://github.com/codingclueless)   | [LinkedIn](https://www.linkedin.com/in/wesgriffincodes/)   | -->
