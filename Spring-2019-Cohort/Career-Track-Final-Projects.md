@@ -17,7 +17,6 @@ ___
 
 * [Deployed Site](https://serene-williams-6f2fcb.netlify.com/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   |
@@ -39,7 +38,6 @@ ___
 
 * [Deployed Site](https://www.gyst.dev/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Lili Boxer](http://www.liliboxer.com/) | [Github](https://github.com/liliboxer)   | [LinkedIn](https://www.linkedin.com/in/lili-boxer/)   |
@@ -62,7 +60,6 @@ ___
 
 * [Deployed Site](https://happy-trees.netlify.com/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Jack McConnell](http://jackmcconnell.dev/) | [Github](https://github.com/jwmcconnell)   | [LinkedIn](https://www.linkedin.com/in/mcconnelljack/)   |
@@ -85,7 +82,6 @@ ___
 
 * [Deployed Site](https://newzie.netlify.com/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Leigh-Ann Crivella](lacrivella.netlify.com/) | [Github](https://github.com/lacrivella)   | [LinkedIn](https://www.linkedin.com/in/lacrivella/)   |
@@ -108,7 +104,6 @@ ___
 
 * [Deployed Site](http://pindrop.netlify.com/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  Erin Gurley | [Github](https://github.com/eringurley)   | [LinkedIn](https://www.linkedin.com/in/erin-gurley/)   |
@@ -117,4 +112,3 @@ ___
 
 ___
 ___
-18

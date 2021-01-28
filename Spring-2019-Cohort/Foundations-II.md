@@ -1,13 +1,13 @@
 # Alchemy Class Projects - Spring 2019 Cohort
 
 ## Foundations II
+
 Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, MongoDB, Firebase and RESTful API calls hitting a 3rd party API.
 ___
-
 ### Moddo
 
 > Description 
->>Moddo is an app created by Vasily Markov, Jon Forney, Danny Suarez, Alex Ramirez de Cruz, and Emily Ford. It was created as a space to start your day, receive a daily random motto to inpire you, and keep track of your lists and tasks.
+>>Moddo is an app created by Vasily Markov, Jon Forney, Danny Suarez, Alex Ramirez de Cruz, and Emily Ford. It was created as a space to start your day, receive a daily random motto to inspire you, and keep track of your lists and tasks.
 
 * [Organization](https://github.com/rubber-ducky-squad)
 
@@ -15,7 +15,6 @@ ___
 
 * [Deployed Site](https://moddo.netlify.com/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  Vasily Markov | [Github](https://github.com/Vasily93)   | [LinkedIn](https://www.linkedin.com/in/vasily-markov/)   |
@@ -26,11 +25,10 @@ ___
 
 ___
 ___
-
 ### Family Recipes
 
 > Description 
->>Moddo is an app created by Vasily Markov, Jon Forney, Danny Suarez, Alex Ramirez de Cruz, and Emily Ford. It was created as a space to start your day, receive a daily random motto to inpire you, and keep track of your lists and tasks.
+>>Moddo is an app created by Vasily Markov, Jon Forney, Danny Suarez, Alex Ramirez de Cruz, and Emily Ford. It was created as a space to start your day, receive a daily random motto to inspire you, and keep track of your lists and tasks.
 
 * [Organization](https://github.com/familyrecipes)
 
@@ -38,10 +36,8 @@ ___
 
 * [Deployed Site](https://optimistic-panini-e9191b.netlify.com/auth.html)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
-
 
 ___
 ___

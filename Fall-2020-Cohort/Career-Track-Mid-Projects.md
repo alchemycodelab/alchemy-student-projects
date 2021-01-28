@@ -1,6 +1,7 @@
 # Alchemy Class Projects - Fall 2020 Cohort
 
 ## Career Track Mid Projects
+
 Third projects one week sprint, from concept through delivery, after week 12 in the program.  A back-end focused app using Node, Express, PostgreSQL and RESTful API calls, on fully remote teams.
 ___
 ### beHuman
@@ -18,7 +19,6 @@ ___
 
 * [VSCode Extension Address](https://marketplace.visualstudio.com/items?itemName=not-bot.be-human&ssr=false#overview)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Jillian Gibson |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
@@ -42,7 +42,6 @@ ___
 
 * [Deployed Site](https://adoring-wright-0eba98.netlify.app/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| David Butler |  [Github](https://github.com/davidabutler92)  |  [LinkedIn](https://www.linkedin.com/in/david-arron-butler/)  |
@@ -64,7 +63,6 @@ ___
 
 * [Backend Hosting](https://cherry-plotter-2021.herokuapp.com/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Dee Watson |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
@@ -85,7 +83,6 @@ ___
 
 * [Repo-FE](https://github.com/Mind-Crafting/mind-crafting-FE)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Sam Formichella |  [Github](https://github.com/sformichella)  |  [LinkedIn](https://www.linkedin.com/in/sam-formichella/)  |
@@ -108,7 +105,6 @@ ___
 
 * [Deployed Site](https://petreon.netlify.app/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Evan Finkelstein |  [Github](https://github.com/Evan-Finkelstein)  |  [LinkedIn](https://www.linkedin.com/in/evan-finkelstein91/)  |
@@ -126,7 +122,6 @@ ___
 
 * [Repo-BE](https://github.com/ET-Phone-Home-Alchemy/realo-app-backend)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Jeff Irvine](www.Jeffirvine.dev)| [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
@@ -147,7 +142,6 @@ ___
 
 * [Backend Hosting](https://better-please-traction.herokuapp.com/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |

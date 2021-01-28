@@ -1,6 +1,7 @@
 # Alchemy Class Projects - Fall 2020 Cohort
 
 ## Foundations I
+
 First one week sprint, from concept through delivery, after week 3 in the program.  Focus was vanilla JS, HTML and CSS, and teams built this working remotely.
 ___
 ### Adventurers Guild
@@ -12,7 +13,6 @@ ___
 
 * [Deployed Site](https://ryanleviathan.github.io/adventurers-guild/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  Ryan Carreras | [Github](https://github.com/ryanleviathan)   | [LinkedIn](https://www.linkedin.com/in/ryancarreras/)   |
@@ -32,7 +32,6 @@ ___
 
 * [Deployed Site](bryanakitchen.github.io/aurora/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
@@ -51,7 +50,6 @@ ___
 
 * [Deployed Site](https://mystechal-divinators.github.io/project-week-tarot-divinators/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Rhone Lachner](http://rhonelachner.com/) | [Github](https://github.com/RhoneLachner)   | [LinkedIn](https://www.linkedin.com/in/rhonelachner/)   |
@@ -71,7 +69,6 @@ ___
 
 * [Deployed Site](https://sjaanhydrick.github.io/my-vampire-boyfriend/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  Sjaan Hydrick | [Github](https://github.com/SjaanHydrick)   | [LinkedIn](https://www.linkedin.com/in/sjaan-hydrick/)   |
@@ -90,7 +87,6 @@ ___
 
 * [Deployed Site](https://sittserp.github.io/octogotchi/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  Perry Sittser | [Github](https://github.com/sittserp)   | [LinkedIn](https://www.linkedin.com/in/sittserp/)   |
@@ -109,7 +105,6 @@ ___
 
 * [Deployed Site](https://oregon-trail-2020.github.io/ot-nuevo/)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Jeff Irvine](www.Jeffirvine.dev)| [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
@@ -128,7 +123,6 @@ ___
 
 * [Deployed Site](https://sformichella.github.io/t4-xoxo/about/index.html)
 
->
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Shane Upchurch](https://shane-upchurch.netlify.app/)| [Github](https://github.com/ShaneUP1)   | [LinkedIn](https://www.linkedin.com/in/shaneupchurch/)   |
