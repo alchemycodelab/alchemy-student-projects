@@ -9,3 +9,5 @@
 Other tasks: 
 - [x] General Descriptions for Each Project 
 - [x] Adding Contributing Team Members to Title
+- [ ] Get video presentation links
+- [ ] Remind students ro make their repos public if they're not
