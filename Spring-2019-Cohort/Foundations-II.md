@@ -4,6 +4,27 @@
 
 Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, MongoDB, Firebase and RESTful API calls hitting a 3rd party API.
 ___
+### Family Recipes
+
+> Description 
+>>A frontend, social, family recipe app.
+
+* [Organization](https://github.com/familyrecipes)
+
+* [Repo](https://github.com/familyrecipes/https-familyrecipes.github.io)
+
+* [Deployed Site](https://optimistic-panini-e9191b.netlify.com/auth.html)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  Eli Nicholson | [Github](https://github.com/EmNicholson93)   | [LinkedIn](https://www.linkedin.com/in/eli-nicholson/)   |
+>|  Noah Puckett | [Github](https://github.com/noah-puckett)   | [LinkedIn](https://www.linkedin.com/in/noahingrampuckett/)   |
+>|  Erin Gurley | [Github](https://github.com/eringurley)   | [LinkedIn](https://www.linkedin.com/in/erin-gurley/)   |
+>|  Dirt Deodara | [Github](https://github.com/DirtDeodara)   | [LinkedIn](https://www.linkedin.com/in/dirtdeodara/)   |
+>|  [Claire Danielle Cassidy](https://www.clairedaniellecassidy.com/) | [Github](https://github.com/SlumberParty)   | [LinkedIn](https://www.linkedin.com/in/clairedaniellecassidy/)   |
+
+___
+___
 ### Kanbanify
 
 > Description 
@@ -11,7 +32,7 @@ ___
 
 * [Organization](https://github.com/kanbanify)
 
-* [Repo-FE](https://github.com/kanbanify/kanbanify.github.io)
+* [Repo](https://github.com/kanbanify/kanbanify.github.io)
 
 * [Deployed Site](https://kanbanify.github.io/)
 
@@ -31,7 +52,7 @@ ___
 
 * [Organization](https://github.com/rubber-ducky-squad)
 
-* [Repo-FE](https://github.com/rubber-ducky-squad/Adviser)
+* [Repo](https://github.com/rubber-ducky-squad/Adviser)
 
 * [Deployed Site](https://moddo.netlify.com/)
 
@@ -42,22 +63,6 @@ ___
 >|  [Alex Ramirez de Cruz](https://alexramirezdecruz.com/) | [Github](https://github.com/aramirezdecruz3148)   | [LinkedIn](https://www.linkedin.com/in/alex-ramirez-de-cruz/)   |
 >|  [Emily Ford](http://htmle.dev/) | [Github](https://github.com/mle4d)   | [LinkedIn](https://www.linkedin.com/in/mle4d/)   |
 >|  [Jon Forney](https://www.jonforney.com/) | [Github](https://github.com/MustardJoe)   | [LinkedIn](https://www.linkedin.com/in/jon-forney/)   |
-
-___
-___
-### Family Recipes
-
-> Description 
->>Moddo is an app created by Vasily Markov, Jon Forney, Danny Suarez, Alex Ramirez de Cruz, and Emily Ford. It was created as a space to start your day, receive a daily random motto to inspire you, and keep track of your lists and tasks.
-
-* [Organization](https://github.com/familyrecipes)
-
-* [Repo-FE](https://github.com/familyrecipes/https-familyrecipes.github.io)
-
-* [Deployed Site](https://optimistic-panini-e9191b.netlify.com/auth.html)
-
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
 
 ___
 ___

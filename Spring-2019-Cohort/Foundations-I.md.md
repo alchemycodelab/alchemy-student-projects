@@ -11,7 +11,7 @@ ___
 
 * [Organization](https://github.com/alchemy-type)
 
-* [Repo-FE](https://github.com/alchemy-type/alchemy-type.github.io)
+* [Repo](https://github.com/alchemy-type/alchemy-type.github.io)
 
 * [Deployed Site](https://alchemy-type.github.io/landing.html)
 
@@ -30,7 +30,7 @@ ___
 
 * [Organization](https://github.com/team-tidy)
 
-* [Repo-FE](https://github.com/team-tidy/Karie-Mondo)
+* [Repo](https://github.com/team-tidy/Karie-Mondo)
 
 * [Deployed Site](https://team-tidy.github.io/Karie-Mondo/)
 
@@ -49,7 +49,7 @@ ___
 
 * [Organization](https://github.com/simon-gang)
 
-* [Repo-FE](https://github.com/simon-gang/simon-gang.github.io)
+* [Repo](https://github.com/simon-gang/simon-gang.github.io)
 
 * [Deployed Site](https://simon-gang.github.io/)
 
@@ -68,7 +68,7 @@ ___
 
 * [Organization](https://github.com/spark-joy)
 
-* [Repo-FE](https://github.com/spark-joy/spark-joy.github.io)
+* [Repo](https://github.com/spark-joy/spark-joy.github.io)
 
 * [Deployed Site](https://spark-joy.github.io/)
 
@@ -87,7 +87,7 @@ ___
 
 * [Organization](https://github.com/star-bbs)
 
-* [Repo-FE](https://github.com/star-bbs/star-bbs.github.io)
+* [Repo](https://github.com/star-bbs/star-bbs.github.io)
 
 * [Deployed Site](https://star-bbs.github.io/)
 
@@ -108,7 +108,7 @@ ___
 
 * [Organization](https://github.com/star-bbs)
 
-* [Repo-FE](https://github.com/star-bbs/star-bbs.github.io)
+* [Repo](https://github.com/star-bbs/star-bbs.github.io)
 
 * [Deployed Site](https://star-bbs.github.io/)
 
