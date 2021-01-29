@@ -75,7 +75,7 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  Vasily Markov | [Github](https://github.com/Vasily93)   | [LinkedIn](https://www.linkedin.com/in/vasily-markov/)   |
->|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   | -->
+>|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   |
 
 ___
 ___

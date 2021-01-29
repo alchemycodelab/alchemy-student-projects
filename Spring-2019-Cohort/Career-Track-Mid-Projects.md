@@ -83,3 +83,22 @@ ___
 
 ___
 ___
+### Instant Meetup
+
+> Description 
+>>Back-end development for a future App dedicated to instant-meetups. geolocation and twilio used. Node| Express| MongoDb
+
+* [Organization](https://github.com/instant-meetup)
+
+* [Repo-BE](https://github.com/instant-meetup/instant-meetup)
+
+* [Slack Bot](https://github.com/team-eldapa/slack-meetup-bot)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Wes Griffin](http://nerdrich.io/) | [Github](https://github.com/codingclueless)   | [LinkedIn](https://www.linkedin.com/in/wesgriffincodes/)   |
+>|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   |
+>|  Eli Nicholson | [Github](https://github.com/EmNicholson93)   | [LinkedIn](https://www.linkedin.com/in/eli-nicholson/)   |
+
+___
+___
