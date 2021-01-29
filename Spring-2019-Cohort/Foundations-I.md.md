@@ -55,7 +55,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  [Danny Suarez](http://www.dannycodes.io/) | [Github](https://github.com/DannySuarez)   | [LinkedIn](https://www.linkedin.com/in/alex-ramirez-de-cruz/)   |
+>|  [Danny Suarez](http://www.dannycodes.io/) | [Github](https://github.com/DannySuarez)   | [LinkedIn](https://www.linkedin.com/in/dannysuarezpdx/)   |
 >| Carlos Us Santiago |  [Github](https://github.com/carlosus)  |  [LinkedIn](https://www.linkedin.com/in/carlosuss/)  |
 >|  Dirt Deodara | [Github](https://github.com/DirtDeodara)   | [LinkedIn](https://www.linkedin.com/in/dirtdeodara/)   |
 

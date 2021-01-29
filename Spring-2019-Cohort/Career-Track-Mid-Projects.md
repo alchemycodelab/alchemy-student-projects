@@ -96,6 +96,7 @@ ___
 >|---|---|---|
 >|  [Wes Griffin](http://nerdrich.io/) | [Github](https://github.com/codingclueless)   | [LinkedIn](https://www.linkedin.com/in/wesgriffincodes/)   |
 >|  Vasily Markov | [Github](https://github.com/Vasily93)   | [LinkedIn](https://www.linkedin.com/in/vasily-markov/)   |
+>|  [Danny Suarez](http://www.dannycodes.io/) | [Github](https://github.com/DannySuarez)   | [LinkedIn](https://www.linkedin.com/in/dannysuarezpdx/)   |
 
 ___
 ___

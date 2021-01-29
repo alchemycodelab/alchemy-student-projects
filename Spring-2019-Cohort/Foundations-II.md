@@ -80,7 +80,7 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  Vasily Markov | [Github](https://github.com/Vasily93)   | [LinkedIn](https://www.linkedin.com/in/vasily-markov/)   |
->|  [Danny Suarez](http://www.dannycodes.io/) | [Github](https://github.com/DannySuarez)   | [LinkedIn](https://www.linkedin.com/in/alex-ramirez-de-cruz/)   |
+>|  [Danny Suarez](http://www.dannycodes.io/) | [Github](https://github.com/DannySuarez)   | [LinkedIn](https://www.linkedin.com/in/dannysuarezpdx/)   |
 >|  [Alex Ramirez de Cruz](https://alexramirezdecruz.com/) | [Github](https://github.com/aramirezdecruz3148)   | [LinkedIn](https://www.linkedin.com/in/alex-ramirez-de-cruz/)   |
 >|  [Emily Ford](http://htmle.dev/) | [Github](https://github.com/mle4d)   | [LinkedIn](https://www.linkedin.com/in/mle4d/)   |
 >|  [Jon Forney](https://www.jonforney.com/) | [Github](https://github.com/MustardJoe)   | [LinkedIn](https://www.linkedin.com/in/jon-forney/)   |
