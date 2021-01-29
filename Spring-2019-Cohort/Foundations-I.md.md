@@ -55,7 +55,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  [Danny Suarez](http://www.dannycodes.io/) | [Github](https://github.com/DannySuarez)   | [LinkedIn](https://www.linkedin.com/in/alex-ramirez-de-cruz/)   |
+>|  [Danny Suarez](http://www.dannycodes.io/) | [Github](https://github.com/DannySuarez)   | [LinkedIn](https://www.linkedin.com/in/dannysuarezpdx/)   |
 >| Carlos Us Santiago |  [Github](https://github.com/carlosus)  |  [LinkedIn](https://www.linkedin.com/in/carlosuss/)  |
 >|  Dirt Deodara | [Github](https://github.com/DirtDeodara)   | [LinkedIn](https://www.linkedin.com/in/dirtdeodara/)   |
 
@@ -75,7 +75,7 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  Vasily Markov | [Github](https://github.com/Vasily93)   | [LinkedIn](https://www.linkedin.com/in/vasily-markov/)   |
->|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   | -->
+>|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   |
 
 ___
 ___
@@ -119,5 +119,5 @@ ___
 ___
 ___
 
- <!-- Missing a project for this person:
+ <!-- Unable to determind which project this person contributed to:
  >|  [Wes Griffin](http://nerdrich.io/) | [Github](https://github.com/codingclueless)   | [LinkedIn](https://www.linkedin.com/in/wesgriffincodes/)   | -->
