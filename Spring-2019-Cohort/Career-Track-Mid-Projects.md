@@ -95,6 +95,24 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Wes Griffin](http://nerdrich.io/) | [Github](https://github.com/codingclueless)   | [LinkedIn](https://www.linkedin.com/in/wesgriffincodes/)   |
+>|  Vasily Markov | [Github](https://github.com/Vasily93)   | [LinkedIn](https://www.linkedin.com/in/vasily-markov/)   |
+
+___
+___
+### Jabberish
+
+> Description 
+>>A chat application developed using Node, Express, Socket.IO, and MongoDB and Docker.
+
+* [Organization](https://github.com/jabberish)
+
+* [Rep-FE](https://github.com/jabberish/jabberish.github.io)
+
+* [Repo-BE](https://github.com/jabberish/jabberish)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  [Jack McConnell](http://jackmcconnell.dev/) | [Github](https://github.com/jwmcconnell)   | [LinkedIn](https://www.linkedin.com/in/mcconnelljack/)   |
 
 ___
 ___
