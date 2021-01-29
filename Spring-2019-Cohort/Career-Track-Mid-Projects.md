@@ -107,6 +107,8 @@ ___
 
 * [Repo-BE](https://github.com/team-eldapa/slack-meetup-bot)
 
+* [Slack Bot](https://slack-meetup-bot.herokuapp.com)
+
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   |
