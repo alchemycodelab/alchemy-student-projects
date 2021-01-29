@@ -92,13 +92,26 @@ ___
 
 * [Repo-BE](https://github.com/instant-meetup/instant-meetup)
 
-* [Slack Bot](https://github.com/team-eldapa/slack-meetup-bot)
-
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Wes Griffin](http://nerdrich.io/) | [Github](https://github.com/codingclueless)   | [LinkedIn](https://www.linkedin.com/in/wesgriffincodes/)   |
+
+___
+___
+### Slack Meetup Bot
+
+> Description 
+>>Slack channel bot for locating code meetups in Portland.  Built using Cheerio and Cron Jobs
+
+* [Organization](https://github.com/team-eldapa)
+
+* [Repo-BE](https://github.com/team-eldapa/slack-meetup-bot)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
 >|  [Pavel Kudlanov](http://kudlanov.com/) | [Github](https://github.com/pkudlanov)   | [LinkedIn](https://www.linkedin.com/in/pavelkudlanov/)   |
 >|  Eli Nicholson | [Github](https://github.com/EmNicholson93)   | [LinkedIn](https://www.linkedin.com/in/eli-nicholson/)   |
+>|  [Danny Hogan](http://www.dannyhogan.dev/) | [Github](https://github.com/dannyhogan)   | [LinkedIn](https://www.linkedin.com/in/danny-hogan/)   |
 
 ___
 ___
