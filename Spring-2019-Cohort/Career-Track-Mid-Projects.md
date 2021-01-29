@@ -26,7 +26,23 @@ ___
 
 ___
 ___
+### Chatterbox
 
+> Description 
+>>A new take on a chat room that uses a TCP server to connect clients into a chatroom which uses conditional melodies to create a soundscape based on the words we use to communicate.  Tech: Javascript, Node.js, MongoDB, Mongoose 
+
+* [Organization](https://github.com/team808)
+
+* [Repo-BE](https://github.com/team808/chatter-box)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  Dirt Deodara | [Github](https://github.com/DirtDeodara)   | [LinkedIn](https://www.linkedin.com/in/dirtdeodara/)   |
+>|  [Leigh-Ann Crivella](lacrivella.netlify.com/) | [Github](https://github.com/lacrivella)   | [LinkedIn](https://www.linkedin.com/in/lacrivella/)   |
+>|  Erin Gurley | [Github](https://github.com/eringurley)   | [LinkedIn](https://www.linkedin.com/in/erin-gurley/)   |
+
+___
+___
 ### Harmonie
 
 > Description 
