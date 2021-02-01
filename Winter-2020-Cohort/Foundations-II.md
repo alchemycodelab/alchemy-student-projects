@@ -116,5 +116,5 @@ ___
 >|[Chelsea Spangler](https://www.linkedin.com/in/chelseanspangler/) | [Github](https://github.com/CNSpangler)  | [LinkedIn](https://www.linkedin.com/in/chelseanspangler/)  |
 >|[Dakota Druley](https://www.linkedin.com/in/dakota-druley/) | [Github](https://github.com/dakotadruley)  | [LinkedIn](https://www.linkedin.com/in/dakota-druley/)  |
 >|[Dannie Schumaker](http://www.dannieschumaker.com) | [Github](https://github.com/DannieSchu)  | [LinkedIn](https://www.linkedin.com/in/dannieschumaker/)  |
->|[Fiona Ochs](https://fionaochs.dev/) | [Github](https://github.com/fionaochs)  | [LinkedIn](https://www.linkedin.com/in/fionaochs/)  |
+>|[Janelle Mellor](https://www.linkedin.com/in/janellemellor/) | [Github](https://github.com/janellemellor)  | [LinkedIn](https://www.linkedin.com/in/janellemellor/)  |
 >|[Jenna Goldman](https://jennagoldman.github.io/portfolio/) | [Github](https://github.com/jennagoldman)  | [LinkedIn](https://www.linkedin.com/in/jennagoldman/)  |
