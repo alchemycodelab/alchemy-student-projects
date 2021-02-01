@@ -24,7 +24,7 @@ ___
   - Github
   - LinkedIn
 
-***Please note, that while we try to keep the most up to date with project links and contact information, some projects or links may be deprecated or outdates. We apologize for any inconvenience.***
+***Please note, that while we try to keep the most up to date with project links and contact information, some projects or links may be deprecated or outdated. We apologize for any inconvenience.***
 ___
 ## Thank you for checking us out.  We hope you enjoy seeing the exciting projects and accomplishments of students at Alchemy!
 
