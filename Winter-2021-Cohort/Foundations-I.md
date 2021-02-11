@@ -2,7 +2,7 @@
 
 ## Foundations I
 
-First one week sprint, from concept through delivery, after week 3 in the program.  Focus was vanilla JS, HTML and CSS, and teams built this working remotely.
+First one week sprint, from concept through delivery, after week 5 in the program.  Focus was vanilla JS, HTML and CSS, and teams built this working remotely.
 ___
 ### Forgotten Logic
 
