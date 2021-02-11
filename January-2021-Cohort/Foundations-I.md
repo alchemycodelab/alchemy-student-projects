@@ -25,7 +25,7 @@ The tile movement map is based on Danish Mughal's Sliding Puzzle.
 >| Julianne Vela | [Github](https://github.com/julianne-vela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
 >| Devon Wolfkiel |  [Github]()  |  [LinkedIn]()  |
 >| Vance Mills |  [Github]()  |  [LinkedIn]()  |
->| Anthony Rosario |  [Github]()  |  [LinkedIn]()  |
+>| Anthony Rosario |  [Github](https://github.com/Anthony-Rosario)  |  [LinkedIn](https://www.linkedin.com/in/anthony-rosario/)  |
 
 ___
 ___
@@ -46,8 +46,8 @@ This project was made with only vanilla JS, CSS, and HTML - no additional librar
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Sam Gerber | [Github]()   | [LinkedIn]()   |
->| Cammeron Zimmerman |  [Github]()  |  [LinkedIn]()  |
+>| Sam Gerber | [Github](https://github.com/sgerpdx)   | [LinkedIn](https://www.linkedin.com/in/sam-h-gerber/)   |
+>| Cammeron Zimmerman |  [Github](https://github.com/CameronZimmerman)  |  [LinkedIn](https://www.linkedin.com/in/cameron-zimmerman/)  |
 >| Katy Boyles |  [Github](https://github.com/katrinkajb)  |  [LinkedIn](https://www.linkedin.com/in/katy-boyles/)  |
 
 ___
@@ -81,10 +81,10 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Kat Sauma | [Github]()   | [LinkedIn]()   |
+>| Kat Sauma | [Github](https://github.com/kat-sauma)   | [LinkedIn](https://github.com/kat-sauma)   |
 >| Cierra McDonald |  [Github](https://github.com/Cierra-McDonald)  |  [LinkedIn](https://www.linkedin.com/in/cierra-mcdonald/)  |
->| Zina Mohamed |  [Github]()  |  [LinkedIn]()  |
->| Claudia Mazriegos |  [Github]()  |  [LinkedIn]()  |
+>| Zina Mohamed |  [Github](https://github.com/zinamohamed)  |  [LinkedIn](https://www.linkedin.com/in/zina-mohamed/)  |
+>| Claudia Mazriegos |  [Github](https://github.com/cmazariegos44)  |  [LinkedIn](https://www.linkedin.com/in/claudia-mazariegos/)  |
 >| Lori Winston | [Github](https://github.com/LoriWinston)   | [LinkedIn](https://www.linkedin.com/in/loriwinston/)   |
 
 ___
@@ -128,7 +128,7 @@ ___
 >|---|---|---|
 >| Parker Sequeira | [Github](https://github.com/phsequeira)   | [LinkedIn](https://www.linkedin.com/in/parker-sequeira-b0a96886/)   |
 >| Taylor Reichner |  [Github](https://github.com/taylorreichner)  |  [LinkedIn](https://www.linkedin.com/in/taylor-reichner-stickel/)  |
->| Eion Nelson |  [Github]()  |  [LinkedIn]()  |
+>| Eion Nelson |  [Github](https://github.com/ecnelson)  |  [LinkedIn](https://www.linkedin.com/in/eionnelson/)  |
 >| Victor Williams |  [Github]()  |  [LinkedIn]()  |
 
 ___
@@ -176,7 +176,7 @@ Win Sound: https://freesound.org/people/Fupicat/sounds/521642/
 >| Katrina Cloyd | [Github](https://github.com/KatrinaCloyd?tab=repositories)   | [LinkedIn](https://www.linkedin.com/in/katrinacloyd/)   |
 >| Soraya Benson |  [Github]()  |  [LinkedIn]()  |
 >| Brandon Perard |  [Github]()  |  [LinkedIn]()  |
->| Casey Warren |  [Github]()  |  [LinkedIn]()  |
+>| Casey Warren |  [Github](https://github.com/caseywar)  |  [LinkedIn](https://www.linkedin.com/in/casey-maynah-warren/)  |
 
 ___
 ___
@@ -193,7 +193,7 @@ ___
 >|---|---|---|
 >| Erich Sauer | [Github](https://github.com/erichsauer)   | [LinkedIn](https://www.linkedin.com/in/erichsauer/)   |
 >| Nicole Martin |  [Github]()  |  [LinkedIn]()  |
->| Tyler Farris |  [Github]()  |  [LinkedIn]()  |
+>| Tyler Farris |  [Github](https://github.com/Tylerpfarris)  |  [LinkedIn](https://www.linkedin.com/in/tyler-p-farris/)  |
 >| Dylan White |  [Github]()  |  [LinkedIn]()  |
 
 ___
