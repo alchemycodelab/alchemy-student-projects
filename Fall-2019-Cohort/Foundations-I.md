@@ -23,7 +23,7 @@ ___
 ### Mindsweepers
 
 > Description 
->>A reimagined version of the classic 90's desktop computer game. Written in Vanilla JavaScript with a 5-member team in a week-long sprint.
+>>A re-imagined version of the classic 90's desktop computer game. Written in Vanilla JavaScript with a 5-member team in a week-long sprint.
 
 * [Repo FE](https://acl-minesweeper.github.io/mindsweepers/)
 * [Deployed Site](https://acl-minesweeper.github.io/mindsweepers/)

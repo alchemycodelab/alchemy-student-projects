@@ -6,7 +6,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 ### Markov Twain
 
 > Description 
->>Markov Twain creates the best new quotes from the oldest deadest authors, using the mathmatical system known as a Markov Chain. The creators choose these six specific writers for their unique styles, strong personalities, and clear voices. You can find a new randomly generated quote published every three hours over on Twitter@markovtwainbot!
+>>Markov Twain creates the best new quotes from the oldest deadest authors, using the mathematical system known as a Markov Chain. The creators choose these six specific writers for their unique styles, strong personalities, and clear voices. You can find a new randomly generated quote published every three hours over on Twitter @markovtwainbot!
 >
 
 - [Live Site](http://markovtwain.herokuapp.com/about.html)
@@ -25,7 +25,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 ### covrLettr
 
 > Description 
->>Mad lib stype application that allows a user to answer questions. It then takes those answers, creates multiple cover letters, and returns the cover letter with the highest sentiment test score.
+>>Mad libs type application that allows a user to answer questions. It then takes those answers, creates multiple cover letters, and returns the cover letter with the highest sentiment test score.
 >
 
 - [Live Site](https://covr-lettrs.herokuapp.com/api/v1/coverletters)

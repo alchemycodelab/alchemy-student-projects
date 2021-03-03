@@ -30,7 +30,7 @@ ___
 >|  Jasmin Moneymaker | [Github](https://github.com/JMoneymaker)   | [LinkedIn](https://www.linkedin.com/in/jasminmoneymaker/)   |
 >|  Ian Andrewson| [Github](https://github.com/ianandrewson)   | [LinkedIn](https://www.linkedin.com/in/ianandrewson/)   |
 >|  Eve Stockstill | [Github](https://github.com/evestockstill)   | [LinkedIn](https://www.linkedin.com/in/evestockstill/)   |
->\ (Ben Beekman)[https://benbeekman.dev/] | [Github](https://github.com/beekman)| [LinkedIn](https://benbeekman.dev/)
+>| [Ben Beekman](https://benbeekman.dev/) | [Github](https://github.com/beekman)| [LinkedIn](https://benbeekman.dev/)
 
 ### Columns and Rogues
 

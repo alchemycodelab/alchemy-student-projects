@@ -24,9 +24,6 @@ Fourth and final projects made in a two week sprint, from concept through delive
 >| [Jacob Harrington](jharrington.io)  | [Github](https://github.com/yaycub)   | [LinkedIn](https://www.linkedin.com/in/jacob-harrington-569203a1/)|
 
 
-
-
-
 ### Commit Kitty
 
 > Description 
