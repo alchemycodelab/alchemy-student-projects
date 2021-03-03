@@ -64,3 +64,18 @@ ___
 >|  Tali Avni | [Github](https://github.com/avnit77)   | [LinkedIn](https://www.linkedin.com/in/tali-avni/)   |
 >|  Tess Lameyer | [Github](https://github.com/tess-jl)   | [LinkedIn](https://www.linkedin.com/in/tesslameyer/)   |
 
+### NagMe
+
+> Description 
+>>NagMe is designed for the individual needing "nagging" reminders pushed straight to their iPhone for recurring tasks throughout their month, week and even day. This app used technologies such as Pushover (push notifications) as well as Cron Job. The user is able to create recurring "nags", update and delete them when they are done.
+
+* [Repo FE](https://github.com/Plant-Parenthood/treks-n-tents)
+* [Deployed Site](https://treksntrails.herokuapp.com/index.html?redirect=%2F)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>|  Casey Martell | [Github](https://github.com/drmartell)   | [LinkedIn](https://www.linkedin.com/in/drmartell/)   |
+>|  Nikki Sato | [Github](https://github.com/nikkisato)   | [LinkedIn](https://www.linkedin.com/in/nikkisato/)   |
+>|  Zak Hyslin | [Github](https://github.com/rapscalan)   | [LinkedIn](www.linkedin.com/in/zak-hyslin)   |
+>|  Sarah Mayfield | [Github](https://github.com/okFox)   | [LinkedIn](https://www.linkedin.com/in/sarah-mayfield/)   |
+>|  Nick Brimmer | [Github](https://github.com/NickBrimmer)   | [LinkedIn](https://www.linkedin.com/in/nick-brimmer/)   |
