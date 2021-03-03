@@ -5,7 +5,6 @@ Second one week sprint, from concept through delivery, after week 7 in the progr
 ### Administrative Error 
 > Description 
 >>Administrative Error is a campaign contribution visualization tool to help users more easily visualize where political campiagn contibutions are coming from.
-.
 * [Repo FE](https://github.com/administrativeError/campaign-project)
 * [Deployed Site](http://administrative-error.herokuapp.com/index.html?redirect=%2F)
 
