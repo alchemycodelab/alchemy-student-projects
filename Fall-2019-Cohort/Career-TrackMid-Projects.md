@@ -52,7 +52,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 >| Lisa Carpenter | [Github](https://github.com/licarpen)   | [LinkedIn](https://www.linkedin.com/in/lisacarpenter256/)   |
 >|  Tess Lameyer | [Github](https://github.com/tess-jl)   | [LinkedIn](https://www.linkedin.com/in/tesslameyer/)   |
 >|  Ian Andrewson| [Github](https://github.com/ianandrewson)   | [LinkedIn](https://www.linkedin.com/in/ianandrewson/)   |
->| (Ben Beekman)[https://benbeekman.dev/] | [Github](https://github.com/beekman)| [LinkedIn](https://benbeekman.dev/)
+>| [Ben Beekman](https://benbeekman.dev/) | [Github](https://github.com/beekman)| [LinkedIn](https://benbeekman.dev/)
 >| Alan Hermanns | [Github](https://github.com/alanhermanns)   | [LinkedIn](https://www.linkedin.com/in/alanhermanns/)|
 
 ### KNOWOncology
