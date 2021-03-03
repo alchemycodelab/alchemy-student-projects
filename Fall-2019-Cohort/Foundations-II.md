@@ -4,7 +4,7 @@
 Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, MongoDB and RESTful API calls hitting a 3rd party API.
 ### Administrative Error 
 > Description 
->>Administrative Error is a campaign contribution visualization tool to help users more easily visualize where political campiagn contibutions are coming from.
+>>Administrative Error is a campaign contribution visualization tool to help users more easily visualize where political campaign contributions are coming from.
 * [Repo FE](https://github.com/administrativeError/campaign-project)
 * [Deployed Site](http://administrative-error.herokuapp.com/index.html?redirect=%2F)
 
