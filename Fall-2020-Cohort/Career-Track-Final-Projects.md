@@ -4,16 +4,16 @@
 
 Fourth and final projects made in a one week sprint, from concept through delivery, after week 18 in the program.  These students have just finished more than 800 hours of our professional software development training. They've learned how to harness FullStack JavaScript capabilities using React, Redux, Node, Express, and PostgreSQL, all while working on fully remote teams.
 ___
-### App Name
+### Bloom Financial
 
 > Description 
->>
+>> 
 
-* [Organization]()
+* [Organization](https://github.com/Bloom-Financial)
 
-* [Repo-FE]()
+* [Repo-FE](https://github.com/Bloom-Financial/front-end)
 
-* [Repo-BE]()
+* [Repo-BE](https://github.com/Bloom-Financial/back-end)
 
 * [Deployed Site]()
 
