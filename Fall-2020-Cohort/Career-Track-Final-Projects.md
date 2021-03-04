@@ -57,7 +57,7 @@ ___
 ___
 ___
 
-### App Name
+### FIIN (Digital Independent Home Theatre)
 
 > Description 
 >>
@@ -190,7 +190,6 @@ ___
 >| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
 >| Jillian Gibson |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
 >|  [Rhone Lachner](http://rhonelachner.com/) | [Github](https://github.com/RhoneLachner)   | [LinkedIn](https://www.linkedin.com/in/rhonelachner/)   |
-
 
 ___
 ___
