@@ -138,16 +138,16 @@ ___
 ___
 ___
 
-### App Name
+### WeatherBeats
 
 > Description 
 >>
 
-* [Organization]()
+* [Organization](https://github.com/WeatherBeats)
 
-* [Repo-FE]()
+* [Repo-FE](https://github.com/WeatherBeats/WeatherBeats-frontend)
 
-* [Repo-BE]()
+* [Repo-BE](https://github.com/WeatherBeats/WeatherBeats-server)
 
 * [Deployed Site]()
 
