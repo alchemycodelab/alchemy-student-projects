@@ -23,7 +23,7 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Dee Watson |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
->| Jillian Gibson |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
+>| [Jillian Gibson](http://www.jillianlg.com/) |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
 >| Evan Finkelstein |  [Github](https://github.com/Evan-Finkelstein)  |  [LinkedIn](https://www.linkedin.com/in/evan-finkelstein91/)  |
 >| [Paul Stevens](https://paulstevens.dev/) |  [Github](https://github.com/Protopaco)  |  [LinkedIn](https://www.linkedin.com/in/paul-stevens-dev/)  |
 >|  Sjaan Hydrick | [Github](https://github.com/SjaanHydrick)   | [LinkedIn](https://www.linkedin.com/in/sjaan-hydrick/)   |
