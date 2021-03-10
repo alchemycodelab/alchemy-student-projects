@@ -21,7 +21,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Jillian Gibson |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
+>| [Jillian Gibson](http://www.jillianlg.com/) |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
 >| Bryana Kitchen |  [Github](https://github.com/bryanakitchen)  |  [LinkedIn](https://www.linkedin.com/in/bryanakitchen/)  |
 >| Franco Ortega |  [Github](https://github.com/franco-ortega)  |  [LinkedIn](https://www.linkedin.com/in/francoortega/)  |
 >|  [Rhone Lachner](http://rhonelachner.com/) | [Github](https://github.com/RhoneLachner)   | [LinkedIn](https://www.linkedin.com/in/rhonelachner/)   |
