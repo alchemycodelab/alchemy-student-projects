@@ -145,7 +145,7 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
->| Katie Jones |  [Github](https://github.com/katiejonesyo)  |  [LinkedIn](https://www.linkedin.com/in/katiejonesyo/)  |
+>| Katie Berry |  [Github](https://github.com/KatieMBerry)  |  [LinkedIn](https://www.linkedin.com/in/katie-m-berry/)  |
 >| Rosalie Lee-Washington |  [Github](https://github.com/rosalie337)  |  [LinkedIn](https://www.linkedin.com/in/rosalielee/)  |
 >|  Perry Sittser | [Github](https://github.com/sittserp)   | [LinkedIn](https://www.linkedin.com/in/sittserp/)   |
 >| Jonathan Quesada |  [Github](https://github.com/QuesadaJon)  |  [LinkedIn](https://www.linkedin.com/in/quesada-jonathan/)  |
