@@ -173,7 +173,7 @@ ___
 >| Sam Formichella |  [Github](https://github.com/sformichella)  |  [LinkedIn](https://www.linkedin.com/in/sam-formichella/)  |
 >|  Ryan Carreras | [Github](https://github.com/ryanleviathan)   | [LinkedIn](https://www.linkedin.com/in/ryancarreras/)   |
 >| Katie Berry |  [Github](https://github.com/KatieMBerry)  |  [LinkedIn](https://www.linkedin.com/in/katie-m-berry/)  |
->| Richard Hillman |  [Github](https://github.com/Richard-Hillman)  |  [LinkedIn](https://www.linkedin.com/in/richard-hillman/)  |
+>| [Richard Hillman](http://richard-hillman.com/) |  [Github](https://github.com/Richard-Hillman)  |  [LinkedIn](https://www.linkedin.com/in/richard-hillman/)  |
 
 ___
 ___
