@@ -141,7 +141,7 @@ ___
 ### WeatherBeats
 
 > Description 
->>
+>> Weather-inspired playlists based on the weather in your area. WeatherBeats checks a user's current location and current weather, and provides them with weather-appropriate playlists to enjoy through the Spotify app.  The user may select music based on their desired weather or use a filter to listen to playlists more catered to their taste.
 
 * [Organization](https://github.com/WeatherBeats)
 
@@ -149,47 +149,19 @@ ___
 
 * [Repo-BE](https://github.com/WeatherBeats/WeatherBeats-server)
 
-* [Deployed Site]()
+* [Deployed Site](https://weatherbeats.netlify.app/)
 
-* [Backend Hosting]()
+* [Backend Hosting](https://weatherbeats.herokuapp.com/)
 
 * [Video Presentation]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
+>| Donny Vu |  [Github](https://github.com/DonnyLVu)  |  [LinkedIn](https://www.linkedin.com/in/donnylvu/)  |
 >| Bryana Kitchen |  [Github](https://github.com/bryanakitchen)  |  [LinkedIn](https://www.linkedin.com/in/bryanakitchen/)  |
 >| Franco Ortega |  [Github](https://github.com/franco-ortega)  |  [LinkedIn](https://www.linkedin.com/in/francoortega/)  |
->| Donny Vu |  [Github](https://github.com/DonnyLVu)  |  [LinkedIn](https://www.linkedin.com/in/donnylvu/)  |
 >|  [Shane Upchurch](https://shane-upchurch.netlify.app/)| [Github](https://github.com/ShaneUP1)   | [LinkedIn](https://www.linkedin.com/in/shaneupchurch/)   |
 >|  Perry Sittser | [Github](https://github.com/sittserp)   | [LinkedIn](https://www.linkedin.com/in/sittserp/)   |
-
-___
-___
-
-### App Name
-
-> Description 
->>
-
-* [Organization]()
-
-* [Repo-FE]()
-
-* [Repo-BE]()
-
-* [Deployed Site]()
-
-* [Backend Hosting]()
-
-* [Video Presentation]()
-
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Dee Watson |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
->|  [Jeff Irvine](www.Jeffirvine.dev)| [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
->| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
->| Jillian Gibson |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
->|  [Rhone Lachner](http://rhonelachner.com/) | [Github](https://github.com/RhoneLachner)   | [LinkedIn](https://www.linkedin.com/in/rhonelachner/)   |
 
 ___
 ___
