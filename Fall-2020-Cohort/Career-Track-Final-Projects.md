@@ -23,8 +23,8 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Donny Vu |  [Github](https://github.com/DonnyLVu)  |  [LinkedIn](https://www.linkedin.com/in/donnylvu/)  |
 >| Bryana Kitchen |  [Github](https://github.com/bryanakitchen)  |  [LinkedIn](https://www.linkedin.com/in/bryanakitchen/)  |
+>| Donny Vu |  [Github](https://github.com/DonnyLVu)  |  [LinkedIn](https://www.linkedin.com/in/donnylvu/)  |
 >| Franco Ortega |  [Github](https://github.com/franco-ortega)  |  [LinkedIn](https://www.linkedin.com/in/francoortega/)  |
 >|  [Shane Upchurch](https://shane-upchurch.netlify.app/)| [Github](https://github.com/ShaneUP1)   | [LinkedIn](https://www.linkedin.com/in/shaneupchurch/)   |
 >|  Perry Sittser | [Github](https://github.com/sittserp)   | [LinkedIn](https://www.linkedin.com/in/sittserp/)   |
