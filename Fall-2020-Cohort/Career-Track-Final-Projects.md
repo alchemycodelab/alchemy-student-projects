@@ -19,7 +19,7 @@ ___
 
 * [Backend Hosting](https://weatherbeats.herokuapp.com/)
 
-* [Video Presentation]()
+* [Video Presentation Coming soon...]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -46,7 +46,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation Coming soon...]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -72,7 +72,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation Coming soon...]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -98,7 +98,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation Coming soon...]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -125,7 +125,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation Coming soon...]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -138,19 +138,19 @@ ___
 ### FIIN (Digital Independent Home Theatre)
 
 > Description 
->>
+>>  FIIN stands for Film Indie. A site dedicated to empowering independent filmmakers and film industry professionals. In this application directors can submit a proposal to crowdfund a movie and then market and sell directly from our site. This empowers indie filmmakers by giving them complete control of their cinematic experience and rights. FIIN is also a portal to meet and connect with other film industry professionals. 
 
-* [Organization]()
+* [Organization](https://github.com/Gisaengchung)
 
-* [Repo-FE]()
+* [Repo-FE](https://github.com/Gisaengchung/front-end)
 
-* [Repo-BE]()
+* [Repo-BE](https://github.com/Gisaengchung/back-end)
 
-* [Deployed Site]()
+* [Deployed Site](https://fiin.netlify.app/)
 
-* [Backend Hosting]()
+* [Backend Hosting](https://fiin-dev.herokuapp.com/)
 
-* [Video Presentation]()
+* [Video Presentation Coming soon...]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -177,7 +177,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation Coming soon...]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
