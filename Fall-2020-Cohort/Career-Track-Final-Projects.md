@@ -86,15 +86,15 @@ ___
 ### Flourish
 
 > Description 
->>
+>>Flourish is an app to help novice plant owners navigate the nursery and learn how to care for their new plant family. Through text search or photo recognition, the user can easily identify a plant, see its maintenance level and get detailed information on plant-specific care. Users can add plants to their collection, log care history and add custom notes.
 
-* [Organization]()
+* [Organization](https://github.com/FlourishTeam)
 
-* [Repo-FE]()
+* [Repo-FE](https://github.com/FlourishTeam/flourish-frontend)
 
-* [Repo-BE]()
+* [Repo-BE](https://github.com/FlourishTeam/flourish-backend)
 
-* [Deployed Site]()
+* [Deployed Site](https://flourish-pro.netlify.app/)
 
 * [Backend Hosting]()
 
