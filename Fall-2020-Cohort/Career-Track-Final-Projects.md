@@ -77,8 +77,8 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Ethan Pierce |  [Github](https://github.com/jumpybuns)  |  [LinkedIn](https://www.linkedin.com/in/ethanpiercepresents/)  |
->|  Ryan Carreras | [Github](https://github.com/ryanleviathan)   | [LinkedIn](https://www.linkedin.com/in/ryancarreras/)   |
 >| Ray Sakultarawattn |  [Github](https://github.com/rsakultarawattn)  |  [LinkedIn](https://www.linkedin.com/in/raysakultarawattn/)  |
+>| Ryan Carreras | [Github](https://github.com/ryanleviathan)   | [LinkedIn](https://www.linkedin.com/in/ryancarreras/)   |
 >| Sarah Skillen |  [Github](https://github.com/sarah-svg)  |  [LinkedIn](https://www.linkedin.com/in/sarah-skillen-7339b61b8/)  |
 
 ___
@@ -102,11 +102,11 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
+>| Dee Watson |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
 >|  [Jeff Irvine](www.Jeffirvine.dev)| [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
+>| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
 >| [Jillian Gibson](http://www.jillianlg.com/) |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
 >|  [Rhone Lachner](http://rhonelachner.com/) | [Github](https://github.com/RhoneLachner)   | [LinkedIn](https://www.linkedin.com/in/rhonelachner/)   |
->| Dee Watson |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
->| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
 
 ___
 ___
