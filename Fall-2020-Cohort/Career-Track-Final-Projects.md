@@ -113,17 +113,17 @@ ___
 ### Pool Party
 
 > Description 
->>
+>>Pool Party is an application that makes paying rent easy. Whether you are a single tenant or splitting rent amongst roommates. Each tenant can create a pool party. When all the payments are submitted, the payments are then sent to a property owner at once. 
 
-* [Organization]()
+* [Organization](https://github.com/alchemy-final-project)
 
-* [Repo-FE]()
+* [Repo-FE](https://github.com/alchemy-final-project/pool-party-fe)
 
-* [Repo-BE]()
+* [Repo-BE](https://github.com/alchemy-final-project/pool-party-be)
 
-* [Deployed Site]()
+* [Deployed Site](https://stripe-pool-party.netlify.app/)
 
-* [Backend Hosting]()
+* [Backend Hosting](https://pool-party-live.herokuapp.com/)
 
 * [Video Presentation Coming soon...]()
 
