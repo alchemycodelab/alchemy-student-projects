@@ -165,13 +165,13 @@ ___
 ### M4tl33tz
 
 > Description 
->>
+>>Our application allows for users a relaxed environment to exercise their math abilities in our Academic Room. After polishing your abilities take your friends on in head to head challenges in our Game Room for a little friendly competition.
 
-* [Organization]()
+* [Organization](https://github.com/m4thl33tz)
 
-* [Repo-FE]()
+* [Repo-FE](https://github.com/m4thl33tz/m4thl33tz-client)
 
-* [Repo-BE]()
+* [Repo-BE](https://github.com/m4thl33tz/m4thl33tz-server)
 
 * [Deployed Site]()
 
