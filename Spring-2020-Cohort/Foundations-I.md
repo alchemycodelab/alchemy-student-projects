@@ -55,7 +55,7 @@ ___
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Annalise Murphy](https://annalisemurphy.netlify.app/) | [Github](https://github.com/Annalise-M)  | [LinkedIn](https://www.linkedin.com/in/annalise-murphy/)  |
->|  [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/) | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
+>|  [Breeann Bolinsky](https://www.breeannbolinsky.com/)  | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
 >|  [Briseida Pagador](https://briseida-pagador.com/) | [Github](https://github.com/bpagador)  | [LinkedIn](https://www.linkedin.com/in/briseida-pagador/)  |
 >|  [Lucia Brammer](https://lucia-brammer.com/) | [Github](https://github.com/brammerl)  | [LinkedIn](https://www.linkedin.com/in/luciabrammer/)  |
 

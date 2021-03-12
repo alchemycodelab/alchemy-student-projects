@@ -37,7 +37,7 @@ ___
  
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/) | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
+>|  [Breeann Bolinsky](https://www.breeannbolinsky.com/)  | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
 >|  [Briseida Pagador](https://briseida-pagador.com/) | [Github](https://github.com/bpagador)  | [LinkedIn](https://www.linkedin.com/in/briseida-pagador/)  |
 >|  [Jaime Sanders](https://www.linkedin.com/in/jaimelyn/) | [Github](https://github.com/jaimekinsley)   | [LinkedIn](https://www.linkedin.com/in/jaimelyn/)   |
 >|  [Max Lamb](https://www.linkedin.com/in/max-lamb/) | [Github](https://github.com/MaximusLamb)  | [LinkedIn](https://www.linkedin.com/in/max-lamb/)  |

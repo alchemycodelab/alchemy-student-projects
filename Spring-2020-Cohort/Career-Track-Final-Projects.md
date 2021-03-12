@@ -37,7 +37,7 @@ ___
 
 >| Contributing Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  [Breeann Bolinsky](https://www.linkedin.com/in/breeannbolinsky/) | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
+>|  [Breeann Bolinsky](https://www.breeannbolinsky.com/) | [Github](https://github.com/breeannb)  | [LinkedIn](https://www.linkedin.com/in/breeannbolinsky/)  |
 >|  [Briseida Pagador](https://briseida-pagador.com/) | [Github](https://github.com/bpagador)  | [LinkedIn](https://www.linkedin.com/in/briseida-pagador/)  |
 >|  [Langston Beckwith-Stanley](https://www.linkedin.com/in/langston-beckwith-stanley/) | [Github](https://github.com/langstonBS)  | [LinkedIn](https://www.linkedin.com/in/langston-beckwith-stanley/)  |
 >|  [Nikki Kiga](https://www.linkedin.com/in/nikkikiga) | [Github](https://github.com/nikki-kiga)  | [LinkedIn](https://www.linkedin.com/in/nikkikiga)  |
