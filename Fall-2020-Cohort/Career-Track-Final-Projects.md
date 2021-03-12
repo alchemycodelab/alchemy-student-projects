@@ -60,7 +60,7 @@ ___
 ### Bloom Financial
 
 > Description 
->> 
+>> An investment site for the individual investor of any experience level.
 
 * [Organization](https://github.com/Bloom-Financial)
 
@@ -68,9 +68,9 @@ ___
 
 * [Repo-BE](https://github.com/Bloom-Financial/back-end)
 
-* [Deployed Site]()
+* [Deployed Site](https://bloom-financial.netlify.app/)
 
-* [Backend Hosting]()
+* [Backend Hosting](https://bloom-financial-group.herokuapp.com/)
 
 * [Video Presentation Coming soon...]()
 
@@ -113,17 +113,17 @@ ___
 ### Pool Party
 
 > Description 
->>
+>>Pool Party is an application that makes paying rent easy. Whether you are a single tenant or splitting rent amongst roommates. Each tenant can create a pool party. When all the payments are submitted, the payments are then sent to a property owner at once. 
 
-* [Organization]()
+* [Organization](https://github.com/alchemy-final-project)
 
-* [Repo-FE]()
+* [Repo-FE](https://github.com/alchemy-final-project/pool-party-fe)
 
-* [Repo-BE]()
+* [Repo-BE](https://github.com/alchemy-final-project/pool-party-be)
 
-* [Deployed Site]()
+* [Deployed Site](https://stripe-pool-party.netlify.app/)
 
-* [Backend Hosting]()
+* [Backend Hosting](https://pool-party-live.herokuapp.com/)
 
 * [Video Presentation Coming soon...]()
 
@@ -165,17 +165,17 @@ ___
 ### M4tl33tz
 
 > Description 
->>
+>>Our application allows for users a relaxed environment to exercise their math abilities in our Academic Room. After polishing your abilities take your friends on in head to head challenges in our Game Room for a little friendly competition.
 
-* [Organization]()
+* [Organization](https://github.com/m4thl33tz)
 
-* [Repo-FE]()
+* [Repo-FE](https://github.com/m4thl33tz/m4thl33tz-client)
 
-* [Repo-BE]()
+* [Repo-BE](https://github.com/m4thl33tz/m4thl33tz-server)
 
-* [Deployed Site]()
+* [Deployed Site](https://m4thl33tz-staging.netlify.app/)
 
-* [Backend Hosting]()
+* [Backend Hosting](https://git.heroku.com/m4thl33tz-backend-staging.git)
 
 * [Video Presentation Coming soon...]()
 
