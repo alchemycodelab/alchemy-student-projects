@@ -124,7 +124,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  [Jeff Irvine](www.Jeffirvine.dev)| [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
+>|  Jeff Irvine | [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
 >| Sydney James |  [Github](https://github.com/scjam)  |  [LinkedIn](https://www.linkedin.com/in/sydjames/)  |
 >| Kevin Fiero |  [Github](https://github.com/kevinfiero)  |  [LinkedIn](https://www.linkedin.com/in/kevinfiero/)  |
 >| Erik Graciosa |  [Github](https://github.com/ErikGraciosa)  |  [LinkedIn](https://www.linkedin.com/in/erikgraciosa/)  |

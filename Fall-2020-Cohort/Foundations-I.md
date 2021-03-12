@@ -107,7 +107,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  [Jeff Irvine](www.Jeffirvine.dev)| [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
+>|  Jeff Irvine | [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
 >| [Jillian Gibson](http://www.jillianlg.com/) |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |
 >| Rosalie Lee-Washington |  [Github](https://github.com/rosalie337)  |  [LinkedIn](https://www.linkedin.com/in/rosalielee/)  |
 >| Sarah Skillen |  [Github](https://github.com/sarah-svg)  |  [LinkedIn](https://www.linkedin.com/in/sarah-skillen-7339b61b8/)  |
