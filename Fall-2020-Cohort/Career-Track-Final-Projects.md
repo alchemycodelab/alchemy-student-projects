@@ -60,7 +60,7 @@ ___
 ### Bloom Financial
 
 > Description 
->> 
+>> An investment site for the individual investor of any experience level.
 
 * [Organization](https://github.com/Bloom-Financial)
 
@@ -68,9 +68,9 @@ ___
 
 * [Repo-BE](https://github.com/Bloom-Financial/back-end)
 
-* [Deployed Site]()
+* [Deployed Site](https://bloom-financial.netlify.app/)
 
-* [Backend Hosting]()
+* [Backend Hosting](https://bloom-financial-group.herokuapp.com/)
 
 * [Video Presentation Coming soon...]()
 
@@ -173,9 +173,9 @@ ___
 
 * [Repo-BE](https://github.com/m4thl33tz/m4thl33tz-server)
 
-* [Deployed Site]()
+* [Deployed Site](https://m4thl33tz-staging.netlify.app/)
 
-* [Backend Hosting]()
+* [Backend Hosting](https://git.heroku.com/m4thl33tz-backend-staging.git)
 
 * [Video Presentation Coming soon...]()
 
