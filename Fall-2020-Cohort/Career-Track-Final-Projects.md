@@ -129,7 +129,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| [Erik Graciosa](www.erikgraciosa.com) |  [Github](https://github.com/ErikGraciosa)  |  [LinkedIn](https://www.linkedin.com/in/erikgraciosa/)  |
+>| [Erik Graciosa](https://www.erikgraciosa.com) |  [Github](https://github.com/ErikGraciosa)  |  [LinkedIn](https://www.linkedin.com/in/erikgraciosa/)  |
 >| Katie Berry |  [Github](https://github.com/KatieMBerry)  |  [LinkedIn](https://www.linkedin.com/in/katie-m-berry/)  |
 >| Rosalie Lee-Washington |  [Github](https://github.com/rosalie337)  |  [LinkedIn](https://www.linkedin.com/in/rosalielee/)  |
 
