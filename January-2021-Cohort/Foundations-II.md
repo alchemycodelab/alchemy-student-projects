@@ -19,8 +19,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation](https://zoom.us/rec/share/UbJK5XJJs78jeLVW0YynqrpOuqcAUSdxvpb7d_Jz9w6v4qUHsdvWQmxZxaAHP1TM.cTMFNuS-Naq4fffw)
-* Access Passcode: R8K!14dg
+* [Video Presentation](https://zoom.us/rec/share/UbJK5XJJs78jeLVW0YynqrpOuqcAUSdxvpb7d_Jz9w6v4qUHsdvWQmxZxaAHP1TM.cTMFNuS-Naq4fffw) (Access Passcode: R8K!14dg)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -46,7 +45,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation](https://zoom.us/rec/share/UbJK5XJJs78jeLVW0YynqrpOuqcAUSdxvpb7d_Jz9w6v4qUHsdvWQmxZxaAHP1TM.cTMFNuS-Naq4fffw) (Access Passcode: R8K!14dg)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -76,7 +75,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation](https://zoom.us/rec/share/UbJK5XJJs78jeLVW0YynqrpOuqcAUSdxvpb7d_Jz9w6v4qUHsdvWQmxZxaAHP1TM.cTMFNuS-Naq4fffw) (Access Passcode: R8K!14dg)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -102,7 +101,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation](https://zoom.us/rec/share/UbJK5XJJs78jeLVW0YynqrpOuqcAUSdxvpb7d_Jz9w6v4qUHsdvWQmxZxaAHP1TM.cTMFNuS-Naq4fffw) (Access Passcode: R8K!14dg)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -129,7 +128,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation](https://zoom.us/rec/share/UbJK5XJJs78jeLVW0YynqrpOuqcAUSdxvpb7d_Jz9w6v4qUHsdvWQmxZxaAHP1TM.cTMFNuS-Naq4fffw) (Access Passcode: R8K!14dg)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -155,7 +154,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation](https://zoom.us/rec/share/UbJK5XJJs78jeLVW0YynqrpOuqcAUSdxvpb7d_Jz9w6v4qUHsdvWQmxZxaAHP1TM.cTMFNuS-Naq4fffw) (Access Passcode: R8K!14dg)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -181,7 +180,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation](https://zoom.us/rec/share/UbJK5XJJs78jeLVW0YynqrpOuqcAUSdxvpb7d_Jz9w6v4qUHsdvWQmxZxaAHP1TM.cTMFNuS-Naq4fffw) (Access Passcode: R8K!14dg)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -208,7 +207,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation](https://zoom.us/rec/share/UbJK5XJJs78jeLVW0YynqrpOuqcAUSdxvpb7d_Jz9w6v4qUHsdvWQmxZxaAHP1TM.cTMFNuS-Naq4fffw) (Access Passcode: R8K!14dg)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -234,7 +233,7 @@ ___
 
 * [Backend Hosting]()
 
-* [Video Presentation]()
+* [Video Presentation](https://zoom.us/rec/share/UbJK5XJJs78jeLVW0YynqrpOuqcAUSdxvpb7d_Jz9w6v4qUHsdvWQmxZxaAHP1TM.cTMFNuS-Naq4fffw) (Access Passcode: R8K!14dg)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
