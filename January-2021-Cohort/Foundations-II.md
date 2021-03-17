@@ -4,22 +4,30 @@
 
 Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, PostgreSQL and RESTful API calls hitting a 3rd party API, on fully remote teams.
 ___
-### Project Name 1
+### FaveDog
 
 > Description 
 >>
 
+* [Organization]()
 
-* [Repo]()
+* [Repo-FE]()
 
-* [Deployed Site]()
+* [Repo-BE]()
+
+* [Deployed Site](https://favedog.netlify.app/)
+
+* [Backend Hosting]()
+
+* [Video Presentation](https://zoom.us/rec/share/UbJK5XJJs78jeLVW0YynqrpOuqcAUSdxvpb7d_Jz9w6v4qUHsdvWQmxZxaAHP1TM.cTMFNuS-Naq4fffw)
+* Access Passcode: R8K!14dg
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Julianne Vela | [Github](https://github.com/julianne-vela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
->| Devon Wolfkiel |  [Github]()  |  [LinkedIn]()  |
->| Vance Mills |  [Github]()  |  [LinkedIn]()  |
->| Anthony Rosario |  [Github](https://github.com/Anthony-Rosario)  |  [LinkedIn](https://www.linkedin.com/in/anthony-rosario/)  |
+>| Edmond Zhan |  [Github](https://github.com/zhaned)  |  [LinkedIn](https://www.linkedin.com/in/edmondzhan/)  |
+>| Eion Nelson |  [Github](https://github.com/ecnelson)  |  [LinkedIn](https://www.linkedin.com/in/eionnelson/)  |
+>| Minh Ngo | [Github](https://github.com/ngominh0224)   | [LinkedIn](https://www.linkedin.com/in/minhnngo/)   |
+>| Tyler Farris |  [Github](https://github.com/Tylerpfarris)  |  [LinkedIn](https://www.linkedin.com/in/tyler-p-farris/)  |
 
 ___
 ___
@@ -28,15 +36,28 @@ ___
 > Description 
 >>
 
-* [Repo]()
+* [Organization]()
+
+* [Repo-FE]()
+
+* [Repo-BE]()
 
 * [Deployed Site]()
+
+* [Backend Hosting]()
+
+* [Video Presentation]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Sam Gerber | [Github](https://github.com/sgerpdx)   | [LinkedIn](https://www.linkedin.com/in/sam-h-gerber/)   |
 >| Cammeron Zimmerman |  [Github](https://github.com/CameronZimmerman)  |  [LinkedIn](https://www.linkedin.com/in/cameron-zimmerman/)  |
 >| Katy Boyles |  [Github](https://github.com/katrinkajb)  |  [LinkedIn](https://www.linkedin.com/in/katy-boyles/)  |
+
+>| Julianne Vela | [Github](https://github.com/julianne-vela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
+>| Devon Wolfkiel |  [Github]()  |  [LinkedIn]()  |
+>| Vance Mills |  [Github]()  |  [LinkedIn]()  |
+>| Anthony Rosario |  [Github](https://github.com/Anthony-Rosario)  |  [LinkedIn](https://www.linkedin.com/in/anthony-rosario/)  |
 
 ___
 ___
@@ -45,9 +66,17 @@ ___
 > Description 
 >>
 
-* [Repo]()
+* [Organization]()
+
+* [Repo-FE]()
+
+* [Repo-BE]()
 
 * [Deployed Site]()
+
+* [Backend Hosting]()
+
+* [Video Presentation]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -63,9 +92,17 @@ ___
 > Description 
 >>
 
-* [Repo]()
+* [Organization]()
+
+* [Repo-FE]()
+
+* [Repo-BE]()
 
 * [Deployed Site]()
+
+* [Backend Hosting]()
+
+* [Video Presentation]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -82,13 +119,20 @@ ___
 > Description 
 >>
 
-* [Repo](https://github.com/Dominique-Sakrisson/nutri-project)
+* [Organization]()
 
-* [Deployed Site](https://dominique-sakrisson.github.io/nutri-project/)
+* [Repo-FE]()
+
+* [Repo-BE]()
+
+* [Deployed Site]()
+
+* [Backend Hosting]()
+
+* [Video Presentation]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Minh Ngo | [Github](https://github.com/ngominh0224)   | [LinkedIn](https://www.linkedin.com/in/minhnngo/)   |
 >| Dominique Sakrisson |  [Github]()  |  [LinkedIn]()  |
 >| Jake Thrasher |  [Github](https://github.com/jakethrasher)  |  [LinkedIn](https://www.linkedin.com/in/m-jake-thrasher/)  |
 >| Patrick Hrabos |  [Github]()  |  [LinkedIn]()  |
@@ -101,9 +145,17 @@ ___
 > Description 
 >>
 
-* [Repo]()
+* [Organization]()
+
+* [Repo-FE]()
+
+* [Repo-BE]()
 
 * [Deployed Site]()
+
+* [Backend Hosting]()
+
+* [Video Presentation]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -119,9 +171,17 @@ ___
 > Description 
 >>
 
-* [Repo]()
+* [Organization]()
+
+* [Repo-FE]()
+
+* [Repo-BE]()
 
 * [Deployed Site]()
+
+* [Backend Hosting]()
+
+* [Video Presentation]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -138,9 +198,17 @@ ___
 >>
 
 
-* [Repo]()
+* [Organization]()
+
+* [Repo-FE]()
+
+* [Repo-BE]()
 
 * [Deployed Site]()
+
+* [Backend Hosting]()
+
+* [Video Presentation]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -156,15 +224,22 @@ ___
 > Description 
 >>
 
-* [Repo]()
+* [Organization]()
+
+* [Repo-FE]()
+
+* [Repo-BE]()
 
 * [Deployed Site]()
+
+* [Backend Hosting]()
+
+* [Video Presentation]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Erich Sauer | [Github](https://github.com/erichsauer)   | [LinkedIn](https://www.linkedin.com/in/erichsauer/)   |
 >| Nicole Martin |  [Github]()  |  [LinkedIn]()  |
->| Tyler Farris |  [Github](https://github.com/Tylerpfarris)  |  [LinkedIn](https://www.linkedin.com/in/tyler-p-farris/)  |
 >| Dylan White |  [Github]()  |  [LinkedIn]()  |
 
 ___
