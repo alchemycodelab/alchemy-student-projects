@@ -19,7 +19,7 @@ ___
 
 * [Backend Hosting](https://weatherbeats.herokuapp.com/)
 
-* [Video Presentation Coming soon...]()
+* [Video Presentation](https://drive.google.com/file/d/18R_kK-hlDnbCwrZaSWMim0Lz23lWB348/view)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -46,7 +46,7 @@ ___
 
 * [Backend Hosting](https://loving-monsters.herokuapp.com/)
 
-* [Video Presentation Coming soon...]()
+* [Video Presentation](https://drive.google.com/file/d/17GSkgDvoPLGML35I6Whry_GyQehBaJl9/view)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -72,7 +72,7 @@ ___
 
 * [Backend Hosting](https://bloom-financial-group.herokuapp.com/)
 
-* [Video Presentation Coming soon...]()
+* [Video Presentation](https://drive.google.com/file/d/1OWNgTzroua0gXt1NjbkO0YGijvOkbxbt/view)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -98,7 +98,7 @@ ___
 
 * [Backend Hosting](https://flourish-main-production.herokuapp.com/)
 
-* [Video Presentation Coming soon...]()
+* [Video Presentation](https://drive.google.com/file/d/18UcVsNH5R754iViWpqjjYrk_jritYX6q/view)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -125,7 +125,7 @@ ___
 
 * [Backend Hosting](https://pool-party-live.herokuapp.com/)
 
-* [Video Presentation Coming soon...]()
+* [Video Presentation](https://drive.google.com/file/d/1obfI5EMwExf3cno_pLJgjwBmuoQV35O2/view)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -150,7 +150,7 @@ ___
 
 * [Backend Hosting](https://fiin-dev.herokuapp.com/)
 
-* [Video Presentation Coming soon...]()
+* [Video Presentation](https://drive.google.com/file/d/1ZIVoNQZ-hloJVPFWZEUYU4pTpPACE_cU/view)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -177,7 +177,7 @@ ___
 
 * [Backend Hosting](https://git.heroku.com/m4thl33tz-backend-staging.git)
 
-* [Video Presentation Coming soon...]()
+* [Video Presentation](https://drive.google.com/file/d/1VykwxL7ChyqT1secSBaIrq2exNRzkEOI/view)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
