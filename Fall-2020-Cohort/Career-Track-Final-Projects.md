@@ -156,7 +156,7 @@ ___
 >|---|---|---|
 >| Katie Jones |  [Github](https://github.com/katiejonesyo)  |  [LinkedIn](https://www.linkedin.com/in/katiejonesyo/)  |
 >| Kevin Fiero |  [Github](https://github.com/kevinfiero)  |  [LinkedIn](https://www.linkedin.com/in/kevinfiero/)  |
->| [Richard Hillman](http://richard-hillman.com/) |  [Github](https://github.com/Richard-Hillman)  |  [LinkedIn](https://www.linkedin.com/in/richard-hillman/)  |
+>| [Richard Hillman](http://richard-hillman.space) |  [Github](https://github.com/Richard-Hillman)  |  [LinkedIn](https://www.linkedin.com/in/richard-hillman/)  |
 >| Sydney James |  [Github](https://github.com/scjam)  |  [LinkedIn](https://www.linkedin.com/in/sydjames/)  |
 
 ___
