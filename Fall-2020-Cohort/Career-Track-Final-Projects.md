@@ -102,7 +102,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Dee Watson |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
+>| [Dee Watson](https://dlarkinwatson.com/) |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
 >|  Jeff Irvine | [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
 >| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
 >| [Jillian Gibson](http://www.jillianlg.com/) |  [Github](https://github.com/jillianlg)  |  [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)  |

@@ -65,7 +65,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Dee Watson |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
+>| [Dee Watson](https://dlarkinwatson.com/) |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
 >| [Richard Hillman](http://richard-hillman.space) |  [Github](https://github.com/Richard-Hillman)  |  [LinkedIn](https://www.linkedin.com/in/richard-hillman/)  |
 >| Sarah Skillen |  [Github](https://github.com/sarah-svg)  |  [LinkedIn](https://www.linkedin.com/in/sarah-skillen-7339b61b8/)  |
 >| Katie Jones |  [Github](https://github.com/katiejonesyo)  |  [LinkedIn](https://www.linkedin.com/in/katiejonesyo/)  |

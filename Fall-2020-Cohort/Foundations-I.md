@@ -53,7 +53,7 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  [Rhone Lachner](http://rhonelachner.com/) | [Github](https://github.com/RhoneLachner)   | [LinkedIn](https://www.linkedin.com/in/rhonelachner/)   |
->| Dee Watson |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
+>| [Dee Watson](https://dlarkinwatson.com/) |  [Github](https://github.com/dl-watson)  |  [LinkedIn](https://www.linkedin.com/in/dl-watson/)  |
 >| Franco Ortega |  [Github](https://github.com/franco-ortega)  |  [LinkedIn](https://www.linkedin.com/in/francoortega/)  |
 >| Katie Jones |  [Github](https://github.com/katiejonesyo)  |  [LinkedIn](https://www.linkedin.com/in/katiejonesyo/)  |
 
