@@ -144,7 +144,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
+>| [Jena Boehm](https://www.jenaluxboehm.com/) | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaluxboehm/)   |
 >| Katie Berry |  [Github](https://github.com/KatieMBerry)  |  [LinkedIn](https://www.linkedin.com/in/katie-m-berry/)  |
 >| Rosalie Lee-Washington |  [Github](https://github.com/rosalie337)  |  [LinkedIn](https://www.linkedin.com/in/rosalielee/)  |
 >|  Perry Sittser | [Github](https://github.com/sittserp)   | [LinkedIn](https://www.linkedin.com/in/sittserp/)   |

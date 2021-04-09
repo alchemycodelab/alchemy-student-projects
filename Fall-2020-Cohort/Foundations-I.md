@@ -34,7 +34,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
+>| [Jena Boehm](https://www.jenaluxboehm.com/) | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaluxboehm/)   |
 >| Andrew Bray |  [Github](https://github.com/Andrew-Bray)  |  [LinkedIn](https://www.linkedin.com/in/andrew-michael-bray/)  |
 >| Bryana Kitchen |  [Github](https://github.com/bryanakitchen)  |  [LinkedIn](https://www.linkedin.com/in/bryanakitchen/)  |
 >| Ethan Pierce |  [Github](https://github.com/jumpybuns)  |  [LinkedIn](https://www.linkedin.com/in/ethanpiercepresents/)  |

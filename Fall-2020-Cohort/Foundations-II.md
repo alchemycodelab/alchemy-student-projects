@@ -96,7 +96,7 @@ ___
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Jena Boehm | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)   |
+>| [Jena Boehm](https://www.jenaluxboehm.com/) | [Github](https://github.com/jena-boehm)   | [LinkedIn](https://www.linkedin.com/in/jenaluxboehm/)   |
 >| Katie Jones |  [Github](https://github.com/katiejonesyo)  |  [LinkedIn](https://www.linkedin.com/in/katiejonesyo/)  |
 >| Rosalie Lee-Washington |  [Github](https://github.com/rosalie337)  |  [LinkedIn](https://www.linkedin.com/in/rosalielee/)  |
 >|  Jeff Irvine | [Github](https://github.com/jeffIrvine)   | [LinkedIn](https://www.linkedin.com/in/irvinejeff/)   |
