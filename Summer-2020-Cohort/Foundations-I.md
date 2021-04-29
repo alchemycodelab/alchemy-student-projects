@@ -8,7 +8,7 @@ ___
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  Jerud Moyer | [GitHub](https://github.com/Jerud-Moyer)   | [LinkedIn](https://www.linkedin.com/in/jerud-moyer/)   |
+>|  [Jerud Moyer](https://jerud-moyer.dev/) | [GitHub](https://github.com/Jerud-Moyer)   | [LinkedIn](https://www.linkedin.com/in/jerud-moyer/)   |
 >|  Greg Mallr | [GitHub](https://github.com/gregmall)  | [LinkedIn](https://www.linkedin.com/in/greg-mall-3032771b1/)   |
 >|  Annalise |[GitHub](https://github.com/Annalise-M)  | [LinkedIn](https://www.linkedin.com/in/annalise-murphy/jerud-moyer/)  |
 >|  Shawn Carpenter | [GitHub](https://github.com/ShawnCarpenter)   | [LinkedIn](https://www.linkedin.com/in/shawn-carpenter)   |
