@@ -67,7 +67,7 @@ ___
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  Jerud Moyer | [GitHub](https://github.com/Jerud-Moyer)  |[LinkedIn](https://www.linkedin.com/in/jerud-moyer/)  |
+>|  [Jerud Moyer](https://jerud-moyer.dev/) | [GitHub](https://github.com/Jerud-Moyer)  |[LinkedIn](https://www.linkedin.com/in/jerud-moyer/)  |
 >| Brian McPhillips | [GitHub](https://github.com/ShawnCarpenter)  | [LinkedIn](https://www.linkedin.com/in/brianmcphillips)   |
 >| Nathan Kruckenberg | [GitHub](https://github.com/warrioryoko)  | [LinkedIn](https://www.linkedin.com/in/natekruck)  |
 >|  Annalise |[GitHub](https://github.com/Annalise-M)  | [LinkedIn](https://www.linkedin.com/in/annalise-murphy/jerud-moyer/)  |
