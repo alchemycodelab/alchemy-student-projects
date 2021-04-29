@@ -13,7 +13,7 @@
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >|  Edgar Cuellar | [GitHub](https://github.com/EdgarPDX)  |[LinkedIn](https://www.linkedin.com/in/edgarpdx/)  |
->|  Jerud Moyer | [GitHub](https://github.com/Jerud-Moyer)   | [LinkedIn](https://www.linkedin.com/in/jerud-moyer/)   |
+>|  [Jerud Moyer](https://jerud-moyer.dev/) | [GitHub](https://github.com/Jerud-Moyer)   | [LinkedIn](https://www.linkedin.com/in/jerud-moyer/)   |
 >|  Greg Mallr | [GitHub](https://github.com/gregmall)  | [LinkedIn](https://www.linkedin.com/in/greg-mall-3032771b1/)   |
 >|  Shawn Carpenter | [GitHub](https://github.com/ShawnCarpenter)   | [LinkedIn](https://www.linkedin.com/in/shawn-carpenter)   |
 ___
