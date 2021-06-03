@@ -4,6 +4,7 @@
 
 First one week sprint, from concept through delivery, after week 5 in the program.  Focus was vanilla JS, HTML and CSS, and teams built this working remotely.
 ___
+
 ### Forgotten Logic
 
 > Description 
@@ -22,13 +23,14 @@ The tile movement map is based on Danish Mughal's Sliding Puzzle.
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Julianne Vela | [Github](https://github.com/julianne-vela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
->| Devon Wolfkiel |  [Github]()  |  [LinkedIn]()  |
->| Vance Mills |  [Github]()  |  [LinkedIn]()  |
 >| Anthony Rosario |  [Github](https://github.com/Anthony-Rosario)  |  [LinkedIn](https://www.linkedin.com/in/anthony-rosario/)  |
+>| Devon Wolfkiel |  [Github](https://github.com/devon-wolf)  |  [LinkedIn](https://www.linkedin.com/in/devon-wolfkiel/)  |
+>| Julianne Vela | [Github](https://github.com/julianne-vela)   | [LinkedIn](https://www.linkedin.com/in/juliannevela/)   |
+>| Vance Mills |  [Github](https://github.com/Vance-M)  |  [LinkedIn](https://www.linkedin.com/in/vance-mills/)  |
 
 ___
 ___
+
 ### Designasaur Park
 
 > Description 
@@ -47,11 +49,12 @@ This project was made with only vanilla JS, CSS, and HTML - no additional librar
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Sam Gerber | [Github](https://github.com/sgerpdx)   | [LinkedIn](https://www.linkedin.com/in/sam-h-gerber/)   |
->| Cammeron Zimmerman |  [Github](https://github.com/CameronZimmerman)  |  [LinkedIn](https://www.linkedin.com/in/cameron-zimmerman/)  |
+>| Cameron Zimmerman |  [Github](https://github.com/CameronZimmerman)  |  [LinkedIn](https://www.linkedin.com/in/cameron-zimmerman/)  |
 >| Katy Boyles |  [Github](https://github.com/katrinkajb)  |  [LinkedIn](https://www.linkedin.com/in/katy-boyles/)  |
 
 ___
 ___
+
 ### Budgetverse
 
 > Description 
@@ -70,6 +73,7 @@ ___
 
 ___
 ___
+
 ### Afyaa
 
 > Description 
@@ -89,6 +93,7 @@ ___
 
 ___
 ___
+
 ### Nutrizone
 
 > Description 
@@ -111,10 +116,11 @@ animate.css
 >| Minh Ngo | [Github](https://github.com/ngominh0224)   | [LinkedIn](https://www.linkedin.com/in/minhnngo/)   |
 >| Dominique Sakrisson |  [Github]()  |  [LinkedIn]()  |
 >| Jake Thrasher |  [Github](https://github.com/jakethrasher)  |  [LinkedIn](https://www.linkedin.com/in/m-jake-thrasher/)  |
->| Patrick Hrabos |  [Github]()  |  [LinkedIn]()  |
+>| Patrick Hrabos |  [Github](https://github.com/phrabos)  |  [LinkedIn](https://www.linkedin.com/in/patrick-hrabos/)  |
 
 ___
 ___
+
 ### Fantasy BasketBall
 
 > Description 
@@ -129,10 +135,11 @@ ___
 >| Parker Sequeira | [Github](https://github.com/phsequeira)   | [LinkedIn](https://www.linkedin.com/in/parker-sequeira-b0a96886/)   |
 >| Taylor Reichner |  [Github](https://github.com/taylorreichner)  |  [LinkedIn](https://www.linkedin.com/in/taylor-reichner-stickel/)  |
 >| Eion Nelson |  [Github](https://github.com/ecnelson)  |  [LinkedIn](https://www.linkedin.com/in/eionnelson/)  |
->| Victor Williams |  [Github]()  |  [LinkedIn]()  |
+>| Victor Williams |  [Github](https://github.com/classalto)  |  [LinkedIn](https://www.linkedin.com/in/victor-b-williams/)  |
 
 ___
 ___
+
 ### Ventana
 
 > Description 
@@ -146,11 +153,13 @@ ___
 >|---|---|---|
 >| Stephen Tamiesie | [Github](https://github.com/stamiesie)   | [LinkedIn](https://www.linkedin.com/in/stephen-tamiesie/)   |
 >| Josie Cantu |  [Github](https://github.com/JosieMCantu)  |  [LinkedIn](www.linkedin.com/in/josiemcantu/)  |
->| katilyn Wiggins |  [Github]()  |  [LinkedIn]()  |
->| Stephen leisy |  [Github]()  |  [LinkedIn]()  |
+>| Katilyn Wiggins |  [Github](https://github.com/katilyn-wiggins)  |  [LinkedIn](https://www.linkedin.com/in/katilynwiggins/)  |
+>| Stephen Leisy |  [Github](https://github.com/stephen-leisy)  |  [LinkedIn](https://www.linkedin.com/in/stephen-leisy/)  |
+
 
 ___
 ___
+
 ### Vampire Memory Match
 
 > Description 
@@ -173,13 +182,14 @@ Win Sound: https://freesound.org/people/Fupicat/sounds/521642/
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Katrina Cloyd | [Github](https://github.com/KatrinaCloyd?tab=repositories)   | [LinkedIn](https://www.linkedin.com/in/katrinacloyd/)   |
->| Soraya Benson |  [Github]()  |  [LinkedIn]()  |
->| Brandon Perard |  [Github]()  |  [LinkedIn]()  |
+>| Brandon Perard |  [Github](https://github.com/bperard)  |  [LinkedIn](https://www.linkedin.com/in/brandonperard/)  |
 >| Casey Warren |  [Github](https://github.com/caseywar)  |  [LinkedIn](https://www.linkedin.com/in/casey-maynah-warren/)  |
+>| Katrina Cloyd | [Github](https://github.com/KatrinaCloyd?tab=repositories)   | [LinkedIn](https://www.linkedin.com/in/katrinacloyd/)   |
+>| Soraya Benson |  [Github](https://github.com/sorayabenson)  |  [LinkedIn](https://www.linkedin.com/in/soraya-benson/)  |
 
 ___
 ___
+
 ### RobinFood
 
 > Description 
@@ -192,9 +202,9 @@ ___
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Erich Sauer | [Github](https://github.com/erichsauer)   | [LinkedIn](https://www.linkedin.com/in/erichsauer/)   |
->| Nicole Martin |  [Github]()  |  [LinkedIn]()  |
+>| Dylan White |  [Github](https://github.com/Dominique-Sakrisson)  |  [LinkedIn](https://www.linkedin.com/in/dylan-j-white/)  |
+>| Nicole Martin |  [Github](https://github.com/nicole-m-martin)  |  [LinkedIn](https://www.linkedin.com/in/nicolemartinpdx/)  |
 >| Tyler Farris |  [Github](https://github.com/Tylerpfarris)  |  [LinkedIn](https://www.linkedin.com/in/tyler-p-farris/)  |
->| Dylan White |  [Github]()  |  [LinkedIn]()  |
 
 ___
 ___
