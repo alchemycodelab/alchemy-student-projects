@@ -39,7 +39,7 @@ ___
 >| Cherno Badjan |  [Github](https://github.com/Cherno-Badjan)  |  [LinkedIn](https://www.linkedin.com/in/chernobadjan/)  |
 >| Erich Sauer | [Github](https://github.com/erichsauer)   | [LinkedIn](https://www.linkedin.com/in/erichsauer/)   |
 >| Shelby Strouse | [Github](https://github.com/sls1881)   | [LinkedIn](https://www.linkedin.com/in/shelby-strouse-full-stack-eng/)   |
->| Stephen leisy |  [Github](https://github.com/stephen-leisy)  |  [LinkedIn](https://www.linkedin.com/in/stephen-leisy/)  |
+>| Stephen Leisy |  [Github](https://github.com/stephen-leisy)  |  [LinkedIn](https://www.linkedin.com/in/stephen-leisy/)  |
 
 ___
 ___
