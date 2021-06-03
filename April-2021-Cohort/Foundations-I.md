@@ -31,7 +31,7 @@ ___
 >| DJ Drakos |  [Github](https://github.com/dianajodrakos)  |  [LinkedIn](https://www.linkedin.com/in/dj-drakos/)  |
 >| Elise Muellerleile |  [Github](https://github.com/eliamue)  |  [LinkedIn](https://www.linkedin.com/in/eliamue/)  |
 >| Maria Ortiz-Lopez |  [Github](https://github.com/MariaOrtiz1)  |  [LinkedIn](https://www.linkedin.com/in/maria-ortiz-lopez-54392a211/)  |
->| Missael Ortiz |  [Github](https://github.com/MissaelOrtiz)  |  LinkedIn  |
+>| Missael Ortiz |  [Github](https://github.com/MissaelOrtiz)  |  [LinkedIn](https://www.linkedin.com/in/missael-ortiz-8bb166212/)  |
 >| Sean Simpson |  [Github](https://github.com/simpson-sean)  |  LinkedIn  |
 
 >| Chen Zhao |  [Github](https://github.com/chenerychen)  |  [LinkedIn](https://www.linkedin.com/in/hi-yusei/)  |
