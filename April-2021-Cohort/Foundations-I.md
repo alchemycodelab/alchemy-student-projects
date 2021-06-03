@@ -21,19 +21,59 @@ ___
 >| Madden Lockin |  [Github](https://github.com/maddenlockin)  |  [LinkedIn](https://www.linkedin.com/in/madden-lockin/)  |
 >| Peter Montaño |  [Github](https://github.com/Montano-Pete)  |  [LinkedIn](https://www.linkedin.com/in/petermontano/)  |
 
+___
+___
 
+### Project Name
 
+> Description 
+>> 
+
+* [Repo]()
+
+* [Deployed Site]()
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
 >| Alonzo Anderson |  [Github](https://github.com/Alonzo-Anderson)  |  [LinkedIn](https://www.linkedin.com/in/alonzo-anderson-8a6a27172/)  |
 >| Bri Bias |  [Github](https://github.com/bribias)  |  [LinkedIn](https://www.linkedin.com/in/brianna-bias/)  |
 >| Derek Hudgins |  [Github](https://github.com/DerekHudgins)  |  [LinkedIn](https://www.linkedin.com/in/derekhudgins/)  |
 >| Dimitra Weinstein |  [Github](https://github.com/dimitraweinstein)  |  [LinkedIn](https://www.linkedin.com/in/dimitraweinstein/)  |
 
+___
+___
+
+### Project Name
+
+> Description 
+>> 
+
+* [Repo]()
+
+* [Deployed Site]()
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
 >| DJ Drakos |  [Github](https://github.com/dianajodrakos)  |  [LinkedIn](https://www.linkedin.com/in/dj-drakos/)  |
 >| Elise Muellerleile |  [Github](https://github.com/eliamue)  |  [LinkedIn](https://www.linkedin.com/in/eliamue/)  |
 >| Maria Ortiz-Lopez |  [Github](https://github.com/MariaOrtiz1)  |  [LinkedIn](https://www.linkedin.com/in/maria-ortiz-lopez-54392a211/)  |
 >| Missael Ortiz |  [Github](https://github.com/MissaelOrtiz)  |  [LinkedIn](https://www.linkedin.com/in/missael-ortiz-8bb166212/)  |
 >| Sean Simpson |  [Github](https://github.com/simpson-sean)  |  [LinkedIn](www.linkedin.com/in/simpson-sean)  |
 
+___
+___
+
+### Project Name
+
+> Description 
+>> 
+
+* [Repo]()
+
+* [Deployed Site]()
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
 >| Chen Zhao |  [Github](https://github.com/chenerychen)  |  [LinkedIn](https://www.linkedin.com/in/hi-yusei/)  |
 >| Isaac Ewing |  [Github](https://github.com/Isaac-Ewing)  |  [LinkedIn](https://www.linkedin.com/in/isaac-ewing/)  |
 >| Kyle Mayer |  [Github](https://github.com/kylemayer)  |  [LinkedIn](https://www.linkedin.com/in/kyle-mayer88/)  |
@@ -41,4 +81,3 @@ ___
 
 ___
 ___
-
