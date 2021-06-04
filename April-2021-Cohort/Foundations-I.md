@@ -43,10 +43,10 @@ ___
 ___
 ___
 
-### The Tales of Torr: The Quest to Defeat the Everlasting Dragon
+### The Tales of Torr: the Quest to Defeat the Everlasting Dragon
 
 > Description 
->> 
+>> The Tales of Torr: the Quest to Defeat the Everlasting Dragon is a retro rpg inspired app where you take the role of a brave hero on a quest to, ***surprise***, defeat a dragon.
 
 * [Repo](https://github.com/MissaelOrtiz/The-Tales-of-Torr-The-Quest-to-Defeat-the-Everlasting-Dragon)
 
