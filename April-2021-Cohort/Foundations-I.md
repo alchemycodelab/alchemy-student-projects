@@ -24,14 +24,14 @@ ___
 ___
 ___
 
-### Project Name
+### AlcheFeed
 
 > Description 
->> 
+>> We are BuzzFeed the Alchemy way. Answering the questions that keep you up late at night.
 
-* [Repo]()
+* [Repo](https://github.com/Alonzo-Anderson/alchefeed)
 
-* [Deployed Site]()
+* [Deployed Site](https://alonzo-anderson.github.io/alchefeed/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -43,14 +43,14 @@ ___
 ___
 ___
 
-### Project Name
+### The Tales of Torr: The Quest to Defeat the Everlasting Dragon
 
 > Description 
 >> 
 
-* [Repo]()
+* [Repo](https://github.com/MissaelOrtiz/The-Tales-of-Torr-The-Quest-to-Defeat-the-Everlasting-Dragon)
 
-* [Deployed Site]()
+* [Deployed Site](https://missaelortiz.github.io/The-Tales-of-Torr-The-Quest-to-Defeat-the-Everlasting-Dragon/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -63,14 +63,14 @@ ___
 ___
 ___
 
-### Project Name
+### Okane
 
 > Description 
->> 
+>> A simple budgeting app to track income, expenses and savings.
 
-* [Repo]()
+* [Repo](https://github.com/kylemayer/Okane)
 
-* [Deployed Site]()
+* [Deployed Site](https://kylemayer.github.io/Okane/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
