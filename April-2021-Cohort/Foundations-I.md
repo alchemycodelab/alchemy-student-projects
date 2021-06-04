@@ -24,21 +24,21 @@ ___
 ___
 ___
 
-### AlcheFeed
+### Okane
 
 > Description 
->> We are BuzzFeed the Alchemy way. Answering the questions that keep you up late at night.
+>> A simple budgeting app to track income, expenses and savings.
 
-* [Repo](https://github.com/Alonzo-Anderson/alchefeed)
+* [Repo](https://github.com/kylemayer/Okane)
 
-* [Deployed Site](https://alonzo-anderson.github.io/alchefeed/)
+* [Deployed Site](https://kylemayer.github.io/Okane/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Alonzo Anderson |  [Github](https://github.com/Alonzo-Anderson)  |  [LinkedIn](https://www.linkedin.com/in/alonzo-anderson-8a6a27172/)  |
->| Bri Bias |  [Github](https://github.com/bribias)  |  [LinkedIn](https://www.linkedin.com/in/brianna-bias/)  |
->| Derek Hudgins |  [Github](https://github.com/DerekHudgins)  |  [LinkedIn](https://www.linkedin.com/in/derekhudgins/)  |
->| Dimitra Weinstein |  [Github](https://github.com/dimitraweinstein)  |  [LinkedIn](https://www.linkedin.com/in/dimitraweinstein/)  |
+>| Chen Zhao |  [Github](https://github.com/chenerychen)  |  [LinkedIn](https://www.linkedin.com/in/hi-yusei/)  |
+>| Isaac Ewing |  [Github](https://github.com/Isaac-Ewing)  |  [LinkedIn](https://www.linkedin.com/in/isaac-ewing/)  |
+>| Kyle Mayer |  [Github](https://github.com/kylemayer)  |  [LinkedIn](https://www.linkedin.com/in/kyle-mayer88/)  |
+>| Sofia Tejada |  [Github](https://github.com/sofiatejada)  |  [LinkedIn](https://www.linkedin.com/in/sofianais/)  |
 
 ___
 ___
@@ -63,21 +63,22 @@ ___
 ___
 ___
 
-### Okane
+### AlcheFeed
 
 > Description 
->> A simple budgeting app to track income, expenses and savings.
+>> We are BuzzFeed the Alchemy way. Answering the questions that keep you up late at night.
 
-* [Repo](https://github.com/kylemayer/Okane)
+* [Repo](https://github.com/Alonzo-Anderson/alchefeed)
 
-* [Deployed Site](https://kylemayer.github.io/Okane/)
+* [Deployed Site](https://alonzo-anderson.github.io/alchefeed/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Chen Zhao |  [Github](https://github.com/chenerychen)  |  [LinkedIn](https://www.linkedin.com/in/hi-yusei/)  |
->| Isaac Ewing |  [Github](https://github.com/Isaac-Ewing)  |  [LinkedIn](https://www.linkedin.com/in/isaac-ewing/)  |
->| Kyle Mayer |  [Github](https://github.com/kylemayer)  |  [LinkedIn](https://www.linkedin.com/in/kyle-mayer88/)  |
->| Sofia Tejada |  [Github](https://github.com/sofiatejada)  |  [LinkedIn](https://www.linkedin.com/in/sofianais/)  |
+>| Alonzo Anderson |  [Github](https://github.com/Alonzo-Anderson)  |  [LinkedIn](https://www.linkedin.com/in/alonzo-anderson-8a6a27172/)  |
+>| Bri Bias |  [Github](https://github.com/bribias)  |  [LinkedIn](https://www.linkedin.com/in/brianna-bias/)  |
+>| Derek Hudgins |  [Github](https://github.com/DerekHudgins)  |  [LinkedIn](https://www.linkedin.com/in/derekhudgins/)  |
+>| Dimitra Weinstein |  [Github](https://github.com/dimitraweinstein)  |  [LinkedIn](https://www.linkedin.com/in/dimitraweinstein/)  |
 
 ___
 ___
+
