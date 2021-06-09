@@ -1,4 +1,4 @@
-# Alchemy Class Projects - January 2021 Cohort
+# Alchemy Class Projects - March 2021 Cohort
 
 ## Foundations I
 
