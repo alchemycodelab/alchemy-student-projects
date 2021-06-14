@@ -23,10 +23,10 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  [Shelby Strouse]() | [Github]()   | [LinkedIn]()   |
->|  [Josie Cantu]() | [Github]()   | [LinkedIn]()   |
->|  [Cherno Badjan]() | [Github]()   | [LinkedIn]()   |
->|  [Lori Winston]() | [Github]()   | [LinkedIn]()   |
+>|  Shelby Strouse | [Github](https://github.com/sls1881)   | [LinkedIn](https://www.linkedin.com/in/shelby-strouse-full-stack-eng/)   |
+>|  Josie Cantu | [Github](https://github.com/JosieMCantu)   | [LinkedIn](http://www.linkedin.com/in/josiemcantu/)   |
+>|  Cherno Badjan | [Github](https://github.com/Cherno-Badjan)   | [LinkedIn](https://www.linkedin.com/in/chernobadjan/)   |
+>|  Lori Winston | [Github](https://github.com/LoriWinston)   | [LinkedIn](https://www.linkedin.com/in/loriwinston/)   |
 
 ___
 ___
@@ -42,10 +42,10 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  [Patrick Hrabos]() | [Github]()   | [LinkedIn]()   |
->|  [Devon Wolfkiel]() | [Github]()   | [LinkedIn]()   |
->|  [Casey Warren]() | [Github]()   | [LinkedIn]()   |
->|  [KB (Katy Boyles)]() | [Github]()   | [LinkedIn]()   |
+>|  Patrick Hrabos | [Github](https://github.com/phrabos)   | [LinkedIn](https://www.linkedin.com/in/patrick-hrabos/)   |
+>|  [Devon Wolfkiel](https://devon-wolf.github.io/portfolio/) | [Github](https://github.com/devon-wolf)   | [LinkedIn](https://www.linkedin.com/in/devon-wolfkiel/)   |
+>|  Casey Warren | [Github](https://github.com/caseywar)   | [LinkedIn](https://www.linkedin.com/in/casey-maynah-warren/)   |
+>|  KB (Katy Boyles) | [Github](https://github.com/katrinkajb)   | [LinkedIn](https://www.linkedin.com/in/katy-boyles/)   |
 
 ___
 ___
@@ -61,10 +61,10 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  [Tyler Ferris]() | [Github]()   | [LinkedIn]()   |
->|  [Sam Gerber]() | [Github]()   | [LinkedIn]()   |
->|  [Eion Nelson]() | [Github]()   | [LinkedIn]()   |
->|  [Dominique Sakrisson]() | [Github]()   | [LinkedIn]()   |
+>|  Tyler Ferris | [Github](https://github.com/Tylerpfarris)   | [LinkedIn](https://www.linkedin.com/in/tyler-p-farris/)   |
+>|  Sam Gerber | [Github](https://github.com/sgerpdx)   | [LinkedIn](https://www.linkedin.com/in/sam-h-gerber/)   |
+>|  Eion Nelson | [Github](https://github.com/ecnelson1)   | [LinkedIn](https://www.linkedin.com/in/eionnelson/)   |
+>|  Dominique Sakrisson | [Github](https://github.com/Dominique-Sakrisson)   | [LinkedIn](https://www.linkedin.com/in/dominique-sakrisson/)   |
 
 ___
 ___
@@ -82,14 +82,14 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|  [Katrina Cloyd]() | [Github]()   | [LinkedIn]()   |
->|  [Soraya Benson]() | [Github]()   | [LinkedIn]()   |
->|  [Nicole Martin]() | [Github]()   | [LinkedIn]()   |
->|  [Stephen Leisy]() | [Github]()   | [LinkedIn]()   |
->|  [Vance Miller]() | [Github]()   | [LinkedIn]()   |
->|  [Brandon Perard]() | [Github]()   | [LinkedIn]()   |
->|  [Kat Sauma]() | [Github]()   | [LinkedIn]()   |
->|  [Erich Sauer]() | [Github]()   | [LinkedIn]()   |
+>|  Katrina Cloyd | [Github](https://github.com/KatrinaCloyd?tab=repositories)   | [LinkedIn](https://www.linkedin.com/in/katrinacloyd/)   |
+>|  Soraya Benson | [Github](https://github.com/sorayabenson)   | [LinkedIn](https://www.linkedin.com/in/soraya-benson/)   |
+>|  Nicole Martin | [Github](https://github.com/nicole-m-martin)   | [LinkedIn](https://www.linkedin.com/in/nicolemartinpdx/)   |
+>|  Stephen Leisy | [Github](https://github.com/stephen-leisy)   | [LinkedIn](https://www.linkedin.com/in/stephen-leisy/)   |
+>|  Vance Miller | [Github](https://github.com/Vance-M)   | [LinkedIn](https://www.linkedin.com/in/vance-mills/)   |
+>|  Brandon Perard | [Github](https://github.com/bperard)   | [LinkedIn](https://www.linkedin.com/in/brandonperard/)   |
+>|  Kat Sauma | [Github](https://github.com/kat-sauma)   | [LinkedIn](https://www.linkedin.com/in/kat-sauma/)   |
+>|  [Erich Sauer](http://cargocollective.com/erichsauer) | [Github](https://github.com/erichsauer)   | [LinkedIn](https://www.linkedin.com/in/erichsauer/)   |
 
 ___
 ___
