@@ -69,9 +69,9 @@ ___
 > Description 
 >> 
 
-* [Repo]()
+* [Repo](https://github.com/Triforce-Trivia)
 
-* [Deployed Site]()
+* [Deployed Site](https://happy-kirch-5f5e6d.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
