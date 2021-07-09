@@ -1,4 +1,4 @@
-# Alchemy Class Projects - January 2021 Cohort
+# Alchemy Class Projects - April 2021 Cohort
 
 ## Foundations I
 
@@ -8,7 +8,7 @@ ___
 ### Alchegotchi
 
 > Description 
->> Alchegotchi is an interactive virtual pet app, styled to bring back memories of the Tomagotchi toy from the late nineties. The app allows the user to create an account and choose between three different pets to feed, water, and give attention to. It is a feel good app that can be enjoyed by nostalgic adults and kids alike.
+>> 
 
 * [Repo](https://github.com/Virtual-Pet-Task-Munger/virtual-pet/tree/dev)
 
