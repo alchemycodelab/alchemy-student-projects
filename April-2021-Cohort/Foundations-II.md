@@ -28,11 +28,11 @@ ___
 ### Hands of Fate
 
 > Description 
->> 
+>> A tarot-inspired card collector where you, The Fool, set out to struggle against Fate in order to collect 78 unique tarot cards. Fight against the strange Will of Fate, get your tarot read, and reclaim your own destiny!
 
-* [Repo](https://github.com/kylemayer/Okane)
+* [Repo](https://github.com/hands-of-fate)
 
-* [Deployed Site](https://kylemayer.github.io/Okane/)
+* [Deployed Site](https://hands-of-fate.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -64,10 +64,10 @@ ___
 ___
 ___
 
-### Trivia
+### Triforce Trivia
 
 > Description 
->> We are BuzzFeed the Alchemy way. Answering the questions that keep you up late at night.
+>> 
 
 * [Repo]()
 
