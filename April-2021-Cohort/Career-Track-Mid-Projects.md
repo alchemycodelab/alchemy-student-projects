@@ -6,7 +6,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 ---
 
-### Daily Positive Affirmations
+### Affirbisiaks
 
 > Description
 >
@@ -28,7 +28,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 ---
 
-### Community Safety App
+### SafeSRC
 
 > Description
 >
@@ -51,7 +51,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 ---
 
-### Coffee API
+### Brewster
 
 > Description
 >
