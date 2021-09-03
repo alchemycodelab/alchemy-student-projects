@@ -12,7 +12,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 >
 > > Text sign up for daily positive affirmations
 
-- [Repo](https://github.com/)
+- [Repo](https://github.com/affirbisiaks)
 
 - [Deployed Site](https://github.com)
 
@@ -34,7 +34,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 >
 > > 24/7 availability, alternatives to calling the police, GPS based, combined with Dimitra’s idea for a Twitter bot, that finds new popups/event/resources
 
-- [Repo](https://github.com/)
+- [Repo](https://github.com/safeSRC)
 
 - [Deployed Site](https://github.com/)
 
@@ -57,9 +57,9 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 >
 > > An API for cataloging various types of coffee.
 
-- [Repo](https://github.com/)
+- [Repo](https://github.com/brewster-api)
 
-- [Deployed Site](https://github.com)
+- [Deployed Site](https://www.brewster.fun)
 
 > | Team Members    | Github                                       | LinkedIn                                                           |
 > | --------------- | -------------------------------------------- | ------------------------------------------------------------------ |
