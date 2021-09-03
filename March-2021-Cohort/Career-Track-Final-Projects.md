@@ -18,7 +18,7 @@ ___
 >|---|---|---|
 >| [Chase Abbott](https://www.chasedabbott.com/) |  [Github](https://github.com/chase-abbott)  |  [LinkedIn](https://www.linkedin.com/in/chase-abbott/)   |
 >| Gabriel Simek | [Github](https://github.com/gabrielsimek)   | [LinkedIn](https://www.linkedin.com/in/gabrielsimek/)  |
->| Joe Davis |  [Github](https://github.com/Joseph-L-Davis)  |  [LinkedIn](www.linkedin.com/in/joseph-davis-he-him)  |
+>| Joe Davis |  [Github](https://github.com/jdavisfsdev)  |  [LinkedIn](https://www.linkedin.com/in/joedavis-fsdev/)  |
 >| Katherine Tam |  [Github](https://github.com/katherinemtam)  |  [LinkedIn](https://www.linkedin.com/in/katherinemtam/)  |
 >| Tis Lais |  [Github](https://github.com/tislais)  |  [LinkedIn](https://www.linkedin.com/in/tislais/)  |
 
