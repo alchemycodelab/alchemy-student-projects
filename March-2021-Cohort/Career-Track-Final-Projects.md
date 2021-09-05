@@ -90,5 +90,5 @@ ___
 >|---|---|---|
 >| Annaleigh Hickman |  [Github](https://github.com/annaleighthomas)  |  [LinkedIn](https://www.linkedin.com/in/annaleighhickman/)   |
 >| Austin Summerlin | [Github](https://github.com/austin-summerlin)   | [LinkedIn](https://www.linkedin.com/in/austin-summerlin/)  |
->| Clem Hepburn |  [Github](http://github.com/clemhepburn/)  |  [LinkedIn](https://www.linkedin.com/in/clemhepburn/)  |
+>| [Clem Hepburn](https://clem.today) |  [Github](http://github.com/clemhepburn/)  |  [LinkedIn](https://www.linkedin.com/in/clemhepburn/)  |
 >| [Culi Tif](https://work.culi.page/) |  [Github](https://github.com/tif-calin)  |  [LinkedIn](https://www.linkedin.com/in/tif-calin/)  |
