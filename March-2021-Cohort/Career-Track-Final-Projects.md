@@ -63,7 +63,7 @@ ___
 
 ### Chordial
 > Description 
->> A beautifully designed app that lets users find chord harmonies and create songs
+>> Chordial is a visually stunning web application that helps musicians and non-musicians alike find compelling harmonic ideas. Users can choose a chord and it’s compatible harmonic destinations will appear along with a sound sample. Utilizing framer-motion for slick animations and music logic designed by our team’s music theorists, anyone can create music with Chordial!
 
 * [Repo](https://github.com/Chordial-Music/Chordial-FE)
 
