@@ -69,10 +69,10 @@ ___
 
 * [Deployed Site](https://chordial.netlify.app/)
 
->| Team Members  | Github  | LinkedIn  | Portfolio
+>| Team Members  | Github  | LinkedIn  | 
 >|---|---|---|
 >| Casey Cameron |  [Github](https://github.com/CaseyCameron)  |  [LinkedIn](https://www.linkedin.com/in/casey-cameron/)   |
->| David Delgadillo | [Github](https://github.com/David-Del1)   | [LinkedIn](https://www.linkedin.com/in/davidadelgadillo/)  | [Portfolio](https://www.davidanthony.io/)
+>| [David Delgadillo](https://www.davidanthony.io/) | [Github](https://github.com/David-Del1)   | [LinkedIn](https://www.linkedin.com/in/davidadelgadillo/)  |         
 >| Kalan Prudhomme |  [Github](https://github.com/prudhomk)  |  [LinkedIn](https://www.linkedin.com/in/kalanprudhomme/)  |
 
 ___
