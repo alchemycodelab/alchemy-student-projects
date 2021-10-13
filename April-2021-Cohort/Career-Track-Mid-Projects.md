@@ -32,7 +32,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 > Description
 >
-> > 24/7 availability, alternatives to calling the police, GPS based, combined with Dimitra’s idea for a Twitter bot, that finds new popups/event/resources
+> > 24/7 availability, location-based community resource alternatives for calling the police
 
 - [Repo](https://github.com/safeSRC)
 
