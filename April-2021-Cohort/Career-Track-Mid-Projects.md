@@ -14,7 +14,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 - [Repo](https://github.com/affirbisiaks)
 
-- [Deployed Site](https://github.com)
+- [Deployed Site](https://affirbisiaks.netlify.app/)
 
 > | Team Members  | Github                                     | LinkedIn                                                         |
 > | ------------- | ------------------------------------------ | ---------------------------------------------------------------- |
