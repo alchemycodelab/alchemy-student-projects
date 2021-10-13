@@ -36,7 +36,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 - [Repo](https://github.com/safeSRC)
 
-- [Deployed Site](https://github.com/)
+- [Deployed Site](https://safesrc.netlify.app/)
 
 > | Team Members       | Github                                        | LinkedIn                                                             |
 > | ------------------ | --------------------------------------------- | -------------------------------------------------------------------- |
