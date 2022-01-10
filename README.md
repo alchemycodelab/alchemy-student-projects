@@ -1,6 +1,6 @@
 # Alchemy Code Lab Student Projects
 
-## Welcome to [Alchemy](https://www.alchemycodelab.com/)! This is a collection of the class projects, from 2019 to present. 
+## Welcome to [Alchemy](https://www.alchemycodelab.com/)! This is a collection of class projects, from 2019 to present. 
 
 ### Each cohort completes several team assessment projects by the time they graduate. Since March 2020, all teams have collaborated remotely.
 
