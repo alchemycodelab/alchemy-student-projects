@@ -1,6 +1,6 @@
 # Alchemy Class Projects - April 2021 Cohort
 
-## Foundations II
+## React 02
 Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, MongoDB and RESTful API calls hitting a 3rd party API.
 ___
 

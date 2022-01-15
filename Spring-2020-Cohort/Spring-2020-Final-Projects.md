@@ -1,6 +1,6 @@
 # Alchemy Class Projects - Spring 2020 Cohort
 
-## Career Track Final Projects
+##  Final Projects
 Fourth and final projects made in a one week sprint, from concept through delivery.  A fullstack application using Node, Express, MongoDB and RESTful API calls, on fully remote teams.
 ___
 

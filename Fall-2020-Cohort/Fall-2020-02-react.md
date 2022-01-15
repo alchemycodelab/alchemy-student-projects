@@ -1,6 +1,6 @@
 # Alchemy Class Projects - Fall 2020 Cohort
 
-## Foundations II
+## 02 React Projects
 
 Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, PostgreSQL and RESTful API calls hitting a 3rd party API, on fully remote teams.
 ___

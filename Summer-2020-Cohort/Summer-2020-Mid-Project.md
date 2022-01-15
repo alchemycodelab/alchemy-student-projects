@@ -1,4 +1,5 @@
-# Project Week 3
+# Alchemy Class Projects Summer 2020 
+# Mid Projects
 
  ### Sherlock Stocks
 
