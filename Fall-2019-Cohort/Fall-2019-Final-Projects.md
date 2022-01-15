@@ -1,6 +1,6 @@
 # Alchemy Class Projects - Fall 2019 Cohort
 
-## Career Track Final Projects
+##  Final Projects
 Fourth and final projects made in a two week sprint, from concept through delivery, after week 18 in the program.  A full-stack app using React, Node, Express, Mongo DB and RESTful API calls.
 
 ## LPlot a Pi
