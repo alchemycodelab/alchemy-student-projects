@@ -1,4 +1,4 @@
-# Project Week 3
+# Mid Projects
 
  ### Sherlock Stocks
 
