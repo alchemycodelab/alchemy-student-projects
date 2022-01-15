@@ -1,4 +1,4 @@
-# Alchemy Class Projects - Cohort 
+# Alchemy Class Projects - Cohort Fall 2019
 
 ## Web 01 Project week 
 First one week sprint, from concept through delivery, after week 4 in the program.  Focus was vanilla JS and teams built this working remotely.

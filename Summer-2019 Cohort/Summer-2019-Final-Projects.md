@@ -1,4 +1,4 @@
-# Summer 2019 Cohort
+# Alchemy Class Projects - Summer 2019 Cohort
 ## Web 01 Projects
 
 ___

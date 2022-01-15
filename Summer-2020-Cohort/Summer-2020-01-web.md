@@ -1,6 +1,6 @@
-#  Web 01 Projects
+# Alchemy Class Projects Summer 2020 
 
-# Project week 1
+# Web 01 Projects
 ___
  ###  CovidRoad2020
 

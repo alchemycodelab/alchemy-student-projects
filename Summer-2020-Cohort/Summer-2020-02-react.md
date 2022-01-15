@@ -1,5 +1,6 @@
+# Alchemy Class Projects Summer 2020 
+
 # React 02 Projects
-# Project week 2
 
 ### Whats Cookin
 
