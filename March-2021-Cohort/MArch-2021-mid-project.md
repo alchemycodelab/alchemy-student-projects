@@ -1,6 +1,6 @@
 # Alchemy Class Projects - March 2021 Cohort
 
-## Career Track Mid Projects
+## Mid Projects
 
 Third projects one week sprint, from concept through delivery, after week 12 in the program.  A back-end focused app using Node, Express, PostgreSQL and RESTful API calls, on fully remote teams.
 ___
