@@ -18,5 +18,8 @@
     "statusBarItem.remoteBackground": "#2b0c19",
     "statusBarItem.remoteForeground": "#e7e7e7"
   },
-  "peacock.color": "#2b0c19"
+  "peacock.color": "#2b0c19",
+  "cSpell.words": [
+    "Strouse"
+  ]
 }
