@@ -46,25 +46,26 @@ ___
 >| Katy Boyles (KB) |  [Github](https://github.com/katrinkajb)  |  [LinkedIn](https://www.linkedin.com/in/katy-boyles/)  |
 ___
 ___
-<!-- 
-### Tech Wiz Quiz
+
+### Greeting Art
 > Description 
->> A trivia game to help people learn information about coding.
+>> Greeting Art is an app that allows users to easily create randomized, unique digital art, and to send that art to others in eCard form.  Our product facilitates the creation of a unique digital asset that the user can save, send or share as a personalized digital greeting to a friend or loved-one.
 
-* [Repo](https://github.com/techwizquiz)
+* [FrontEnd](https://github.com/Greeting-Art/greeting-art-client)
+* [BackEnd](https://github.com/Greeting-Art/greeting-art-server)
 
-* [Deployed Site](https://techwizquiz.netlify.app)
+* [Deployed Site](https://greeting-art.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Zach Gaines |  [Github](https://github.com/ZachMGaines)  |  [LinkedIn](https://www.linkedin.com/in/zachgaines/)   |
->| Christiane Merritt | [Github](https://github.com/cmmerritt)   | [LinkedIn](https://www.linkedin.com/in/christiane-merritt/)  |
->| Angel Ortiz |  [Github](https://github.com/AngelDOrtiz)  |  [LinkedIn](https://www.linkedin.com/in/angel-ortiz/)  |
->| Taylor Tokareff |  [Github](https://github.com/taylor-tokareff)  |  [LinkedIn](www.linkedin.com/in/taylor-tokareff)  |
+>| Parker Sequeira |  [Github](https://github.com/phsequeira)  |  [LinkedIn](https://www.linkedin.com/in/parker-sequeira-b0a96886/)   |
+>|  Stephen Tamiesie | [Github](https://github.com/stamiesie)   | [LinkedIn](https://www.linkedin.com/in/stephen-tamiesie/)  |
+>| Eion Nelson |  [Github](https://github.com/ecnelson1)  |  [LinkedIn](https://www.linkedin.com/in/eionnelson/)  |
+>| [Sam Gerber](https://www.samgerber.dev/) |  [Github](https://github.com/sgerpdx)  |  [LinkedIn](https://www.linkedin.com/in/sam-h-gerber/)  |
 
 ___
 ___
-
+<!-- 
 ### Chordial
 > Description 
 >> Chordial is a visually stunning web application that helps musicians and non-musicians alike find compelling harmonic ideas. Users can choose a chord and it’s compatible harmonic destinations will appear along with a sound sample. Utilizing framer-motion for slick animations and music logic designed by our team’s music theorists, anyone can create music with Chordial!
