@@ -1,4 +1,4 @@
-<!-- # Alchemy Class Projects - Jan 2021 Cohort
+ # Alchemy Class Projects - Jan 2021 Cohort
 
 ## Final Projects
 
@@ -103,11 +103,11 @@ ___
 >| Vance Mills|  [Github](https://github.com/Vance-M)  |  [LinkedIn](https://www.linkedin.com/in/vance-mills/)   |
 >| Edmond Zhan | [Github](https://github.com/zhaned)   | [LinkedIn](https://www.linkedin.com/in/edmondzhan/)  |         
 >| Minh Ngo |  [Github](https://github.com/ngominh0224)  |  [LinkedIn](https://www.linkedin.com/in/minhnngo/)  |
->| Dominique Sakrissson |  [Github](https://github.com/Dominique-Sakrisson)  |  [LinkedIn](https://www.linkedin.com/in/dominique-sakrisson/)  | -->
+>| Dominique Sakrissson |  [Github](https://github.com/Dominique-Sakrisson)  |  [LinkedIn](https://www.linkedin.com/in/dominique-sakrisson/)  | 
 
 ___
 ___
-<!-- 
+ 
  ### GIM LLC.
 > Description 
 >>  An online multiplayer game disguised as a simple corporate website > _One day, while cleaning the server trays, a kind young soul was thrust into a strange fate.. Their soul now lives within the server and needs your help to be set free..._ GIM LLC is an escape room inspired website where players work together to find clues to free the ghost!  Built using React.js and socket.io for multiplayer interactivity. 
@@ -124,7 +124,7 @@ ___
 >|Cameron Zimmerman |  [Github](https://github.com/CameronZimmerman)  |  [LinkedIn](https://www.linkedin.com/in/cameron-zimmerman/)  |
 >|Juli Vela |  [Github](https://github.com/juliannevela)  |  [LinkedIn](https://www.linkedin.com/in/juliannevela/)  |
 ___
-___ -->
+___
 
  ### Aspir.io
 > Description 
