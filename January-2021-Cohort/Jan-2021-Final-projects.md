@@ -65,24 +65,27 @@ ___
 
 ___
 ___
-<!-- 
-### Chordial
+
+### Socket Jockey
 > Description 
->> Chordial is a visually stunning web application that helps musicians and non-musicians alike find compelling harmonic ideas. Users can choose a chord and it’s compatible harmonic destinations will appear along with a sound sample. Utilizing framer-motion for slick animations and music logic designed by our team’s music theorists, anyone can create music with Chordial!
+>> Collaboratively composing music with the collision of time, space, and socket.io. Built with React, matter.js, tone.js, p5*js, and Material UI,
 
-* [Repo](https://github.com/Chordial-Music/Chordial-FE)
 
-* [Deployed Site](https://chordial.netlify.app/)
+* [FrontEnd](https://github.com/Alchemy-IdleGame-Project/idlegame-FE)
+* [Backend](https://github.com/Alchemy-IdleGame-Project/idlegame-BE)
+
+* [Deployed Site](https://idleisle.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  | 
 >|---|---|---|
->| Casey Cameron |  [Github](https://github.com/CaseyCameron)  |  [LinkedIn](https://www.linkedin.com/in/casey-cameron/)   |
->| [David Delgadillo](https://www.davidanthony.io/) | [Github](https://github.com/David-Del1)   | [LinkedIn](https://www.linkedin.com/in/davidadelgadillo/)  |         
->| Kalan Prudhomme |  [Github](https://github.com/prudhomk)  |  [LinkedIn](https://www.linkedin.com/in/kalanprudhomme/)  |
+>| Vance Mills|  [Github](https://github.com/Vance-M)  |  [LinkedIn](https://www.linkedin.com/in/vance-mills/)   |
+>| Edmond Zhan | [Github](https://github.com/zhaned)   | [LinkedIn](https://www.linkedin.com/in/edmondzhan/)  |         
+>| Minh Ngo |  [Github](https://github.com/ngominh0224)  |  [LinkedIn](https://www.linkedin.com/in/minhnngo/)  |
+>| Dominique Sakrissson |  [Github](https://github.com/Dominique-Sakrisson)  |  [LinkedIn](https://www.linkedin.com/in/dominique-sakrisson/)  |
 
 ___
 ___
-
+<!-- 
 ### Index
 > Description 
 >> A collaborative project brainstorming app
