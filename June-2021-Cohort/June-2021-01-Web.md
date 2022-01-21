@@ -24,7 +24,26 @@ ___
 ___
 ___
 
-### 
+### Memory Game
+
+> Description 
+>> Memory Game is an image-matching app which shuffles and flips pairs of tiles, and mimics the physical memory-challenge game that we played in our youth.
+
+* [Repo](https://github.com/AemiliusM/ProjectWk1-Memory-game)
+
+* [Deployed Site](https://aemiliusm.github.io/ProjectWk1-Memory-game)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Pete Hamrick| [Github](https://github.com/pete-hamrick)   | [LinkedIn](http://www.linkedin.com/in/petehamrick)   |
+>|Aemelius Morgan| [Github](https://github.com/AemiliusM)  |  [LinkedIn](https://www.linkedin.com/in/aemilius-morgan/)  |
+>| Alan Willoughby| [Github](https://github.com/satyadvaya)  |  [LinkedIn](https://www.linkedin.com/in/alan-willoughby)  |
+
+
+___
+___
+
+<!-- ### 
 
 > Description 
 >>
@@ -98,23 +117,4 @@ ___
 >| Name |  [Github]()  |  [LinkedIn]()  |
 
 ___
-___
-
-### 
-
-> Description 
->>
-
-* [Repo]()
-
-* [Deployed Site]()
-
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name| [Github]()   | [LinkedIn]()   |
->|  Name| [Github]()  |  [LinkedIn]()  |
->|  Name| [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
-
-___
-___
+___ -->
