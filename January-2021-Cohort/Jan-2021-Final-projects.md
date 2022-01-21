@@ -25,25 +25,28 @@ ___
 
 ___
 ___
-<!-- 
-### Local Impact
+
+#### This is my guide
+
+### BeatWavez
 > Description 
->> Make use of the ESRI api to display environmental factors the end user could be concerned about where they live or at locations they pick.
+>> A Jackbox-style karaoke party app that allows users to create and join party rooms, manage a queue, chat with each other, and (most importantly) sing along to lyrics videos pulled via the YouTube API. This app was built mobile-first with React and Express, utilizing socket.io and material UI.
 
-* [Backend Repo](https://github.com/AuNiTu/Backend-Impact)
-* [Frontend Repo](https://github.com/AuNiTu/Local-Impact)
+* [Backend Repo](https://github.com/the-treblemakers/BeatWavez-BE)
+* [Frontend Repo](https://github.com/the-treblemakers/BeatWavez-FE)
 
-* [Deployed Site](https://local-impact.netlify.app/map)
+* [Deployed Site](https://beatwavez.com/)
  
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Nick Day |  [Github](https://github.com/NickDayFSD/)  |  [LinkedIn](https://www.linkedin.com/in/nick-day-fsd/)   |
->| Tucker Hoog | [Github](https://github.com/Grahf0085)   | [LinkedIn](https://www.linkedin.com/in/tuckerhoog/)  |
->| Austi Duong |  [Github](https://github.com/austinxduong)  |  [LinkedIn](https://www.linkedin.com/in/austinxduong/)  |
-
+>| Soraya Benson |  [Github](https://github.com/sorayabenson)  |  [LinkedIn](https://www.linkedin.com/in/soraya-benson/)   |
+>| Nicole Martin | [Github](https://github.com/nicole-m-martin)   | [LinkedIn](https://www.linkedin.com/in/nicolemartinpdx/)  |
+>| Lori Wilson |  [Github](https://github.com/LoriWinston)  |  [LinkedIn](https://www.linkedin.com/in/loriwinston/)  |
+>| Brandon Perard |  [Github](https://github.com/bperard)  |  [LinkedIn](https://www.linkedin.com/in/brandonperard/)  |
+>| Katy Boyles (KB) |  [Github](https://github.com/katrinkajb)  |  [LinkedIn](https://www.linkedin.com/in/katy-boyles/)  |
 ___
 ___
-
+<!-- 
 ### Tech Wiz Quiz
 > Description 
 >> A trivia game to help people learn information about coding.
