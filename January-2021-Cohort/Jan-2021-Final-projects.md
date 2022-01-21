@@ -1,4 +1,4 @@
-# Alchemy Class Projects - Jan 2021 Cohort
+<!-- # Alchemy Class Projects - Jan 2021 Cohort
 
 ## Final Projects
 
@@ -95,12 +95,31 @@ ___
 >> Idle Play browser game about building a village on an Island.
 
 * [FrontEnd](https://github.com/Alchemy-IdleGame-Project/idlegame-FE)
-* [BackEnd]()
-* [Deployed Site](https://github.com/Alchemy-IdleGame-Project/idlegame-BE)
+* [BackEnd](https://github.com/Alchemy-IdleGame-Project/idlegame-BE)
+* [Deployed Site](https://idleisle.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Vance Mills|  [Github](https://github.com/Vance-M)  |  [LinkedIn](https://www.linkedin.com/in/vance-mills/)   |
 >| Edmond Zhan | [Github](https://github.com/zhaned)   | [LinkedIn](https://www.linkedin.com/in/edmondzhan/)  |         
 >| Minh Ngo |  [Github](https://github.com/ngominh0224)  |  [LinkedIn](https://www.linkedin.com/in/minhnngo/)  |
->| Dominique Sakrissson |  [Github](https://github.com/Dominique-Sakrisson)  |  [LinkedIn](https://www.linkedin.com/in/dominique-sakrisson/)  |
+>| Dominique Sakrissson |  [Github](https://github.com/Dominique-Sakrisson)  |  [LinkedIn](https://www.linkedin.com/in/dominique-sakrisson/)  | -->
+
+___
+___
+
+ ### GIM LLC.
+> Description 
+>>  An online multiplayer game disguised as a simple corporate website > _One day, while cleaning the server trays, a kind young soul was thrust into a strange fate.. Their soul now lives within the server and needs your help to be set free..._ GIM LLC is an escape room inspired website where players work together to find clues to free the ghost!  Built using React.js and socket.io for multiplayer interactivity. 
+
+* [FrontEnd](https://github.com/GIM-LLC/GIM)
+* [BackEnd]()
+* [Deployed Site](https://github.com/GIM-LLC/GIM-server)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Katrina Cloyd|  [Github](https://github.com/KatrinaCloyd)  |  [LinkedIn](https://www.linkedin.com/in/katrinacloyd/)   |
+>| Casey Warren | [Github](https://github.com/caseywar)   | [LinkedIn](https://www.linkedin.com/in/casey-maynah-warren/)  |         
+>| Devon Wolfkiel |  [Github](https://github.com/devon-wolf)  |  [LinkedIn](https://www.linkedin.com/in/devon-wolfkiel/)  |
+>|Cameron Zimmerman |  [Github](https://github.com/CameronZimmerman)  |  [LinkedIn](https://www.linkedin.com/in/cameron-zimmerman/)  |
+>|Juli Vela |  [Github](https://github.com/juliannevela)  |  [LinkedIn](https://www.linkedin.com/in/juliannevela/)  |
