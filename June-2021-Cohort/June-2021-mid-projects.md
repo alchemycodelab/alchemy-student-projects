@@ -18,7 +18,7 @@ ___
 >|---|---|---|
 >| Cristian Montes| [Github](https://github.com/cristian-montes)   | [LinkedIn](https://www.linkedin.com/in/cristianmontesmujica/)   |
 >|  Justin Soto |  [Github](https://github.com/justin-w-soto)  |  [LinkedIn](https://www.linkedin.com/in/justinwsoto/)  |
->| Evon Perez |  [Github]()  |  [LinkedIn]()  |
+>| Evon Perez |  Github  |  Linkedin  |
 >| Madden Lockin |  [Github](https://github.com/maddenlockin)  |  [LinkedIn](https://www.linkedin.com/in/madden-lockin/)  |
 
 ___
