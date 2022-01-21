@@ -8,11 +8,12 @@ ___
 ### Alcode Campgrounds
 
 > Description 
->>
+>> A mobile-friendly app to help you find your new favorite campsite from anywhere in the US.
 
-* [Repo]()
+* [Repo](https://github.com/Alcode-Campgrounds)
 
-* [Deployed Site]()
+
+* [Deployed Site](https://alcode-campgrounds.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -27,11 +28,11 @@ ___
 ### Note(d)
 
 > Description 
->>
+>> Note(d) is a note taking app for devs by devs. A single app to store all of your important notes, ideas, and helpful hints when working. 
 
-* [Repo]()
+* [Repo](https://github.com/Alchemy-Notes)
 
-* [Deployed Site]()
+* [Deployed Site](https://alchemy-noted.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -46,11 +47,11 @@ ___
 ### Outlier
 
 > Description 
->>
+>> Outlier is a Data Visualization App designed for you to gain knowledge in order to enhance your safety, your ability to advocate for funding and your access to services. 
 
-* [Repo]()
+* [Repo](https://github.com/Outlier-Data-Viz)
 
-* [Deployed Site]()
+* [Deployed Site](https://outlier-data.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -64,11 +65,11 @@ ___
 ### Life Stats
 
 > Description 
->>
+>> Life Stats is a curated informational and reflective experience built around the users birthdate.
 
-* [Repo]()
+* [Repo](https://github.com/Life-Stats)
 
-* [Deployed Site]()
+* [Deployed Site](https://pedantic-pasteur-453987.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
