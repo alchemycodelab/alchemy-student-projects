@@ -71,32 +71,36 @@ ___
 >> Collaboratively composing music with the collision of time, space, and socket.io. Built with React, matter.js, tone.js, p5*js, and Material UI,
 
 
-* [FrontEnd](https://github.com/Alchemy-IdleGame-Project/idlegame-FE)
-* [Backend](https://github.com/Alchemy-IdleGame-Project/idlegame-BE)
+* [FrontEnd](https://github.com/socket-jockey/socket-jockey-server)
+* [Backend](https://github.com/socket-jockey/socket-jockey-client)
 
-* [Deployed Site](https://idleisle.netlify.app/)
+* [Deployed Site](https://socketjockey.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  | 
+>|---|---|---|
+>| Kat Sauma|  [Github](https://github.com/kat-sauma)  |  [LinkedIn](https://www.linkedin.com/in/kat-sauma/)   |
+>| Tyler Faris | [Github](https://github.com/Tylerpfarris)   | [LinkedIn](https://www.linkedin.com/in/tyler-p-farris/)  |         
+>| Stephen Leisy|  [Github](https://github.com/stephen-leisy)  |  [LinkedIn](https://www.linkedin.com/in/stephen-leisy/)  |
+>| Dylan White |  [Github](https://github.com/glass-waves)  |  [LinkedIn](https://www.linkedin.com/in/dylan-j-white/)  |
+>| Erich Sauer|  [Github](https://github.com/erichsauer)  |  [LinkedIn](https://www.linkedin.com/in/erichsauer/)   |
+>| Jake Thrasher | [Github](https://github.com/jakethrasher)   | [LinkedIn](https://www.linkedin.com/in/m-jake-thrasher/)  |         
+>| Patrick Hrabos|  [Github](https://github.com/phrabos)  |  [LinkedIn](https://www.linkedin.com/in/patrick-hrabos/)  |
+>| Anthony Rosario |  [Github](https://github.com/Anthony-Rosario)  |  [LinkedIn](https://www.linkedin.com/in/anthony-rosario/)  |
+
+___
+___
+
+ ### IdleIsle
+> Description 
+>> Idle Play browser game about building a village on an Island.
+
+* [FrontEnd](https://github.com/Alchemy-IdleGame-Project/idlegame-FE)
+* [BackEnd]()
+* [Deployed Site](https://github.com/Alchemy-IdleGame-Project/idlegame-BE)
+
+>| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Vance Mills|  [Github](https://github.com/Vance-M)  |  [LinkedIn](https://www.linkedin.com/in/vance-mills/)   |
 >| Edmond Zhan | [Github](https://github.com/zhaned)   | [LinkedIn](https://www.linkedin.com/in/edmondzhan/)  |         
 >| Minh Ngo |  [Github](https://github.com/ngominh0224)  |  [LinkedIn](https://www.linkedin.com/in/minhnngo/)  |
 >| Dominique Sakrissson |  [Github](https://github.com/Dominique-Sakrisson)  |  [LinkedIn](https://www.linkedin.com/in/dominique-sakrisson/)  |
-
-___
-___
-<!-- 
-### Index
-> Description 
->> A collaborative project brainstorming app
-
-* [Repo](https://github.com/index-alchemy)
-
-* [Deployed Site](https://acp-index.netlify.app/)
-
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Annaleigh Hickman |  [Github](https://github.com/annaleighthomas)  |  [LinkedIn](https://www.linkedin.com/in/annaleighhickman/)   |
->| Austin Summerlin | [Github](https://github.com/austin-summerlin)   | [LinkedIn](https://www.linkedin.com/in/austin-summerlin/)  |
->| [Clem Hepburn](https://clem.today) |  [Github](http://github.com/clemhepburn/)  |  [LinkedIn](https://www.linkedin.com/in/clemhepburn/)  |
->| [Culi Tif](https://work.culi.page/) |  [Github](https://github.com/tif-calin)  |  [LinkedIn](https://www.linkedin.com/in/tif-calin/)  | -->
