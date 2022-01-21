@@ -2,13 +2,13 @@
 
 ## Final Projects
 
-Fourth and final projects made in a 10-day sprint, from concept through delivery, after week 18 in the program.  These students have just finished more than 800 hours of our professional software development training. They've learned how to harness FullStack JavaScript capabilities using React, Redux, Node, Express, and PostgreSQL, all while working on fully remote teams.
+Fourth and final team projects made in a 9-day sprint, from concept through delivery. These students have finished more than 800 hours of our professional software development training and learned how to harness Full Stack JavaScript capabilities using React, Redux, Node, Express, and PostgreSQL, all while working on fully remote teams.
 ___
 
 ### Alcode Campgrounds
 
 > Description 
->> A mobile-friendly app to help you find your new favorite campsite from anywhere in the US.
+>> A mobile-friendly app to help you find your new favorite campsite from anywhere in the U.S.
 
 * [Repo](https://github.com/Alcode-Campgrounds)
 
