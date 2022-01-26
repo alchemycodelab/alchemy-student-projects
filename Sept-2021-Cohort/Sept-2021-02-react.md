@@ -1,195 +1,218 @@
-<!-- # Alchemy Class Projects - November 2021 Cohort
+# Alchemy Class Projects - November 2021 Cohort
 
 ## Mid Projects
 
-Third projects one week sprint, from concept through delivery, after week 12 in the program.  A back-end focused app using Node, Express, PostgreSQL and RESTful API calls, on fully remote teams.
+Third projects one week sprint, from concept through delivery, after week 12 in the program. A back-end focused app using Node, Express, PostgreSQL and RESTful API calls, on fully remote teams.
 
-___
+---
 
-### 
+###
 
-> Description 
->> 
+> Description
+>
+> >
 
-* [Repo]()
+- [Repo]()
 
-* [Deployed Site]()
+- [Deployed Site]()
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name | [Github]()   | [LinkedIn]()   |
->| Name |  [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
+> | Team Members | Github     | LinkedIn     |
+> | ------------ | ---------- | ------------ |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
 
-___
-___
+---
 
-### 
+---
 
-> Description 
->> 
+### TechSwap
 
-* [Repo]()
+> Description
+>
+> >
 
-* [Deployed Site]()
+- [Repo](https://github.com/Alchemy-Tech-Swap/TechSwap)
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name | [Github]()   | [LinkedIn]()   |
->| Name |  [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
+- [Deployed Site](https://techswap.netlify.app/)
 
-___
-___ -->
-<!-- ### 
+> | Team Members       | Github                                          | LinkedIn                                                    |
+> | ------------------ | ----------------------------------------------- | ----------------------------------------------------------- |
+> | Brett Seifried     | [Github](https://github.com/BrettSeifried)      | [LinkedIn](https://www.linkedin.com/in/brett-seifried/)     |
+> | Chase Crowder      | [Github](https://github.com/Gcrowder93)         | [LinkedIn](https://www.linkedin.com/in/gregory-crowder/)    |
+> | James Demiraiakian | [Github](https://github.com/james-demiraiakian) | [LinkedIn](https://www.linkedin.com/in/james-demiraiakian/) |
+> | Mark Voltaire      | [Github]()                                      | [LinkedIn]()                                                |
+> | Phoenix Nicholson  | [Github]()                                      | [LinkedIn]()                                                |
 
-> Description 
->>
+---
 
-* [Repo]()
+---
 
-* [Deployed Site]()
+###
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name| [Github]()   | [LinkedIn]()   |
->|  Name| [Github]()  |  [LinkedIn]()  |
->|  Name| [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
+> Description
+>
+> >
 
-___
-___
+- [Repo]()
 
-### 
+- [Deployed Site]()
 
-> Description 
->>
+> | Team Members | Github     | LinkedIn     |
+> | ------------ | ---------- | ------------ |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
 
-* [Repo]()
+---
 
-* [Deployed Site]()
+---
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name| [Github]()   | [LinkedIn]()   |
->|  Name| [Github]()  |  [LinkedIn]()  |
->|  Name| [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
+###
 
-___
-___
+> Description
+>
+> >
 
-### 
+- [Repo]()
 
-> Description 
->>
+- [Deployed Site]()
 
-* [Repo]()
+> | Team Members | Github     | LinkedIn     |
+> | ------------ | ---------- | ------------ |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
 
-* [Deployed Site]()
+---
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name| [Github]()   | [LinkedIn]()   |
->|  Name| [Github]()  |  [LinkedIn]()  |
->|  Name| [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
+---
 
-___
-___
+###
 
-### 
+> Description
+>
+> >
 
-> Description 
->>
+- [Repo]()
 
-* [Repo]()
+- [Deployed Site]()
 
-* [Deployed Site]()
+> | Team Members | Github     | LinkedIn     |
+> | ------------ | ---------- | ------------ |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name| [Github]()   | [LinkedIn]()   |
->|  Name| [Github]()  |  [LinkedIn]()  |
->|  Name| [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
+---
 
-___
-___ -->
-<!-- ### 
+---
 
-> Description 
->>
+###
 
-* [Repo]()
+> Description
+>
+> >
 
-* [Deployed Site]()
+- [Repo]()
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name| [Github]()   | [LinkedIn]()   |
->|  Name| [Github]()  |  [LinkedIn]()  |
->|  Name| [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
+- [Deployed Site]()
 
-___
-___
+> | Team Members | Github     | LinkedIn     |
+> | ------------ | ---------- | ------------ |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
 
-### 
+---
 
-> Description 
->>
+---
 
-* [Repo]()
+###
 
-* [Deployed Site]()
+> Description
+>
+> >
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name| [Github]()   | [LinkedIn]()   |
->|  Name| [Github]()  |  [LinkedIn]()  |
->|  Name| [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
+- [Repo]()
 
-___
-___
+- [Deployed Site]()
 
-### 
+> | Team Members | Github     | LinkedIn     |
+> | ------------ | ---------- | ------------ |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
 
-> Description 
->>
+---
 
-* [Repo]()
+---
 
-* [Deployed Site]()
+###
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name| [Github]()   | [LinkedIn]()   |
->|  Name| [Github]()  |  [LinkedIn]()  |
->|  Name| [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
+> Description
+>
+> >
 
-___
-___
+- [Repo]()
 
-### 
+- [Deployed Site]()
 
-> Description 
->>
+> | Team Members | Github     | LinkedIn     |
+> | ------------ | ---------- | ------------ |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
 
-* [Repo]()
+---
 
-* [Deployed Site]()
+---
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name| [Github]()   | [LinkedIn]()   |
->|  Name| [Github]()  |  [LinkedIn]()  |
->|  Name| [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
+###
 
-___
-___ -->
+> Description
+>
+> >
+
+- [Repo]()
+
+- [Deployed Site]()
+
+> | Team Members | Github     | LinkedIn     |
+> | ------------ | ---------- | ------------ |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+
+---
+
+---
+
+###
+
+> Description
+>
+> >
+
+- [Repo]()
+
+- [Deployed Site]()
+
+> | Team Members | Github     | LinkedIn     |
+> | ------------ | ---------- | ------------ |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() |
+
+---
+
+---
