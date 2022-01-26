@@ -49,43 +49,42 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 ---
 
-###
+### BYOBee
 
 > Description
 >
 > >
 
-- [Repo]()
+- [Repo](https://byobee.netlify.app/)
 
-- [Deployed Site]()
+- [Deployed Site](https://github.com/BYOBee-Project/BYOBee)
 
 > | Team Members | Github     | LinkedIn     |
 > | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
+> | Emma Egstad         | [Github](https://github.com/emmaegstad) | [LinkedIn](https://www.linkedin.com/in/emmaegstad) |
+> | Michelle Nygren         | [Github](https://github.com/michellerenehey) | [LinkedIn](https://www.linkedin.com/in/michellenygren/) |
+> | Adria Ivanitsky         | [Github](https://github.com/adriaivanitsky) | [LinkedIn](https://www.linkedin.com/in/adriaivanitsky) |
+> | Zach Caldwell         | [Github](https://github.com/zcaldwell) | [LinkedIn](https://www.linkedin.com/in/zach-caldwell) |
 
 ---
 
 ---
 
-###
+### Scrounger
 
-> Description
->
-> >
+> Description 
+>> Welcome explorer! We're here to guide you on real-world adventures. Scrounger encourages you to explore, discover the world, and cultivate community by creating shared experiences.
 
-- [Repo]()
+* [Repo](https://github.com/scavengers-club/scrounger)
 
-- [Deployed Site]()
+* [Deployed Site](https://scrounger.netlify.app/)
 
-> | Team Members | Github     | LinkedIn     |
-> | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Noah Smyth| [Github]()   | [LinkedIn]()   |
+>|  Bailey Kuebelbeck| [Github](https://github.com/baileykue)  |  [LinkedIn](https://www.linkedin.com/in/bailey-kuebelbeck/)  |
+>|  Violet Stewart| [Github]()  |  [LinkedIn]()  |
+>| Jordan Laurent |  [Github](https://github.com/jlaurentpdx)  |  [LinkedIn](https://www.linkedin.com/in/jordan-laurent-pdx/)  |
 
 ---
 
