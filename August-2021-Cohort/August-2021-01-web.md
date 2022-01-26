@@ -24,12 +24,10 @@ Context, for example: First one week sprint, from concept through delivery, afte
 
 -   [Deployed Site](https://bookrecommendations.github.io/BookApp/)
 
--   [Video Presentation](Link)
-
 > | Team Members  | Github                             | LinkedIn                                                   |
 > | ------------- | ---------------------------------- | ---------------------------------------------------------- |
-> | Daniel Gilles | [Github](https://github.com/)      | [LinkedIn](https://www.linkedin.com/in/)                   |
-> | Amit Sheth    | [Github](https://github.com/)      | [LinkedIn](https://www.linkedin.com/in/)                   |
+> | Daniel Gilles |                                    |                                                            |
+> | Amit Sheth    |                                    |                                                            |
 > | Stef Baughman | [Github](github.com/HonduranCoder) | [LinkedIn](https://www.linkedin.com/in/estefani-baughman/) |
 
 ---
@@ -45,8 +43,6 @@ Context, for example: First one week sprint, from concept through delivery, afte
 -   [Repo](https://prosperieeli.github.io/Project-EP/form-page/index.html)
 
 -   [Deployed Site](https://github.com/ProsperieEli/Project-EP)
-
--   [Video Presentation](Link)
 
     > | Team Members          | Github                                         | LinkedIn                                                   |
     > | --------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
