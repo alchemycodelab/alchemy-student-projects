@@ -6,22 +6,22 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 ---
 
-###
+### Unspoken
 
 > Description
 >
-> >
+> > A space to write your stories, memories or unspoken words while listening to lofi beats. Sometimes all you need is to write it out.
 
-- [Repo]()
+- [Repo](https://github.com/unspoken-project/unspoken)
 
-- [Deployed Site]()
+- [Deployed Site](https://unspokenstories.netlify.app/)
 
-> | Team Members | Github     | LinkedIn     |
-> | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
+> | Team Members     | Github                                       | LinkedIn                                                 |
+> | ---------------- | -------------------------------------------- | -------------------------------------------------------- |
+> | Karyssa Dandrea  | [Github](https://github.com/karyssa-dandrea) | [LinkedIn](https://www.linkedin.com/in/karyssa-dandrea/) |
+> | Ian Christiansen | [Github]()                                   | [LinkedIn]()                                             |
+> | Indy Holdsworth  | [Github]()                                   | [LinkedIn]()                                             |
+> | Mira Kinebuchi   | [Github](https://github.com/mira-kine)       | [LinkedIn](https://www.linkedin.com/in/mira-kinebuchi/)  |
 
 ---
 
@@ -31,7 +31,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 > Description
 >
-> >
+> > An app allowing current and former Alchemy students and staff to offer their spare tech for sale or trade to eachother. Access to hardware and equipment should never be a limiting factor in an individuals path to learning and growth, and through this app, we seek to diminish or eliminate that limiting factor as much as possible.
 
 - [Repo](https://github.com/Alchemy-Tech-Swap/TechSwap)
 
@@ -177,6 +177,8 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 ###
 
+<<<<<<< HEAD
+
 > Description
 >
 > >
@@ -216,3 +218,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 ---
 
 ---
+
+=======
+
+> > > > > > > a7ded94cf28e8ea3dc784aaba997b8981380f52a
