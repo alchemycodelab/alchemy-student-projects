@@ -42,7 +42,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 > | Brett Seifried     | [Github](https://github.com/BrettSeifried)      | [LinkedIn](https://www.linkedin.com/in/brett-seifried/)     |
 > | Chase Crowder      | [Github](https://github.com/Gcrowder93)         | [LinkedIn](https://www.linkedin.com/in/gregory-crowder/)    |
 > | James Demiraiakian | [Github](https://github.com/james-demiraiakian) | [LinkedIn](https://www.linkedin.com/in/james-demiraiakian/) |
-> | Mark Voltaire      | [Github]()                                      | [LinkedIn]()                                                |
+> | Mark Voltaire      | [Github](https://github.com/markjvoltaire)      | [LinkedIn]()                                                |
 > | Phoenix Nicholson  | [Github]()                                      | [LinkedIn]()                                                |
 
 ---
@@ -95,18 +95,18 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 > Description
 >
-> >
+> > Yah-Food is a fun, simple, and creative app that helps the user discover new foods based on the ingredients they already have. It offers a small featured recipe section, ability to favorite certain recipes, and create your own recipes. This App is suited for both mobile and desktop use.
 
-- [Repo]()
+- [Repo](https://github.com/Yah-food/Yahfood-final)
 
-- [Deployed Site]()
+- [Deployed Site](https://hopeful-curie-14d366.netlify.app/)
 
-> | Team Members | Github     | LinkedIn     |
-> | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
+> | Team Members     | Github                                        | LinkedIn                                                 |
+> | ---------------- | --------------------------------------------- | -------------------------------------------------------- |
+> | Andrew Joy       | [Github]()                                    | [LinkedIn]()                                             |
+> | Kevin Do         | [Github](https://github.com/kevindo1)         | [LinkedIn](https://www.linkedin.com/in/kdo/)             |
+> | Minoka Kakizaki  | [Github](https://github.com/kakizaki55)       | [LinkedIn](https://www.linkedin.com/in/minoka-kakizaki/) |
+> | Spencer Eagleton | [Github](https://github.com/spencer-eagleton) | [LinkedIn]()                                             |
 
 ---
 
