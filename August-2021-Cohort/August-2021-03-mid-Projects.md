@@ -24,9 +24,9 @@ Include any new tech/libraries used in the 'Description' field for each applicat
 
 > | Team Members    | Github                                | LinkedIn                                          |
 > | --------------- | ------------------------------------- | ------------------------------------------------- |
-> | Taylor Williams | [Github](Link)                        | [LinkedIn](Link)                                  |
-> | Dylan Floyd     | [Github](Link)                        | [LinkedIn](Link)                                  |
-> | Zack Lyons      | [Github](https://github.com/ZackLyon) | [LinkedIn](https://www.linkedin.com/in/zacklyon/) |
+> | Taylor Williams |                                       |                                                   |
+> | Dylan Floyd     |                                       |                                                   |
+> | Zack Lyon       | [Github](https://github.com/ZackLyon) | [LinkedIn](https://www.linkedin.com/in/zacklyon/) |
 
 ---
 
@@ -48,7 +48,7 @@ Include any new tech/libraries used in the 'Description' field for each applicat
 > | -------------- | --------------------------------------------- | ---------------------------------------------------------- |
 > | Stef Baughman  | [Github](https://github.com/HonduranCoder)    | [LinkedIn](https://www.linkedin.com/in/estefani-baughman/) |
 > | Marvin Lambert | [Github](https://github.com/franklyhollywood) | [LinkedIn](https://www.linkedin.com/in/marvinlambert/)     |
-> | Amit Sheth     | [Github](Link)                                | [LinkedIn](Link)                                           |
+> | Amit Sheth     |                                               |                                                            |
 
 ---
 
@@ -70,7 +70,7 @@ Include any new tech/libraries used in the 'Description' field for each applicat
 > | --------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
 > | Michael Rider         | [Github](https://github.com/MikepdXRider)      | [LinkedIn](https://www.linkedin.com/in/mikepdxrider/)      |
 > | Katie Schrattenholzer | [Github](https://github.com/k-schrattenholzer) | [LinkedIn](https://www.linkedin.com/in/k-schrattenholzer/) |
-> | Diyana Mendoza        | [Github](Link)                                 | [LinkedIn](Link)                                           |
+> | Diyana Mendoza        |                                                |                                                            |
 > | Emily D. Sarani       | [Github](https://github.com/in/emily-sarani)   | [LinkedIn](https://www.linkedin.com/EmilyDSarani)          |
 
 ---
