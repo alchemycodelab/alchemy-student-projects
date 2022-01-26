@@ -1,6 +1,6 @@
-# Alchemy Class Projects - November 2021 Cohort
+<!-- # Alchemy Class Projects - November 2021 Cohort -->
 
-## Final Projects
+<!-- ## Final Projects
 
 Fourth and final team projects made in a 9-day sprint, from concept through delivery. These students have finished more than 800 hours of our professional software development training and learned how to harness Full Stack JavaScript capabilities using React, Node, Express, and PostgreSQL, all while working on fully remote teams.
 ___
@@ -12,8 +12,8 @@ ___
 
 * [Repo]()
 
-* [Deployed Site]()
-
+* [Deployed Site]() -->
+<!-- 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
 >| Name | [Github]()   | [LinkedIn]()   |
@@ -41,7 +41,7 @@ ___
 >| Name |  [Github]()  |  [LinkedIn]()  |
 
 ___
-___
+___ -->
 <!-- ### 
 
 > Description 

@@ -1,4 +1,4 @@
-# Alchemy Class Projects - November 2021 Cohort
+<!-- # Alchemy Class Projects - November 2021 Cohort
 
 ## React 02 Projects
 
@@ -41,7 +41,7 @@ ___
 >| Name |  [Github]()  |  [LinkedIn]()  |
 
 ___
-___
+___ -->
 <!-- ### 
 
 > Description 
