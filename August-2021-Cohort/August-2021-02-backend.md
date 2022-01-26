@@ -26,9 +26,9 @@ Second one week sprint, from concept through delivery, after week 7 in the progr
 
 > | Team Members    | Github                                     | LinkedIn                                                   |
 > | --------------- | ------------------------------------------ | ---------------------------------------------------------- |
-> | Taylor Williams | [Github](Link)                             | [LinkedIn](Link)                                           |
-> | Dylan Floyd     | [Github](Link)                             | [LinkedIn](Link)                                           |
-> | Amit Sheth      | [Github](Link)                             | [LinkedIn](Link)                                           |
+> | Taylor Williams |                                            |                                                            |
+> | Dylan Floyd     |                                            |                                                            |
+> | Amit Sheth      |                                            |                                                            |
 > | Stef Baughman   | [Github](https://github.com/HonduranCoder) | [LinkedIn](https://www.linkedin.com/in/estefani-baughman/) |
 
 ---
@@ -47,14 +47,34 @@ Second one week sprint, from concept through delivery, after week 7 in the progr
 
 -   [Deployed Site](https://paw-star.netlify.app/)
 
--   [Video Presentation](Link)
-
 > | Team Members          | Github                                         | LinkedIn                                                   |
 > | --------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
 > | Katie Schrattenholzer | [Github](https://github.com/k-schrattenholzer) | [LinkedIn](https://www.linkedin.com/in/k-schrattenholzer/) |
-> | Diyana Mendoza        | [Github](Link)                                 | [LinkedIn](Link)                                           |
+> | Diyana Mendoza        |                                                |                                                            |
 > | Elijah Prosperie      | [Github](https://github.com/ProsperieEli)      | [LinkedIn](https://www.linkedin.com/in/elijahprosperie/)   |
 > | Emily D. Sarani       | [Github](https://github.com/in/emily-sarani)   | [LinkedIn](https://www.linkedin.com/EmilyDSarani)          |
+
+---
+
+---
+
+### BetterFriend
+
+> Description
+>
+> > A networking app to manage contacts and create recurring reminders in Google calendar.
+
+-   [Repo FE](https://github.com/LousyFriend/better-friend-fe)
+
+-   [Repo BE](https://github.com/LousyFriend/betterfriend-be)
+
+-   [Deployed Site](https://competent-nobel-a651b0.netlify.app/)
+
+> | Team Members  | Github                                    | LinkedIn                                              |
+> | ------------- | ----------------------------------------- | ----------------------------------------------------- |
+> | Michael Rider | [Github](https://github.com/MikepdXRider) | [LinkedIn](https://www.linkedin.com/in/mikepdxrider/) |
+> | Daniel Gilles |                                           |                                                       |
+> | Zack Lyon     | [Github](https://github.com/ZackLyon)     | [LinkedIn](https://www.linkedin.com/in/zacklyon/)     |
 
 ---
 
@@ -82,49 +102,3 @@ Second one week sprint, from concept through delivery, after week 7 in the progr
 ---
 
 ---
-
-### Name of app
-
-> Description
->
-> > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
--   [Repo FE](Link)
-
--   [Repo BE](Link)
-
--   [Deployed Site](Link)
-
--   [Video Presentation](Link)
-
-> | Team Members                      | Github         | LinkedIn         |
-> | --------------------------------- | -------------- | ---------------- |
-> | [Student Name](Link-to-Portfolio) | [Github](Link) | [LinkedIn](Link) |
-> | Student Name                      | [Github](Link) | [LinkedIn](Link) |
-
----
-
----
-
-### Name of app
-
-> Description
->
-> > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
--   [Repo FE](Link)
-
--   [Repo BE](Link)
-
--   [Deployed Site](Link)
-
--   [Video Presentation](Link)
-
-> | Team Members                      | Github         | LinkedIn         |
-> | --------------------------------- | -------------- | ---------------- |
-> | [Student Name](Link-to-Portfolio) | [Github](Link) | [LinkedIn](Link) |
-> | Student Name                      | [Github](Link) | [LinkedIn](Link) |
-
----
-
---- -->
