@@ -45,7 +45,7 @@ Second one week sprint, from concept through delivery, after week 7 in the progr
 
 -   [Repo BE](https://github.com/ProsperieEli/paw-star-be)
 
--   [Deployed Site](paw-star.netlify.app/)
+-   [Deployed Site](https://paw-star.netlify.app/)
 
 -   [Video Presentation](Link)
 
