@@ -1,4 +1,4 @@
-# Alchemy Class Projects - September 2021 Cohort
+<!-- # Alchemy Class Projects - September 2021 Cohort
 
 ## Mid Projects
 
@@ -42,7 +42,7 @@ ___
 >| Name |  [Github]()  |  [LinkedIn]()  |
 
 ___
-___
+___ -->
 <!-- ### 
 
 > Description 
