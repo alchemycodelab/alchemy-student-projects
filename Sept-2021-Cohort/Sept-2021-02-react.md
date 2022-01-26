@@ -1,8 +1,8 @@
-# Alchemy Class Projects - November 2021 Cohort
+# Alchemy Class Projects - September 2021 Cohort
 
-## Mid Projects
+## React 02 Projects
 
-Third projects one week sprint, from concept through delivery, after week 12 in the program. A back-end focused app using Node, Express, PostgreSQL and RESTful API calls, on fully remote teams.
+<!-- Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, PostgreSQL and RESTful API calls hitting a 3rd party API, on fully remote teams. -->
 
 ---
 
@@ -91,7 +91,7 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 ---
 
-###
+### Yahfood
 
 > Description
 >
@@ -154,69 +154,3 @@ Third projects one week sprint, from concept through delivery, after week 12 in 
 
 ---
 
-###
-
-> Description
->
-> >
-
-- [Repo]()
-
-- [Deployed Site]()
-
-> | Team Members | Github     | LinkedIn     |
-> | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-
----
-
----
-
-###
-
-> Description
->
-> >
-
-- [Repo]()
-
-- [Deployed Site]()
-
-> | Team Members | Github     | LinkedIn     |
-> | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-
----
-
----
-
-###
-
-> Description
->
-> >
-
-- [Repo]()
-
-- [Deployed Site]()
-
-> | Team Members | Github     | LinkedIn     |
-> | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-
----
-
----
-
-=======
-
-> > > > > > > a7ded94cf28e8ea3dc784aaba997b8981380f52a
