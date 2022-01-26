@@ -12,6 +12,73 @@ Include any new tech/libraries used in the 'Description' field for each applicat
 
 ### Name of app
 
+> FastLancer
+>
+> > Freelance business management app
+
+-   [Repo FE](https://github.com/Fast-Lancer/Fast-Lancer)
+
+-   [Deployed Site](https://fast-lancer.netlify.app/)
+
+-   [Video Presentation](Link)
+
+> | Team Members    | Github                                | LinkedIn                                          |
+> | --------------- | ------------------------------------- | ------------------------------------------------- |
+> | Taylor Williams | [Github](Link)                        | [LinkedIn](Link)                                  |
+> | Dylan Floyd     | [Github](Link)                        | [LinkedIn](Link)                                  |
+> | Zack Lyons      | [Github](https://github.com/ZackLyon) | [LinkedIn](https://www.linkedin.com/in/zacklyon/) |
+
+---
+
+---
+
+### HLPR
+
+> Description
+>
+> > HLP with daily tasks and chores
+
+-   [Repo FE](https://github.com/HLPR-APP/HLPR)
+
+-   [Deployed Site](https://hlpr.netlify.app)
+
+-   [Video Presentation](Link)
+
+> | Team Members   | Github                                        | LinkedIn                                                   |
+> | -------------- | --------------------------------------------- | ---------------------------------------------------------- |
+> | Stef Baughman  | [Github](https://github.com/HonduranCoder)    | [LinkedIn](https://www.linkedin.com/in/estefani-baughman/) |
+> | Marvin Lambert | [Github](https://github.com/franklyhollywood) | [LinkedIn](https://www.linkedin.com/in/marvinlambert/)     |
+> | Amit Sheth     | [Github](Link)                                | [LinkedIn](Link)                                           |
+
+---
+
+---
+
+### Ask Xem
+
+> Description
+>
+> > Provide a fun and informative way for families to learn about gender and pronouns
+
+-   [Repo FE](https://github.com/askxem/Ask-Xem)
+
+-   [Deployed Site](https://askxem.netlify.app/)
+
+-   [Video Presentation](Link)
+
+> | Team Members          | Github                                         | LinkedIn                                                   |
+> | --------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
+> | Michael Rider         | [Github](https://github.com/MikepdXRider)      | [LinkedIn](https://www.linkedin.com/in/mikepdxrider/)      |
+> | Katie Schrattenholzer | [Github](https://github.com/k-schrattenholzer) | [LinkedIn](https://www.linkedin.com/in/k-schrattenholzer/) |
+> | Diyana Mendoza        | [Github](Link)                                 | [LinkedIn](Link)                                           |
+> | Emily D. Sarani       | [Github](https://github.com/in/emily-sarani)   | [LinkedIn](https://www.linkedin.com/EmilyDSarani)          |
+
+---
+
+---
+
+<!-- ### Name of app
+
 > Description
 >
 > > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -31,27 +98,4 @@ Include any new tech/libraries used in the 'Description' field for each applicat
 
 ---
 
----
-
-### Name of app
-
-> Description
->
-> > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
--   [Repo FE](Link)
-
--   [Repo BE](Link)
-
--   [Deployed Site](Link)
-
--   [Video Presentation](Link)
-
-> | Team Members                      | Github         | LinkedIn         |
-> | --------------------------------- | -------------- | ---------------- |
-> | [Student Name](Link-to-Portfolio) | [Github](Link) | [LinkedIn](Link) |
-> | Student Name                      | [Github](Link) | [LinkedIn](Link) |
-
----
-
----
+--- -->

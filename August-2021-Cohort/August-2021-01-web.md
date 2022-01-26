@@ -14,7 +14,52 @@ Context, for example: First one week sprint, from concept through delivery, afte
 
 ---
 
-### Name of app
+### Book Recommendations
+
+> Description
+>
+> > Problem Domain: Book Recommendations tend to be too generic. How we are addressing this: Recommendations based on user feedback.
+
+-   [Repo](https://github.com/BookRecommendations/BookApp)
+
+-   [Deployed Site](https://bookrecommendations.github.io/BookApp/)
+
+-   [Video Presentation](Link)
+
+> | Team Members  | Github                             | LinkedIn                                                   |
+> | ------------- | ---------------------------------- | ---------------------------------------------------------- |
+> | Daniel Gilles | [Github](https://github.com/)      | [LinkedIn](https://www.linkedin.com/in/)                   |
+> | Amit Sheth    | [Github](https://github.com/)      | [LinkedIn](https://www.linkedin.com/in/)                   |
+> | Stef Baughman | [Github](github.com/HonduranCoder) | [LinkedIn](https://www.linkedin.com/in/estefani-baughman/) |
+
+---
+
+---
+
+### Emergency Preparedness
+
+> Description
+>
+> > "Problem Domain: People are not always prepared for an emergency when it happens. How we are addressing this: Providing a checklist with links to items for people to get what they need ahead before an issue occurs. "
+
+-   [Repo](https://prosperieeli.github.io/Project-EP/form-page/index.html)
+
+-   [Deployed Site](https://github.com/ProsperieEli/Project-EP)
+
+-   [Video Presentation](Link)
+
+    > | Team Members          | Github                                         | LinkedIn                                                   |
+    > | --------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
+    > | Katie Schrattenholzer | [Github](https://github.com/k-schrattenholzer) | [LinkedIn](https://www.linkedin.com/in/k-schrattenholzer/) |
+    > | Zack Lyons            | [Github](https://github.com/ZackLyon)          | [LinkedIn](https://www.linkedin.com/in/zacklyon/)          |
+    > | Elijah Prosperie      | [Github](https://github.com/ProsperieEli)      | [LinkedIn](https://www.linkedin.com/in/elijahprosperie/)   |
+    > | Emily D. Sarani       | [Github](https://github.com/in/emily-sarani)   | [LinkedIn](https://www.linkedin.com/EmilyDSarani)          |
+
+---
+
+---
+
+<!-- ### Name of app
 
 > Description
 >
@@ -58,4 +103,4 @@ Context, for example: First one week sprint, from concept through delivery, afte
 
 ---
 
----
+--- -->
