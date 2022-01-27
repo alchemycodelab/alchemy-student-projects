@@ -18,10 +18,10 @@
 
 > | Team Members     | Github                                       | LinkedIn                                                 |
 > | ---------------- | -------------------------------------------- | -------------------------------------------------------- |
-> | Karyssa Dandrea  | [Github](https://github.com/karyssa-dandrea) | [LinkedIn](https://www.linkedin.com/in/karyssa-dandrea/) |
-> | Ian Christiansen | [Github]()                                   | [LinkedIn]()                                             |
-> | Indy Holdsworth  | [Github]()                                   | [LinkedIn]()                                             |
-> | Mira Kinebuchi   | [Github](https://github.com/mira-kine)       | [LinkedIn](https://www.linkedin.com/in/mira-kinebuchi/)  |
+> | Karyssa Dandrea  | [Github](https://github.com/karyssa-dandrea) | [LinkedIn](https://www.linkedin.com/in/karyssa-dandrea/)      |
+> | Ian Christiansen | [Github](https://github.com/ian-christiansen)                  | [LinkedIn](https://www.linkedin.com/in/ian-christiansen) |    
+> | Indy Holdsworth  | [Github](https://github.com/H-Indiana-Holdsworth)              | [LinkedIn](https://www.linkedin.com/in/h-indiana-holdsworth/)|
+> | Mira Kinebuchi   | [Github](https://github.com/mira-kine)       | [LinkedIn](https://www.linkedin.com/in/mira-kinebuchi/)      |
 
 ---
 
@@ -42,8 +42,8 @@
 > | Brett Seifried     | [Github](https://github.com/BrettSeifried)      | [LinkedIn](https://www.linkedin.com/in/brett-seifried/)     |
 > | Chase Crowder      | [Github](https://github.com/Gcrowder93)         | [LinkedIn](https://www.linkedin.com/in/gregory-crowder/)    |
 > | James Demiraiakian | [Github](https://github.com/james-demiraiakian) | [LinkedIn](https://www.linkedin.com/in/james-demiraiakian/) |
-> | Mark Voltaire      | [Github](https://github.com/markjvoltaire)      | [LinkedIn]()                                                |
-> | Phoenix Nicholson  | [Github]()                                      | [LinkedIn]()                                                |
+<!-- > | Mark Voltaire      | [Github]()      | [LinkedIn]()                                                | -->
+> | Phoenix Nicholson  | [Github](https://github.com/phoenix-nicholson)  | [LinkedIn](https://www.linkedin.com/in/phoenix-nicholson/)  |
 
 ---
 
@@ -53,7 +53,7 @@
 
 > Description
 >
-> >
+> > An app connecting the bee community! BYOBee has a public-facing education component that displays bee photos and information, and user-based profiles that allow you to build a virtual bee collection by uploading photos and details about bees you see.
 
 - [Repo](https://byobee.netlify.app/)
 
@@ -82,7 +82,7 @@
 
 > | Team Members      | Github                                   | LinkedIn                                                    |
 > | ----------------- | ---------------------------------------- | ----------------------------------------------------------- |
-> | Noah Smyth        | [Github]()                               | [LinkedIn]()                                                |
+> | Noah Smyth        | [Github](@NoahDeltoroSmyth)               | [LinkedIn](https://www.linkedin.com/in/noahdeltorosmyth/) |
 > | Bailey Kuebelbeck | [Github](https://github.com/baileykue)   | [LinkedIn](https://www.linkedin.com/in/bailey-kuebelbeck/)  |
 > | Violet Stewart    | [Github]()                               | [LinkedIn]()                                                |
 > | Jordan Laurent    | [Github](https://github.com/jlaurentpdx) | [LinkedIn](https://www.linkedin.com/in/jordan-laurent-pdx/) |
@@ -103,54 +103,37 @@
 
 > | Team Members     | Github                                        | LinkedIn                                                 |
 > | ---------------- | --------------------------------------------- | -------------------------------------------------------- |
-> | Andrew Joy       | [Github]()                                    | [LinkedIn]()                                             |
+> | Andrew Joy       | [Github](https://github.com/ajoy267)                                    | [LinkedIn]()                                             |
 > | Kevin Do         | [Github](https://github.com/kevindo1)         | [LinkedIn](https://www.linkedin.com/in/kdo/)             |
 > | Minoka Kakizaki  | [Github](https://github.com/kakizaki55)       | [LinkedIn](https://www.linkedin.com/in/minoka-kakizaki/) |
-> | Spencer Eagleton | [Github](https://github.com/spencer-eagleton) | [LinkedIn]()                                             |
+> | Spencer Eagleton | [Github](https://github.com/spencer-eagleton) | [LinkedIn](https://www.linkedin.com/in/spencer-eagleton/)                                             |
 
 ---
 
 ---
 
-###
+### TimeHub
 
 > Description
 >
-> >
+> > An app that visually records your emotions over time with a colormap through journal entries.
 
-- [Repo]()
+- [Repo](https://github.com/Time-Hub-App/Time-Hub-App)
 
-- [Deployed Site]()
-
-> | Team Members | Github     | LinkedIn     |
-> | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-
----
-
----
-
-###
-
-> Description
->
-> >
-
-- [Repo]()
-
-- [Deployed Site]()
+- [Deployed Site](time-hub-2.netlify.app/)
 
 > | Team Members | Github     | LinkedIn     |
 > | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
+> |  Ckay Natividad         | [Github](https://github.com/ckaynatividad) | [LinkedIn](https://www.linkedin.com/in/ckaynatividad) |
+> | Libbi Dunham         | [Github](@Libbi-Dunham) | [LinkedIn](https://www.linkedin.com/in/libbi-dunham/) |
+<!-- > | Name         | [Github]() | [LinkedIn]() |
+> | Name         | [Github]() | [LinkedIn]() | -->
 
 ---
 
 ---
+
+
+
+
 
