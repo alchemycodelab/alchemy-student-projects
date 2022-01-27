@@ -42,7 +42,7 @@
 > | Brett Seifried     | [Github](https://github.com/BrettSeifried)      | [LinkedIn](https://www.linkedin.com/in/brett-seifried/)     |
 > | Chase Crowder      | [Github](https://github.com/Gcrowder93)         | [LinkedIn](https://www.linkedin.com/in/gregory-crowder/)    |
 > | James Demiraiakian | [Github](https://github.com/james-demiraiakian) | [LinkedIn](https://www.linkedin.com/in/james-demiraiakian/) |
-<!-- > | Mark Voltaire      | [Github]()      | [LinkedIn]()                                                | -->
+> | Mark Voltaire      | [Github](https://github.com/markjvoltaire)      | [LinkedIn](https://www.linkedin.com/in/mark-voltaire-4907091bb/)                                                |
 > | Phoenix Nicholson  | [Github](https://github.com/phoenix-nicholson)  | [LinkedIn](https://www.linkedin.com/in/phoenix-nicholson/)  |
 
 ---
@@ -55,9 +55,8 @@
 >
 > > An app connecting the bee community! BYOBee has a public-facing education component that displays bee photos and information, and user-based profiles that allow you to build a virtual bee collection by uploading photos and details about bees you see.
 
-- [Repo](https://byobee.netlify.app/)
-
-- [Deployed Site](https://github.com/BYOBee-Project/BYOBee)
+- [Repo](https://github.com/BYOBee-Project/BYOBee)
+- [Deployed Site](https://byobee.netlify.app/)
 
 > | Team Members    | Github                                       | LinkedIn                                                |
 > | --------------- | -------------------------------------------- | ------------------------------------------------------- |
