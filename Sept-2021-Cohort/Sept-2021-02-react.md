@@ -2,8 +2,6 @@
 
 ## React 02 Projects
 
-<!-- Second one week sprint, from concept through delivery, after week 7 in the program.  First full-stack app using ReactJS, Node, Express, PostgreSQL and RESTful API calls hitting a 3rd party API, on fully remote teams. -->
-
 ---
 
 ### Unspoken
@@ -125,7 +123,7 @@
 > | ------------ | ---------- | ------------ |
 > |  Ckay Natividad         | [Github](https://github.com/ckaynatividad) | [LinkedIn](https://www.linkedin.com/in/ckaynatividad) |
 > | Libbi Dunham         | [Github](https://github.com/Libbi-Dunham) | [LinkedIn](https://www.linkedin.com/in/libbi-dunham/) |
-> | Abriel Cleaver         | [Github]() | [LinkedIn]() |
+> | Abriel Cleaver         | [Github](https://github.com/abrielcleaver) | [LinkedIn](https://www.linkedin.com/in/abrielcleaver/) |
 
 
 ---
