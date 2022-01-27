@@ -66,12 +66,12 @@ Include any new tech/libraries used in the 'Description' field for each applicat
 
 -   [Video Presentation](Link)
 
-> | Team Members          | Github                                         | LinkedIn                                                   |
-> | --------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
-> | Michael Rider         | [Github](https://github.com/MikepdXRider)      | [LinkedIn](https://www.linkedin.com/in/mikepdxrider/)      |
-> | Katie Schrattenholzer | [Github](https://github.com/k-schrattenholzer) | [LinkedIn](https://www.linkedin.com/in/k-schrattenholzer/) |
-> | Diyana Mendoza        |                                                |                                                            |
-> | Emily D. Sarani       | [Github](https://github.com/in/emily-sarani)   | [LinkedIn](https://www.linkedin.com/EmilyDSarani)          |
+> | Team Members          | Github                                         | LinkedIn                                                      |
+> | --------------------- | ---------------------------------------------- | ------------------------------------------------------------- |
+> | Michael Rider         | [Github](https://github.com/MikepdXRider)      | [LinkedIn](https://www.linkedin.com/in/mikepdxrider/)         |
+> | Katie Schrattenholzer | [Github](https://github.com/k-schrattenholzer) | [LinkedIn](https://www.linkedin.com/in/k-schrattenholzer/)    |
+> | Diyana Mendoza-Price  | [Github](https://github.com/diyanamendoza)     | [LinkedIn](https://www.linkedin.com/in/diyana-mendoza-price/) |
+> | Emily D. Sarani       | [Github](https://github.com/in/emily-sarani)   | [LinkedIn](https://www.linkedin.com/EmilyDSarani)             |
 
 ---
 

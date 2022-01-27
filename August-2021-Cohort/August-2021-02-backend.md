@@ -47,12 +47,12 @@ Second one week sprint, from concept through delivery, after week 7 in the progr
 
 -   [Deployed Site](https://paw-star.netlify.app/)
 
-> | Team Members          | Github                                         | LinkedIn                                                   |
-> | --------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
-> | Katie Schrattenholzer | [Github](https://github.com/k-schrattenholzer) | [LinkedIn](https://www.linkedin.com/in/k-schrattenholzer/) |
-> | Diyana Mendoza        |                                                |                                                            |
-> | Elijah Prosperie      | [Github](https://github.com/ProsperieEli)      | [LinkedIn](https://www.linkedin.com/in/elijahprosperie/)   |
-> | Emily D. Sarani       | [Github](https://github.com/in/emily-sarani)   | [LinkedIn](https://www.linkedin.com/EmilyDSarani)          |
+> | Team Members          | Github                                         | LinkedIn                                                      |
+> | --------------------- | ---------------------------------------------- | ------------------------------------------------------------- |
+> | Katie Schrattenholzer | [Github](https://github.com/k-schrattenholzer) | [LinkedIn](https://www.linkedin.com/in/k-schrattenholzer/)    |
+> | Diyana Mendoza-Price  | [Github](https://github.com/diyanamendoza)     | [LinkedIn](https://www.linkedin.com/in/diyana-mendoza-price/) |
+> | Elijah Prosperie      | [Github](https://github.com/ProsperieEli)      | [LinkedIn](https://www.linkedin.com/in/elijahprosperie/)      |
+> | Emily D. Sarani       | [Github](https://github.com/in/emily-sarani)   | [LinkedIn](https://www.linkedin.com/EmilyDSarani)             |
 
 ---
 
