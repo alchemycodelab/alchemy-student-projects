@@ -19,7 +19,7 @@
 > | Team Members     | Github                                       | LinkedIn                                                 |
 > | ---------------- | -------------------------------------------- | -------------------------------------------------------- |
 > | Karyssa Dandrea  | [Github](https://github.com/karyssa-dandrea) | [LinkedIn](https://www.linkedin.com/in/karyssa-dandrea/)      |
-> | Ian Christiansen | [Github](https://github.com/ian-christiansen)                  | [LinkedIn](https://www.linkedin.com/in/ian-christiansen) |    
+> | Ian Christiansen | [Github](https://github.com/ian-christiansen)                  | [LinkedIn](https://www.linkedin.com/in/ianchristiansen/) |    
 > | Indy Holdsworth  | [Github](https://github.com/H-Indiana-Holdsworth)              | [LinkedIn](https://www.linkedin.com/in/h-indiana-holdsworth/)|
 > | Mira Kinebuchi   | [Github](https://github.com/mira-kine)       | [LinkedIn](https://www.linkedin.com/in/mira-kinebuchi/)      |
 
@@ -82,9 +82,9 @@
 
 > | Team Members      | Github                                   | LinkedIn                                                    |
 > | ----------------- | ---------------------------------------- | ----------------------------------------------------------- |
-> | Noah Smyth        | [Github](@NoahDeltoroSmyth)               | [LinkedIn](https://www.linkedin.com/in/noahdeltorosmyth/) |
+> | Noah Smyth        | [Github](https://github.com/NoahDeltoroSmyth)               | [LinkedIn](https://www.linkedin.com/in/noahdeltorosmyth/) |
 > | Bailey Kuebelbeck | [Github](https://github.com/baileykue)   | [LinkedIn](https://www.linkedin.com/in/bailey-kuebelbeck/)  |
-> | Violet Stewart    | [Github]()                               | [LinkedIn]()                                                |
+> | Violet Stewart    | [Github](https://github.com/VioletKatrinStewart)                               | [LinkedIn](https://www.linkedin.com/in/violet-katrin-stewart/)                                                |
 > | Jordan Laurent    | [Github](https://github.com/jlaurentpdx) | [LinkedIn](https://www.linkedin.com/in/jordan-laurent-pdx/) |
 
 ---
@@ -103,7 +103,7 @@
 
 > | Team Members     | Github                                        | LinkedIn                                                 |
 > | ---------------- | --------------------------------------------- | -------------------------------------------------------- |
-> | Andrew Joy       | [Github](https://github.com/ajoy267)                                    | [LinkedIn]()                                             |
+> | Andrew Joy       | [Github](https://github.com/ajoy267)                                    | [LinkedIn](https://www.linkedin.com/in/andrewjoy12/)                                             |
 > | Kevin Do         | [Github](https://github.com/kevindo1)         | [LinkedIn](https://www.linkedin.com/in/kdo/)             |
 > | Minoka Kakizaki  | [Github](https://github.com/kakizaki55)       | [LinkedIn](https://www.linkedin.com/in/minoka-kakizaki/) |
 > | Spencer Eagleton | [Github](https://github.com/spencer-eagleton) | [LinkedIn](https://www.linkedin.com/in/spencer-eagleton/)                                             |
@@ -120,14 +120,14 @@
 
 - [Repo](https://github.com/Time-Hub-App/Time-Hub-App)
 
-- [Deployed Site](time-hub-2.netlify.app/)
+- [Deployed Site](https://time-hub-2.netlify.app/)
 
 > | Team Members | Github     | LinkedIn     |
 > | ------------ | ---------- | ------------ |
 > |  Ckay Natividad         | [Github](https://github.com/ckaynatividad) | [LinkedIn](https://www.linkedin.com/in/ckaynatividad) |
-> | Libbi Dunham         | [Github](@Libbi-Dunham) | [LinkedIn](https://www.linkedin.com/in/libbi-dunham/) |
-<!-- > | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() | -->
+> | Libbi Dunham         | [Github](https://github.com/Libbi-Dunham) | [LinkedIn](https://www.linkedin.com/in/libbi-dunham/) |
+> | Abriel Cleaver         | [Github]() | [LinkedIn]() |
+
 
 ---
 
