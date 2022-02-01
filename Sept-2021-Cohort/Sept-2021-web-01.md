@@ -55,6 +55,7 @@ ___
 > | Emma Egstad     | [Github](https://github.com/emmaegstad)      | [LinkedIn](https://www.linkedin.com/in/emmaegstad)      |
 > | Ian Christiansen | [Github](https://github.com/ian-christiansen)                  | [LinkedIn](https://www.linkedin.com/in/ianchristiansen/) |    
 > | Violet Stewart | [Github](https://github.com/VioletKatrinStewart)  | [LinkedIn](https://www.linkedin.com/in/violet-katrin-stewart/) |
+> | Forest Heims | [Github](https://github.com/forestheims)  | [LinkedIn](https://www.linkedin.com/in/forestheims/) |
 
 
 ___

@@ -124,6 +124,8 @@
 > |  Ckay Natividad         | [Github](https://github.com/ckaynatividad) | [LinkedIn](https://www.linkedin.com/in/ckaynatividad) |
 > | Libbi Dunham         | [Github](https://github.com/Libbi-Dunham) | [LinkedIn](https://www.linkedin.com/in/libbi-dunham/) |
 > | Abriel Cleaver         | [Github](https://github.com/abrielcleaver) | [LinkedIn](https://www.linkedin.com/in/abrielcleaver/) |
+> | Forest Heims | [Github](https://github.com/forestheims)  | [LinkedIn](https://www.linkedin.com/in/forestheims/) |
+
 
 
 ---
