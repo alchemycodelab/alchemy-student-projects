@@ -26,7 +26,7 @@ An app for discovering, collecting, customizing, and creating recipes, as well a
 
 
 * [Repo](https://github.com/code-pals)
-* [Deployed Site]( )
+* [Deployed Site](https://codepals.netlify.app/ )
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
