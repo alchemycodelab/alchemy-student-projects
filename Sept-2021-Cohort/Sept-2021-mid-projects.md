@@ -43,21 +43,21 @@
 
 ---
 
-### Video Game Roullete
+### Video Game Roulette
 
-> Description
->
-> > Upload your library of games, Randomizer will choose one for you to play. Edit and Delete any game in your library as well.
+> Description 
+>> Upload your library of games, Randomizer will choose one for you to play. Edit and Delete any game in your library as well.
 
-- [Repo](https://github.com/video-game-roulette/vgr)
+* [Repo](https://github.com/video-game-roulette/vgr)
 
-- [Deployed Site](https://vgr.netlify.app/)
-  > | Team Members   | Github                                     | LinkedIn                                                         |
-  > | -------------- | ------------------------------------------ | ---------------------------------------------------------------- |
-  > | Andrew Joy     | [Github](https://github.com/ajoy267)       | [LinkedIn](https://www.linkedin.com/in/andrewjoy12/)             |
-  > | Mark Voltaire  | [Github](https://github.com/markjvoltaire) | [LinkedIn](https://www.linkedin.com/in/mark-voltaire-4907091bb/) |
-  > | Chase Crowder  | [Github](https://github.com/Gcrowder93)    | [LinkedIn](https://www.linkedin.com/in/gregory-crowder/)         |
-  > | Brett Seifried | [Github](https://github.com/BrettSeifried) | [LinkedIn](https://www.linkedin.com/in/brett-seifried/)          |
+* [Deployed Site](https://vgr.netlify.app/)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Andrew Joy | [Github](https://github.com/ajoy267)   | [LinkedIn](https://www.linkedin.com/in/andrewjoy12/)   |
+>| Mark Voltaire | [Github](https://github.com/markjvoltaire)  |  [LinkedIn](https://www.linkedin.com/in/mark-voltaire-4907091bb/)  |
+>| Chase Crowder | [Github](https://github.com/Gcrowder93)  |  [LinkedIn](https://www.linkedin.com/in/gregory-crowder/)  |
+>| Brett Seifried |  [Github](https://github.com/BrettSeifried)  |  [LinkedIn](https://www.linkedin.com/in/brett-seifried/)  |
 
 ---
 
