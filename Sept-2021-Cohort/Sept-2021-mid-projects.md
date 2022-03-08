@@ -1,4 +1,4 @@
-<!-- # Alchemy Class Projects - September 2021 Cohort
+Alchemy Class Projects - September 2021 Cohort
 
 ## Mid Projects
 
@@ -42,8 +42,9 @@ ___
 >| Zachary Caldwell |  [Github](https://github.com/zcaldwell)  |  [LinkedIn](https://www.linkedin.com/in/zach-caldwell)  |
 
 ___
-___ -->
-<!-- ### Video Game Roulette
+___
+
+### Video Game Roulette
 
 > Description 
 >> Upload your library of games, Randomizer will choose one for you to play. Edit and Delete any game in your library as well.
@@ -118,4 +119,4 @@ ___
 >| Michelle Nygren |  [Github](https://github.com/michellerenehey)  |  [LinkedIn](https://www.linkedin.com/in/michellenygren/)  |
 
 ___
-___ -->
+___ 
