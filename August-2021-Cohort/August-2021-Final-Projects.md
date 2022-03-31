@@ -47,7 +47,7 @@ A musical memory game; follow along playing a melody against the CPU
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->|Taylor Williams | [Github](https://github.com/taylor-c-williams)   | [LinkedIn](https://www.linkedin.com/in/taylor-c-williams/)   |
+>|[Taylor Williams](http://taylorcallanwilliams.io/) | [Github](https://github.com/taylor-c-williams)   | [LinkedIn](https://www.linkedin.com/in/taylor-c-williams/)   |
 >|Katie Schrattenholzer | [Github](https://github.com/k-schrattenholzer)   | [LinkedIn](https://www.linkedin.com/in/k-schrattenholzer/)   |
 >|Emily Sarani |[Github](https://github.com/EmilyDSarani)  | [LinkedIn](https://www.linkedin.com/in/emily-sarani-2b3074135/)  |
 >| Julius Franklin| [Github](https://github.com/coding-neophyte) | [LinkedIn](https://www.linkedin.com/in/juliusfranklin88/) |
