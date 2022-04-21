@@ -10,7 +10,7 @@ PIXL 2
 > Description 
 >> 
 
-* [Repo]()
+* [Repo](https://github.com/Pixil2)
 
 * [Deployed Site]()
 
@@ -43,11 +43,11 @@ gotchi bb
 ___
 ___ -->
 <!-- ### 
-Synth App
+Geo Tone
 > Description 
 >>
 
-* [Repo]()
+* [Repo](https://github.com/geo-tone)
 
 * [Deployed Site]()
 
@@ -66,7 +66,7 @@ Resourcey
 > Description 
 >>
 
-* [Repo]()
+* [Repo](https://github.com/resourcery-final-project)
 
 * [Deployed Site]()
 
@@ -80,11 +80,11 @@ ___
 ___
 
 ### 
-Travel Collab
+Let's Go
 > Description 
 >>
 
-* [Repo]()
+* [Repo](https://github.com/TravelPlanningFinals)
 
 * [Deployed Site]()
 
