@@ -1,5 +1,3 @@
-<!-- # Alchemy Class Projects - September 2021 Cohort
-
 ## Final Projects
 
 Fourth and final team projects made in a 9-day sprint, from concept through delivery. These students have finished more than 800 hours of our professional software development training and learned how to harness Full Stack JavaScript capabilities using React, Node, Express, and PostgreSQL, all while working on fully remote teams.
@@ -12,7 +10,7 @@ PIXL 2
 
 * [Repo](https://github.com/Pixil2)
 
-* [Deployed Site]()
+* [Deployed Site](https://pixl2.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -25,13 +23,13 @@ ___
 ___
 
 ### 
-gotchi bb
-> Description 
+Gotchi BB
+> Gotchi BB is an online digital pixel pet that users can feed, clean, play with, and chat with. The amount of times one interacts with their pet (feeding, petting, or playing) adds to an overall happiness score that is then ranked on a site leaderboard.
 >> 
 
 * [Repo](https://github.com/Tamagotchi-Clone)
 
-* [Deployed Site]()
+* [Deployed Site](https://gotchi-bb.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -41,15 +39,14 @@ gotchi bb
 >| Karyssa Dandrea |  [Github](https://github.com/karyssa-dandrea)  |  [LinkedIn](https://www.linkedin.com/in/karyssa-dandrea/)  |
 
 ___
-___ -->
-<!-- ### 
+___
 Geo Tone
-> Description 
+> Geo Tone is a full-stack browser-based audio sequencer built using React, Reactronica (from Tone.js), CSS3, Framer Motion, PostgreSQL and Express. Geo Tone exists to make music fun - letting new-to-synth users experiment with customized audio effects. On the frontend, user data is hashed and encrypted; on the backend, data is managed in SQL.
 >>
 
 * [Repo](https://github.com/geo-tone)
 
-* [Deployed Site]()
+* [Deployed Site](https://geo-tone.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -68,7 +65,7 @@ Resourcey
 
 * [Repo](https://github.com/resourcery-final-project)
 
-* [Deployed Site]()
+* [Deployed Site](https://resourcery-resourcery.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -81,12 +78,12 @@ ___
 
 ### 
 Let's Go
-> Description 
+> Let's Go™, is a one-stop shop for planning, coordinating, and timing a successful trip with loved ones or those who mainly communicate online.
 >>
 
 * [Repo](https://github.com/TravelPlanningFinals)
 
-* [Deployed Site]()
+* [Deployed Site](https://lets-go-final.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -100,12 +97,12 @@ ___
 
 ### 
 Yearbook
-> Description 
+> Alchemy Yearbook is an application for current students and alumni to connect easily with the expansive Alchemy alumni network. Users can sign in using GitHub OAuth and create/edit their profile to display a picture, a senior quote, and the current company they are working at along with links to their GitHub and LinkedIn. They will also be able to access a private memorybook which will be a collaborative sandbox to share memories through all forms of media. 
 >>
 
 * [Repo](https://github.com/alchemy-yearbook-app)
 
-* [Deployed Site]()
+* [Deployed Site](https://alchemyyearbook.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -115,4 +112,3 @@ Yearbook
 >| Mira Kinebuchi |  [Github](https://github.com/mira-kine)  |  [LinkedIn](https://www.linkedin.com/in/mira-kinebuchi/)  |
 
 ___
-___ -->
