@@ -5,7 +5,7 @@ ___
 
 ### 
 PIXL 2
-> Description 
+> Pixl 2 is an reimagining and refactor of the PIXL app created in November of 2021. Pixl 2 utilized React v18, React router v6, Express, PostgreSQL and Github OAuth. It allows a user to create and edit pixel art using various tools, and save it to a custom database for display to anyone who is interested. 
 >> 
 
 * [Repo](https://github.com/Pixil2)
