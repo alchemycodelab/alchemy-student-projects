@@ -60,7 +60,8 @@ ___
 
 ### 
 Resourcey
-> Description 
+> A widely accessible mutual-aid web-
+application which allows users to easily find or post free or donated items using maps. 
 >>
 
 * [Repo](https://github.com/resourcery-final-project)
