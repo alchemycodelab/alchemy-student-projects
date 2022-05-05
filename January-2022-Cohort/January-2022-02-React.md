@@ -35,7 +35,7 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Andy Mascaro | [Github](https://github.com/Andy-Mascaro)   | [LinkedIn](https://github.com/Andy-Mascaro)   |
+>| Andy Mascaro | [Github](https://github.com/Andy-Mascaro)   | [LinkedIn](https://www.linkedin.com/in/andy-mascaro/)   |
 >| Cole Rossman|  [Github](https://github.com/Cole-Rossman)  |  [LinkedIn](https://www.linkedin.com/in/cole-rossman-b25202157)  |
 >| Jace Keyes |  [Github](https://github.com/JaceGK1999)  |  [LinkedIn](https://www.linkedin.com/in/jace-keyes-83190322b/)  |
 >| Denver McCarthy |  [Github](https://github.com/denvermccarthy)  |  [LinkedIn](https://www.linkedin.com/in/denvermccarthy/)  |
