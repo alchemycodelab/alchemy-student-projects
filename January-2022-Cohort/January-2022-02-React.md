@@ -49,7 +49,7 @@ ___
 > Description 
 >>Forage is a mobile app that allows you to rent out your private parking spots for anyone in need of a quick spot. We hope to make getting a parking spot easier and more convenient while also earning money with space you were not utilizing.
 
-* [Repo](https://github.com/Restaurant-Roulette-Organization/Restaurant-Roulette-Repository)
+* [Repo](https://github.com/Forage-Parking/Forage-Parking-App)
 
 * [Deployed Site](https://forage-parking.netlify.app)
 
