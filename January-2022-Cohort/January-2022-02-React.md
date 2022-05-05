@@ -51,7 +51,7 @@ ___
 
 * [Repo](https://github.com/Restaurant-Roulette-Organization/Restaurant-Roulette-Repository)
 
-* [Deployed Site](forage-parking.netlify.app)
+* [Deployed Site](https://forage-parking.netlify.app)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
