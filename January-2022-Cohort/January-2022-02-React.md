@@ -19,7 +19,7 @@ ___
 >| Aidian Liddiard | [Github](https://github.com/aidanliddiard)   | [LinkedIn](https://www.linkedin.com/in/aidan-liddiard-283a991b3/)   |
 >| Alex Orlet |  [Github](https://github.com/AlexOrlet89)  |  [LinkedIn](https://www.linkedin.com/in/alexorlet89/)  |
 >|  Marcus Ghiringhelli |  [Github](https://github.com/m-ghiringhelli)  |  [LinkedIn](https://www.linkedin.com/in/marcus-ghiringhelli/)  |
->| Mary Martinez |  [Github](https://github.com/mary-martinez)  |  [LinkedIn](www.linkedin.com/in/mary-martinez-6624a5b4)  |
+>| Mary Martinez |  [Github](https://github.com/mary-martinez)  |  [LinkedIn](https://www.linkedin.com/in/mary-martinez-6624a5b4)  |
 
 ___
 ___
