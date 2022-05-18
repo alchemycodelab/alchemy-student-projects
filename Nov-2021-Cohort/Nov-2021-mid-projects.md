@@ -75,7 +75,7 @@ ___
 >|---|---|---|
 >| Arma Burton | [Github](https://github.com/armaBurton)   | [LinkedIn](https://www.linkedin.com/in/arma-burton/)   |
 >| Joshua Williams | [Github](https://github.com/joshua360x)  |  [LinkedIn](https://www.linkedin.com/in/joshua-williams22/)  |
->| Sam Benatovich | [Github](https://github.com/Benatovich)  |  [LinkedIn](https://www.linkedin.com/in/same-benatovich)  |
+>| Sam Benatovich | [Github](https://github.com/Benatovich)  |  [LinkedIn](https://www.linkedin.com/in/sam-benatovich)  |
 >| Clifford Maxson |  [Github](https://github.com/Cliffmax85)  |  [LinkedIn](https://www.linkedin.com/in/clifford-maxson-a77a10ab/)  |
 
 ___
