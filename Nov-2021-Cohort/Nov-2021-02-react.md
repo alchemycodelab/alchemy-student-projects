@@ -50,7 +50,7 @@ ___
 ### Sunshine
 
 > Description 
->> INSERT DESCRIPTION HERE
+>> Application for escaping grey days and finding sunny weather nearby. Enter your ZIP code and find sunshine within a 50 km radius from your location, save your favorite locations, and find a creative solution if there's no sun near you.
 
 * [Repo](https://github.com/oliviaamiller/sunshine)
 
