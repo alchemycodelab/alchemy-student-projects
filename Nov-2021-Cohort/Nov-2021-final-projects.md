@@ -118,7 +118,8 @@ ___
 ___
 ___ -->
 
-<!-->| Alex Blair | [Github](https://github.com/alex-i-blair)   | [LinkedIn](https://www.linkedin.com/in/alex-blair-a72a10ab/)   |
+<!--
+>| Alex Blair | [Github](https://github.com/alex-i-blair)   | [LinkedIn](https://www.linkedin.com/in/alex-blair-a72a10ab/)   |
 >| Ari Harlem-Caballero |  [Github](https://github.com/ari-harlem-caballero)  |  [LinkedIn](https://www.linkedin.com/in/ari-harlem-caballero/)  |
 >| Olivia Miller |  [Github](https://github.com/oliviaamiller)  |  [LinkedIn](https://www.linkedin.com/in/olivia-miller-8087141b5)  |
 >| Sam Melius Oxford |  [Github](https://github.com/Sam-Melius)  |  [LinkedIn](https://www.linkedin.com/in/sam-melius-oxford/)  |
@@ -137,5 +138,6 @@ ___ -->
 >| Jack Keicher | [Github](https://github.com/cadillacjack42)   | no LinkedIn profile   |
 >| Carolynn Flemming | [Github](https://github.com/CarolynnFleming)  |  [LinkedIn](https://www.linkedin.com/in/carolynnfeming/)  |
 >| Pete Seeling | [Github](https://github.com/PeteSeeling)  |  [LinkedIn](https://www.linkedin.com/in/pete-seeling-014040231/)  |
->| Philippe Ngom |  [Github](https://github.com/philngom)  |  [LinkedIn](https://www.linkedin.com/in/philippe-ngom-134113102/)  |-->
+>| Philippe Ngom |  [Github](https://github.com/philngom)  |  [LinkedIn](https://www.linkedin.com/in/philippe-ngom-134113102/)  |
+-->
 
