@@ -17,10 +17,10 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Alex Blair | [Github]()   | [LinkedIn]()   |
->| Ari Harlem-Caballero |  [Github]()  |  [LinkedIn]()  |
->| Olivia Miller |  [Github]()  |  [LinkedIn]()  |
->| Sam Melius Oxford |  [Github]()  |  [LinkedIn]()  |
+>| Alex Blair | [Github](https://github.com/alex-i-blair)   | [LinkedIn](https://www.linkedin.com/in/alex-blair-a72a10ab/)   |
+>| Ari Harlem-Caballero |  [Github](https://github.com/ari-harlem-caballero)  |  [LinkedIn](https://www.linkedin.com/in/ari-harlem-caballero/)  |
+>| Olivia Miller |  [Github](https://github.com/oliviaamiller)  |  [LinkedIn](https://www.linkedin.com/in/olivia-miller-8087141b5)  |
+>| Sam Melius Oxford |  [Github](https://github.com/Sam-Melius)  |  [LinkedIn](https://www.linkedin.com/in/sam-melius-oxford/)  |
 
 ___
 ___
@@ -32,14 +32,14 @@ ___
 
 * [Repo](https://github.com/BleeprBot/BleeprBot)
 
-* [Deployed Site]()<!-- missing -->
+* [Deployed Site](https://bleepr-dev.herokuapp.com/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Clare McDonald | [Github]()   | [LinkedIn]()   |
->| Trevor Rezac |  [Github]()  |  [LinkedIn]()  |
->| Kyra Christensen |  [Github]()  |  [LinkedIn]()  |
->| Vic Caruso |  [Github]()  |  [LinkedIn]()  |
+>| Clare McDonald | [Github](https://github.com/ClareMcDonald)   | [LinkedIn](https://www.linkedin.com/in/clare-s-mcdonald/)   |
+>| Trevor Rezac |  [Github](https://github.com/Trevor-Rezac)  |  [LinkedIn](https://www.linkedin.com/in/trevor-rezac-a14840124)  |
+>| Kyra Christensen |  [Github](https://github.com/Kyra-christensen)  |  [LinkedIn](https://www.linkedin.com/in/kyra-christensen)  |
+>| Vic Caruso |  [Github](https://github.com/viccaruso)  |  [LinkedIn](https://www.linkedin.com/in/viccaruso/)  |
 
 ___
 ___ 
@@ -50,14 +50,14 @@ ___
 
 * [Repo](https://github.com/C-L-I-C/CLIC)
 
-* [Deployed Site]()<!--missing-->
+* [Deployed Site](https://www.npmjs.com/package/@csjknapp/clic-client)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Alice Hsing | [Github]()   | [LinkedIn]()   |
->| Ryan Flitcroft | [Github]()  |  [LinkedIn]()  |
->| Denzel Bartolaba | [Github]()  |  [LinkedIn]()  |
->| Clayton Knapp |  [Github]()  |  [LinkedIn]()  |
+>| Alice Hsing | [Github](https://github.com/alicehsing)   | [LinkedIn](https://www.linkedin.com/in/alice-hsing-94603315/)   |
+>| Ryan Flitcroft | [Github](https://github.com/ryanflitcroft)  |  [LinkedIn](https://www.linkedin.com/in/ryanflitcroft/)  |
+>| Denzel Bartolaba | [Github](https://github.com/xDenzelB)  |  [LinkedIn](https://www.linkedin.com/in/denzel-bartolaba-45a322b5/)  |
+>| Clayton Knapp |  [Github](https://github.com/clayton-knapp)  |  [LinkedIn](https://www.linkedin.com/in/clayton-knapp/)  |
 
 ___
 ___
@@ -73,10 +73,10 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Arma Burton | [Github]()   | [LinkedIn]()   |
->| Joshua Williams | [Github]()  |  [LinkedIn]()  |
->| Sam Benatovich | [Github]()  |  [LinkedIn]()  |
->| Clifford Maxson |  [Github]()  |  [LinkedIn]()  |
+>| Arma Burton | [Github](https://github.com/armaBurton)   | [LinkedIn](https://www.linkedin.com/in/arma-burton/)   |
+>| Joshua Williams | [Github](https://github.com/joshua360x)  |  [LinkedIn](https://www.linkedin.com/in/joshua-williams22/)  |
+>| Sam Benatovich | [Github](https://github.com/Benatovich)  |  [LinkedIn](https://www.linkedin.com/in/same-benatovich)  |
+>| Clifford Maxson |  [Github](https://github.com/Cliffmax85)  |  [LinkedIn](https://www.linkedin.com/in/clifford-maxson-a77a10ab/)  |
 
 ___
 ___
@@ -92,10 +92,10 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Jack Keicher | [Github]()   | [LinkedIn]()   |
->| Carolynn Flemming | [Github]()  |  [LinkedIn]()  |
->| Pete Seeling | [Github]()  |  [LinkedIn]()  |
->| Philippe Ngom |  [Github]()  |  [LinkedIn]()  |
+>| Jack Keicher | [Github](https://github.com/cadillacjack42)   | no LinkedIn profile   |
+>| Carolynn Flemming | [Github](https://github.com/CarolynnFleming)  |  [LinkedIn](https://www.linkedin.com/in/carolynnfeming/)  |
+>| Pete Seeling | [Github](https://github.com/PeteSeeling)  |  [LinkedIn](https://www.linkedin.com/in/pete-seeling-014040231/)  |
+>| Philippe Ngom |  [Github](https://github.com/philngom)  |  [LinkedIn](https://www.linkedin.com/in/philippe-ngom-134113102/)  |
 
 ___
 ___
