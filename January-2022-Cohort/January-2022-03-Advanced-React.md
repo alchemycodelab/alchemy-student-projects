@@ -48,7 +48,7 @@ ___
 >| Brenden Seifried |  [Github](https://github.com/BrendenSeifried)  |  [LinkedIn](https://www.linkedin.com/in/brenden-seifried-132a8b231/)  |
 
 
-### Brain Juice
+### Brain Juice 🧠
 
 > Description 
 >>BrainJuice is a JavaScript study tool that allows users to study using a classic flashcard approach with the option to add customizable cards.
