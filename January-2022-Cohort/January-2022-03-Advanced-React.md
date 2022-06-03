@@ -47,3 +47,17 @@ ___
 >| Bradley Bird|  [Github](https://github.com/Bradley-Bird)  |  [LinkedIn](https://www.linkedin.com/in/bradley-bird/)  |
 >| Brenden Seifried |  [Github](https://github.com/BrendenSeifried)  |  [LinkedIn](https://www.linkedin.com/in/brenden-seifried-132a8b231/)  |
 
+
+### Brain Juice
+
+> Description 
+>>BrainJuice is a JavaScript study tool that allows users to study using a classic flashcard approach with the option to add customizable cards.
+* [Repo](https://github.com/Javascript-Flashcards/flashcards)
+
+* [Deployed Site](dapper-mooncake-c6e5a7.netlify.app/)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Yovana Pelayo |  [Github](https://github.com/yovana-pelayo)  |  [LinkedIn](https://www.linkedin.com/in/yovana-pelayo-a4403b232/)  |
+>| Kamie Short |  [Github](https://github.com/KamieShort)  |  [LinkedIn](https://www.linkedin.com/in/kamieshort/)  |
+>| Alex Orlet |  [Github](https://github.com/AlexOrlet89)  |  [LinkedIn](https://www.linkedin.com/in/alexorlet89/)  |
