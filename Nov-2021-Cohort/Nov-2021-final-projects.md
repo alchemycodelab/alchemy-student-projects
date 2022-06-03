@@ -13,7 +13,7 @@ ___
 
 * [Repo](https://github.com/synesthesia-app)
 
-* [Deployed Site](https://github.com/AlchemyTeaLab)
+* [Deployed Site](https://chromatic-app.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -31,9 +31,9 @@ ___
 > Description 
 >>CooksBooks is your online resource for reconnecting to all the delicious recipes you've cooked from the cook books that you own. You may even find new books to explore!
 
-* [Repo]()
+* [Repo](https://github.com/cookin-n-bookin)
 
-* [Deployed Site]()
+* [Deployed Site](https://cooksbooks.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
