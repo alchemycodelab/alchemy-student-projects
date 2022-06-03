@@ -1,12 +1,29 @@
 
 
-### App Name
+### betwiXt
+
+> Description 
+>> Do you have friends and family located across the US? It can be hard to find the time to get together, and even harder to find a place! While we can't clear your schedule for you, we can help you find a meeting point -- a spot betwixt! Whether it's you and one other friend, or a small reunion, we can help you find a midpoint and the nearest cool cities!
+* [Repo](https://github.com/betwixt-travel/betwixt)
+
+* [Deployed Site](https://betwixt.netlify.app/)
+
+>| Team Members  | Github  | LinkedIn  |
+>|---|---|---|
+>| Denver McCarthy |  [Github](https://github.com/denvermccarthy)  |  [LinkedIn](https://www.linkedin.com/in/denvermccarthy/)  |
+>| Aidian Liddiard | [Github](https://github.com/aidanliddiard)   | [LinkedIn](https://www.linkedin.com/in/aidan-liddiard-283a991b3/)   |
+>| Marcus Ghiringhelli |  [Github](https://github.com/m-ghiringhelli)  |  [LinkedIn](https://www.linkedin.com/in/marcus-ghiringhelli/)  |
+>| Mary Martinez |  [Github](https://github.com/mary-martinez)  |  [LinkedIn](https://www.linkedin.com/in/mary-martinez-6624a5b4)  |
+___
+
+
+### betwiXt
 
 > Description 
 >>
-* [Repo](https://github.com/Restaurant-Roulette-Organization/Restaurant-Roulette-Repository)
+* [Repo](https://github.com/betwixt-travel/betwixt)
 
-* [Deployed Site](https://restaurantroulette.netlify.app)
+* [Deployed Site](https://betwixt.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
