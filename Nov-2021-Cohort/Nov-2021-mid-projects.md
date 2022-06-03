@@ -69,7 +69,7 @@ ___
 
 * [Repo](https://github.com/S-M-A-R-T-BOT/smart-bot)
 
-* [Deployed Site]()<!--missing-->
+* [Deployed Site](https://cyber-stocker-reloaded.herokuapp.com/api/v1/stocks/symbol/AAPL)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
