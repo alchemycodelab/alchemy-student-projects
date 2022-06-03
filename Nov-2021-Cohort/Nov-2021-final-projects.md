@@ -2,7 +2,7 @@
 <!--STUDENT NAMES & INFO are at bottom of file in a comment for easy cut and paste -->
 <!-- ## Final Projects -->
 
-Fourth and final team projects made in a 9-day sprint, from concept through delivery. These students have finished more than 800 hours of our professional software development training and learned how to harness Full Stack JavaScript capabilities using React, Node, Express, and PostgreSQL, all while working on fully remote teams.
+Fourth and final team projects made in a short sprint. These students have finished more than 1,000 hours of our professional software development training and learned how to harness Full Stack JavaScript capabilities using React, Node, Express, and PostgreSQL, all while working on fully remote teams.
 ___
 
 
