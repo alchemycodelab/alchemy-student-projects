@@ -9,7 +9,7 @@ ___
 ### Chromatic
 
 > Description 
->>
+>>An app that simulates synesthesia and an accessibility app for colorblind people to experience color through musical tones. Users can interact with a color wheel or upload their own images and using an eyedropper can get info on colors, play the related musical notes and save, update and delete their own palettes of color and sound.
 
 * [Repo](https://github.com/synesthesia-app)
 
@@ -29,7 +29,7 @@ ___
 ### Cooks Books
 
 > Description 
->>
+>>CooksBooks is your online resource for reconnecting to all the delicious recipes you've cooked from the cook books that you own. You may even find new books to explore!
 
 * [Repo]()
 
@@ -65,9 +65,9 @@ ___
 > Description 
 >> 
 
-* [Repo]()
+* [Repo](https://github.com/Side-Gig-App)
 
-* [Deployed Site]()
+* [Deployed Site](https://spiffy-sunflower-dadf5b.netlify.app/)
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -81,7 +81,7 @@ ___
 ### \<TeaLab \/\>
 
 > Description 
->> A whimsical platform to create and collect teas, that makes learning about tea fun!
+>>A whimsical full-stack browser-based application built using ReactJS, Cloudinary, CSS, PostgreSQL and Express. Users are able to create and collect teas, that makes learning about tea fun! Users will be able to save, edit and delete their tea recipes on a recipe profile page.
 
 * [Repo](https://github.com/AlchemyTeaLab)
 
