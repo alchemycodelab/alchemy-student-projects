@@ -13,7 +13,7 @@ ___
 ### BookClub
 
 > Description 
->> INSERT DESCRIPTION HERE
+>> A reading list manager. Authenticated users can search for books via google books api and add books to their 'bookshelf'. Books can be marked as read to remove from  'bookshelf'. Users can also mark books as recommended which builds a hierarchical list of books that is viewable by all users by most recommended to least.
 
 * [Repo](https://github.com/alex-i-blair/BookBound)
 
