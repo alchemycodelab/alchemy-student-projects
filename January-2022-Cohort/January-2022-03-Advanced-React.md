@@ -33,7 +33,7 @@ ___
 
 
 
-### Full-Metal-Messanger
+### Full-Metal-Messanger 💬
 
 > Description 
 >>A simplified and robust chat app, but for alchamists.
