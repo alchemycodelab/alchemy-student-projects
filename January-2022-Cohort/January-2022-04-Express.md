@@ -1,12 +1,12 @@
-### Craigslist
+### Rent-borrow-buy
 
 > Description
 >
 > >
 
-- [Repo]()
+- [Repo](https://github.com/Rent-Borrow-Buy)
 
-- [Deployed Site]()
+- [Deployed Site](https://rent-borrow-buy.netlify.app/)
 
 > | Team Members        | Github                                      | LinkedIn                                                         |
 > | ------------------- | ------------------------------------------- | ---------------------------------------------------------------- |
@@ -32,15 +32,15 @@
 > | Joshua Stresing  | [Github](https://github.com/Joshua-Stresing) | [LinkedIn](https://www.linkedin.com/in/joshua-stresing-a6703b232/)  |
 > | Alex Orlet       | [Github](https://github.com/AlexOrlet89)     | [LinkedIn](https://www.linkedin.com/in/alexorlet89/)                |
 
-### Job Hunt
+### Job.find()
 
 > Description
 >
-> >
+> > Is your job search is returning null? Then job.find() is the app for you. If you only measure success by the number of offers you receive, hunting for a job can feel tedious and defeating. Instead, we help you track and visualize all of the components of your job search process, including networking and coding time, to keep you aware of your overall progress and feeling motivated.
 
-- [Repo]()
+- [Repo](https://github.com/job-application-tracker)
 
-- [Deployed Site]()
+- [Deployed Site](https://job-goal-tracker.netlify.app/)
 
 > | Team Members    | Github                                      | LinkedIn                                                          |
 > | --------------- | ------------------------------------------- | ----------------------------------------------------------------- |
