@@ -19,11 +19,11 @@
 
 > Description
 >
-> >
+> > Its Guess who! But with Futurama! Featuring a live chat guest starring a lobby for all players.
 
-- [Repo]()
+- [Repo](https://github.com/Guess-Whot)
 
-- [Deployed Site]()
+- [Deployed Site](https://guess-whot.netlify.app/)
 
 > | Team Members     | Github                                       | LinkedIn                                                            |
 > | ---------------- | -------------------------------------------- | ------------------------------------------------------------------- |
