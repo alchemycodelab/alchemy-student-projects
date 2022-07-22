@@ -2,7 +2,7 @@
 
 > Description
 >
-> >
+> > Rent-Borrow-Buy -- the name says it all. This app allows you to view and post items to rent, borrow, or buy in your area.
 
 - [Repo](https://github.com/Rent-Borrow-Buy)
 
