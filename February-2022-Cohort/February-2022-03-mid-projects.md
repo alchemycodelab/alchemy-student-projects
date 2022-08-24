@@ -1,4 +1,4 @@
-# Alchemy Class Projects - June 2021 Cohort
+# Alchemy Class Projects - February 2022 Cohort
 
 ## Mid Projects
 
