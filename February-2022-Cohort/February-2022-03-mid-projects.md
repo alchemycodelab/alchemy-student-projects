@@ -1,8 +1,8 @@
 # Alchemy Class Projects - February 2022 Cohort
 
-##  Projects
+## Backend / Express - 03
 
-Third project week in an 8 day sprint, from concept through delivery, after week 17 in the program.  A back-end focused app using Node, Express, PostgreSQL and RESTful API calls, on fully remote teams.
+Third team projects made in a short sprint, from concept through delivery, after week 17 in the program.  A back-end focused app using Node, Express, PostgreSQL and RESTful API calls, on fully remote teams.
 ___
 
 ### NetiBot
@@ -10,8 +10,6 @@ ___
 > NetiBot is a Discord nuisance and lavage bot - if you've ever wanted to annoy your friends, but not put out the work of doing it. The bot is programmed to react to trigger words within Discord chat prompting a specific response, such as responding to the word 'wow' with a random clip from a 3rd party API that generates a random "Wow" from an Owen Wilson film. The bot has also studied under the tutelage of the renowned Hennig Brand whose archaic medical expertise is stored in a Mongo DB and ailments and treatments are called if the Discord user types "sick" or "ill" in the chat.
 
 * [Repo](https://github.com/NetiBot/NetiBotApp)
-
-* [Deployed Site]()
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
