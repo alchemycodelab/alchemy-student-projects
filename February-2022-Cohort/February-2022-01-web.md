@@ -8,6 +8,8 @@ ___
 
 ### Gift WrApp
 
+> Track birthdays and gift ideas! 
+
 * [Repo](https://github.com/delaneyfogarty/gift-wrApp)
 
 * [Deployed Site](https://magnificent-sherbet-831ac9.netlify.app/)
@@ -23,6 +25,8 @@ ___
 ___
 
 ### Shift2Shift
+
+> Helps employees pass important info from one shift to the next.
 
 * [Repo](https://github.com/Kevin-Roney/shift2shift)
 
@@ -40,6 +44,8 @@ ___
 
 ### Last Man Standing
 
+> Tag-based infection game, try to be the last uninfected left.
+
 * [Repo](https://github.com/ElliottProductions/last-man-standing-feb22/)
 
 * [Deployed Site](https://whimsical-hummingbird-ce3658.netlify.app/)
@@ -55,6 +61,8 @@ ___
 ___
 
 ### Kaboomio
+
+> Super Mario replicate using the Kaboom JavaScript library.
 
 * [Repo](https://github.com/Kaboomio/Kaboomio)
 

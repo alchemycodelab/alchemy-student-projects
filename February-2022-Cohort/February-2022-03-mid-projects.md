@@ -1,14 +1,13 @@
 # Alchemy Class Projects - February 2022 Cohort
 
-## Mid Projects
+##  Projects
 
-Third projects 8 day sprint, from concept through delivery, after week 18 in the program.  A back-end focused app using Node, Express, PostgreSQL and RESTful API calls, on fully remote teams.
+Third project week in an 8 day sprint, from concept through delivery, after week 17 in the program.  A back-end focused app using Node, Express, PostgreSQL and RESTful API calls, on fully remote teams.
 ___
 
 ### NetiBot
 
-> Description 
->> NetiBot is a Discord nuisance and lavage bot - if you've ever wanted to annoy your friends, but not put out the work of doing it. The bot is programmed to react to trigger words within Discord chat prompting a specific response, such as responding to the word 'wow' with a random clip from a 3rd party API that generates a random "Wow" from an Owen Wilson film. The bot has also studied under the tutelage of the renowned Hennig Brand whose archaic medical expertise is stored in a Mongo DB and ailments and treatments are called if the Discord user types "sick" or "ill" in the chat.
+> NetiBot is a Discord nuisance and lavage bot - if you've ever wanted to annoy your friends, but not put out the work of doing it. The bot is programmed to react to trigger words within Discord chat prompting a specific response, such as responding to the word 'wow' with a random clip from a 3rd party API that generates a random "Wow" from an Owen Wilson film. The bot has also studied under the tutelage of the renowned Hennig Brand whose archaic medical expertise is stored in a Mongo DB and ailments and treatments are called if the Discord user types "sick" or "ill" in the chat.
 
 * [Repo](https://github.com/NetiBot/NetiBotApp)
 
@@ -26,8 +25,7 @@ ___
 
 ### Alchademy
 
-> Description 
->> Alchademy is a web-based learning management system designed specifically for Alchemy Code Lab. Using Github OAuth, users have CRUD capabilities that are specific to their role and allow them to interact with cohorts, syllabi, assignments, and submissions creatively and uniquely.
+> Alchademy is a web-based learning management system designed specifically for Alchemy Code Lab. Using Github OAuth, users have CRUD capabilities that are specific to their role and allow them to interact with cohorts, syllabi, assignments, and submissions creatively and uniquely.
 
 * [Repo](https://github.com/Alchademy/Alchademy-backend)
 
@@ -45,8 +43,7 @@ ___
 
 ### AlcheMeetings The SQL
 
-> Description 
->> Improving the Alchemy ZoomRooms Backend
+> Improving the Alchemy ZoomRooms Backend
 
 * [Repo](https://github.com/Alchemy-Meeting-Backend/alchemy-meetings-backend)
 
@@ -65,8 +62,7 @@ ___
 
 ### Pathfriender
 
-> Description 
->> Pathfriender, a Discord bot that allows you to track and create player characters in association with Discord accounts, roll dice, roll dice with advantage or disadvantage, track initiative, roll on loot tables, and see if there any beavers nearby in your campaign.
+> Pathfriender, a Discord bot that allows you to track and create player characters in association with Discord accounts, roll dice, roll dice with advantage or disadvantage, track initiative, roll on loot tables, and see if there any beavers nearby in your campaign.
 
 * [Repo](https://github.com/Pathfriender/pathfriender)
 
@@ -81,10 +77,9 @@ ___
 ___
 ___
 
-<!-- ### 
+<!-- ### App Name
 
 > Description 
->>
 
 * [Repo]()
 
@@ -92,10 +87,10 @@ ___
 
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
->| Name| [Github]()   | [LinkedIn]()   |
->|  Name| [Github]()  |  [LinkedIn]()  |
->|  Name| [Github]()  |  [LinkedIn]()  |
->| Name |  [Github]()  |  [LinkedIn]()  |
+>| Name | [Github]()  | [LinkedIn]() |
+>| Name | [Github]()  | [LinkedIn]() |
+>| Name | [Github]()  | [LinkedIn]() |
+>| Name | [Github]()  | [LinkedIn]() |
 
 ___
 ___

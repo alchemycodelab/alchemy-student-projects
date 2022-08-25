@@ -4,13 +4,12 @@
 
 ## React-02 Projects
 
-Second one week sprint, from concept through delivery, after week 13 in the program.  First full-stack app using ReactJS, Supabase and RESTful API calls hitting a 3rd party API, on fully remote teams.
+Second one week sprint, from concept through delivery, after week 12 in the program.  First full-stack app using ReactJS, Supabase and RESTful API calls hitting a 3rd party API, on fully remote teams.
 ___
 
 ### Pinball Real Estate
 
-> Description 
->> Search for properties across the US
+> Search for properties across the US
 
 * [Repo](https://github.com/PinballRealEstate/PinballRealEstate)
 
@@ -28,8 +27,7 @@ ___
 
 ### Sage
 
-> Description 
->> Reading app for kids with dyslexia
+> Reading app for kids with dyslexia
 
 * [Repo](https://github.com/delaneyfogarty/Reading-App)
 
@@ -47,8 +45,7 @@ ___
 
 ### Fútboard
 
-> Description 
->> Soccer scoreboard and statistic app
+> Soccer scoreboard and statistic app
 
 * [Repo](https://github.com/Futboard-App/futboard)
 
@@ -66,8 +63,7 @@ ___
 
 ### Magica
 
-> Description 
->> Magic: the Gathering drafting app
+> Magic: the Gathering drafting app
 
 * [Repo](https://github.com/Magica-Drafter/Magica)
 
