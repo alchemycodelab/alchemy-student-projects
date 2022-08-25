@@ -1,7 +1,7 @@
 # Alchemy Class Projects - April 2022
 
 ## Web-01
-Context, for example: First one week sprint, from concept through delivery, after week 5 in the program.  Focus was vanilla JS and teams built this working remotely.
+First one week sprint, from concept through delivery, after week 5 in the program.  Focus was vanilla JS and teams built this working remotely.
 ___
 
 ### Hynt
@@ -56,7 +56,7 @@ ___
 >|---|---|---|
 >|  Aaron Enyetu | [Github](https://github.com/aaronEnyetu)   | [LinkedIn](https://www.linkedin.com/in/aaron-enyetu)   |
 >|  Austin Han | [Github](https://github.com/austinbhan)   | [LinkedIn](https://www.linkedin.com/in/austin-han-740a69157)   |
->|  Sean Moriarty | [Github](https://github.com/spmoriarty)   | [LinkedIn](https://github.com/spmoriarty/spmoriarty/blob/main/linkedin.com/in/seanmoriarty1) |
+>|  Sean Moriarty | [Github](https://github.com/spmoriarty)   | [LinkedIn](https://www.linkedin.com/in/seanmoriarty1) |
 >|  David Rigby | [Github](https://github.com/Rigby-David)   | [LinkedIn](https://www.linkedin.com/in/david-rigby2022)   |
 >|  Colter Garrison | [Github](https://github.com/Colter-Garrison)   | [LinkedIn](https://www.linkedin.com/in/colter-garrison)   |
 
