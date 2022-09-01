@@ -1,3 +1,8 @@
+# Alchemy Class Projects - January 2022
+
+## Final Projects -
+Fourth and final team projects made in a short sprint. These students have finished more than 1,000 hours of our professional software development training and learned how to harness Full Stack JavaScript capabilities using React, Node, Express, and PostgreSQL, all while working on fully remote teams.
+
 ### Rent-borrow-buy
 
 > Description
