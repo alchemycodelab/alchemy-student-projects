@@ -44,20 +44,20 @@ Third team projects made in a short sprint, from concept through delivery, after
 
 ---
 
-### App Name
+### Gotta Catch Them All
 
-> Description
+> An App that provides the user with the tools to make the fishing experience better. Manages all aspects of the fishing trip and provides the user with information about the fish species and fishing regulations
 
-- [Repo]()
+- [Repo](https://github.com/Fisherman-API/Backend-fisherman)
 
-- [Deployed Site]()
+- [Deployed Site](https://github.com/Fisherman-API/Backend-fisherman)
 
-> | Team Members | Github     | LinkedIn     |
-> | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
+  > | Team Members         | Github                                    | LinkedIn                                                    |
+  > | -------------------- | ----------------------------------------- | ----------------------------------------------------------- |
+  > | Aaron Enyetu         | [Github](https://github.com/aaronEnyetu/) | [LinkedIn](https://www.linkedin.com/in/aaron-enyetu/)       |
+  > | Sean Moriaty         | [Github](https://github.com/spmoriarty/)  | [LinkedIn](https://www.linkedin.com/in/seanmoriarty1)       |
+  > | Daniel Stanford      | [Github](https://github.com/stanfdan000)  | [LinkedIn](https://www.linkedin.com/in/daniel-stanford/)    |
+  > | Pedro Chavez-Nolasco | [Github](https://github.com/PCN23)        | [LinkedIn](https://www.linkedin.com/in/pedro-chaveznolasco) |
 
 ---
 
