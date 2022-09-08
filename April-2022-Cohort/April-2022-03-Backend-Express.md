@@ -100,3 +100,22 @@ Third team projects made in a short sprint, from concept through delivery, after
 ---
 
 ---
+
+### JamBot
+
+> A Discord Bot that allows you to play music and save songs to a library or playlists within individual servers
+
+- [Repo](https://github.com/orgs/DiscordBotSprint/repositories)
+
+- [Discord Bot Invite](https://discord.com/oauth2/authorize?client_id=1012803334199062640&permissions=1505959738480&scope=bot)
+
+  > | Team Members  | Github                                    | LinkedIn                                               |
+  > | ------------- | ----------------------------------------- | ------------------------------------------------------ |
+  > | Dillon Brock  | [Github](https://github.com/dillon-brock) | [LinkedIn](https://www.linkedin.com/in/dillon-brock/)  |
+  > | Allison Ause  | [Github](https://github.com/Allison-Ause) | [LinkedIn](https://www.linkedin.com/in/allisonause/)   |
+  > | Chad Stabler  | [Github](https://github.com/Chad-Stabler) | [LinkedIn](https://www.linkedin.com/in/chad-stabler/)  |
+  > | David Quennoz | [Github](https://github.com/david-qz)     | [LinkedIn](https://www.linkedin.com/in/david-quennoz/) |
+
+---
+
+---
