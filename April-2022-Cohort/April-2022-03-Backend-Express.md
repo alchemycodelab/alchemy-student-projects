@@ -25,20 +25,20 @@ Third team projects made in a short sprint, from concept through delivery, after
 
 ---
 
-### App Name
+### pixie.js
 
-> Description
+> A Tarot-based API celebrating the artwork of Pamela Colman Smith, allowing users to pick, track and update their pulls from the symbolic Rider Waite Smith deck.
 
-- [Repo]()
+- [Repo](https://github.com/Witch-Quips/pixie.js)
 
-- [Deployed Site]()
+- [Deployed Site](https://pixie-tarot-api.herokuapp.com/)
 
-> | Team Members | Github     | LinkedIn     |
-> | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
+  > | Team Members    | Github                                      | LinkedIn                                              |
+  > | --------------- | ------------------------------------------- | ----------------------------------------------------- |
+  > | Niki Hite       | [Github](https://github.com/nikihite)       | [LinkedIn](https://www.linkedin.com/in/nikihite)      |
+  > | Amanda Hecht    | [Github](https://github.com/amanda-hecht89) | [LinkedIn](https://www.linkedin.com/in/amanda-hecht/) |
+  > | Amaya Alejandra | [Github](https://github.com/amayamaya)      | [LinkedIn](https://www.linkedin.com/in/amayamaya/)    |
+  > | David Francisco | [Github](https://github.com/dfrancisco26)   | [LinkedIn](https://www.linkedin.com/in/davidn0tdave/) |
 
 ---
 
