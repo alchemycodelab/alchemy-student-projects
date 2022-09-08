@@ -63,20 +63,20 @@ Third team projects made in a short sprint, from concept through delivery, after
 
 ---
 
-### App Name
+### Dadbot
 
-> Description
+> DadBot is a Discord Bot created using discord.js, as well as APIs from icanhazdadjoke, Giphy, and YouTube combined to create the ultimate user experience, guaranteed to make anybody groan in embarrassment.
 
-- [Repo]()
+- [Repo](https://github.com/alchemy-dad-bot/dad-bot)
 
-- [Deployed Site]()
+- See GitHub Repo for info on how to use.
 
-> | Team Members | Github     | LinkedIn     |
-> | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
+  > | Team Members         | Github                                     | LinkedIn                                                      |
+  > | -------------------- | ------------------------------------------ | ------------------------------------------------------------- |
+  > | Olivia Pasion        | [Github](https://github.com/Olivia-Pasion) | [LinkedIn](https://www.linkedin.com/in/olivia-pasion/)        |
+  > | Alejandra El-Dasouki | [Github](https://github.com/Alejae1998)    | [LinkedIn](https://www.linkedin.com/in/alejandrael-dasouki)   |
+  > | Austin Han           | [Github](https://github.com/austinbhan)    | [LinkedIn](https://www.linkedin.com/in/austin-han-740a69157/) |
+  > | Brien Thomas         | [Github](https://github.com/briensthomas)  | [LinkedIn](https://www.linkedin.com/in/brien-thomas/)         |
 
 ---
 
