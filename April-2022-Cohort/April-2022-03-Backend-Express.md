@@ -82,20 +82,20 @@ Third team projects made in a short sprint, from concept through delivery, after
 
 ---
 
-### App Name
+### boo!BOT, your haunted enCounter
 
-> Description
+> boo!BOT, your haunted enCounter, is a VS Code extension that was designed for those among us who are perpetually waiting for summer to come to an end and cold misty days to return. boo!BOT provides a daily countdown to Halloween along with spooky facts and links (generated from from our RESTful API) via recurring pop-ups in your VS Code window.
 
-- [Repo]()
+- [Repo](https://github.com/orgs/boo-BOT-Team/repositories)
 
-- [Deployed Site]()
+- [Deployed Site](https://boo-bot-server.herokuapp.com/)
 
-> | Team Members | Github     | LinkedIn     |
-> | ------------ | ---------- | ------------ |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
-> | Name         | [Github]() | [LinkedIn]() |
+  > | Team Members      | Github                                       | LinkedIn                                                 |
+  > | ----------------- | -------------------------------------------- | -------------------------------------------------------- |
+  > | David Rigby       | [Github](https://github.com/Rigby-David)     | [LinkedIn](https://www.linkedin.com/in/david-rigby2022/) |
+  > | Kashi Maya Tamang | [Github](https://github.com/kashitamang)     | [LinkedIn]https://www.linkedin.com/in/kashitamang/()     |
+  > | Kat Zaro          | [Github](https://github.com/kathrynzaro)     | [LinkedIn](https://www.linkedin.com/in/katzaro/)         |
+  > | Sebastian Šimek   | [Github](https://github.com/Sebastian-Simek) | [LinkedIn](https://www.linkedin.com/in/sebastian-simek/) |
 
 ---
 
