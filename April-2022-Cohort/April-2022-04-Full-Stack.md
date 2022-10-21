@@ -39,7 +39,7 @@ Fourth and final team projects made in a short sprint. These students have finis
   > | Aaron Enyetu      | [Github](https://github.com/aaronEnyetu/) | [LinkedIn](https://www.linkedin.com/in/aaron-enyetu/)         |
   > | Austin Han        | [Github](https://github.com/austinbhan)   | [LinkedIn](https://www.linkedin.com/in/austin-han-740a69157/) |
   > | Brien Thomas      | [Github](https://github.com/briensthomas) | [LinkedIn](https://www.linkedin.com/in/brien-thomas/)         |
-  > | Kashi Maya Tamang | [Github](https://github.com/kashitamang)  | [LinkedIn]https://www.linkedin.com/in/kashitamang/()          |
+  > | Kashi Maya Tamang | [Github](https://github.com/kashitamang)  | [LinkedIn](https://www.linkedin.com/in/kashitamang/)          |
   > | Kat Zaro          | [Github](https://github.com/kathrynzaro)  | [LinkedIn](https://www.linkedin.com/in/katzaro/)              |
   > | Jenna Graham      | [Github](https://github.com/jenna-graham) | [LinkedIn](https://www.linkedin.com/in/jenna-lee-graham/)     |
 

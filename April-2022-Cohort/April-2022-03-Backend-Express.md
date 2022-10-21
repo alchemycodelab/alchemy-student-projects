@@ -93,7 +93,7 @@ Third team projects made in a short sprint, from concept through delivery, after
   > | Team Members      | Github                                       | LinkedIn                                                 |
   > | ----------------- | -------------------------------------------- | -------------------------------------------------------- |
   > | David Rigby       | [Github](https://github.com/Rigby-David)     | [LinkedIn](https://www.linkedin.com/in/david-rigby2022/) |
-  > | Kashi Maya Tamang | [Github](https://github.com/kashitamang)     | [LinkedIn]https://www.linkedin.com/in/kashitamang/()     |
+  > | Kashi Maya Tamang | [Github](https://github.com/kashitamang)     | [LinkedIn](https://www.linkedin.com/in/kashitamang/)     |
   > | Kat Zaro          | [Github](https://github.com/kathrynzaro)     | [LinkedIn](https://www.linkedin.com/in/katzaro/)         |
   > | Sebastian Šimek   | [Github](https://github.com/Sebastian-Simek) | [LinkedIn](https://www.linkedin.com/in/sebastian-simek/) |
 
