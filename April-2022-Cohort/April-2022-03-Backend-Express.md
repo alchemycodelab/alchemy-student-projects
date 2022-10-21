@@ -1,78 +1,121 @@
-<!-- # Alchemy Class Projects - April 2022
+# Alchemy Class Projects - April 2022
 
 ## Backend / Express 03
-Third team projects made in a short sprint, from concept through delivery, after week 17 in the program.  A back-end focused app using Node, Express, PostgreSQL and RESTful API calls, on fully remote teams.
-___
 
-### App Name
+Third team projects made in a short sprint, from concept through delivery, after week 17 in the program. A back-end focused app using Node, Express, PostgreSQL and RESTful API calls, on fully remote teams.
 
-> Description 
+---
 
-* [Repo]()
+### Termagotchi
 
-* [Deployed Site]()
+> A terminal-based, Tamagotchi-inspired, choose your own adventure game.
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name | [Github]()  | [LinkedIn]() |
->| Name | [Github]()  | [LinkedIn]() |
->| Name | [Github]()  | [LinkedIn]() |
->| Name | [Github]()  | [LinkedIn]() |
+- [Repo](https://github.com/jenna-graham/Termagotchi)
 
-___
-___
+- Install with: `npx the-termagochi`
 
-### App Name
+  > | Team Members    | Github                                       | LinkedIn                                                    |
+  > | --------------- | -------------------------------------------- | ----------------------------------------------------------- |
+  > | Jessica Martin  | [Github](https://github.com/Jmart5564)       | [LinkedIn](https://www.linkedin.com/in/jessica-martin5564/) |
+  > | Jenna Graham    | [Github](https://github.com/jenna-graham)    | [LinkedIn](https://www.linkedin.com/in/jenna-lee-graham/)   |
+  > | Mariah Schock   | [Github](https://github.com/mariahschock/)   | [LinkedIn](https://www.linkedin.com/in/mariah-schock/)      |
+  > | Colter Garrison | [Github](https://github.com/Colter-Garrison) | [LinkedIn](https://www.linkedin.com/in/colter-garrison/)    |
 
-> Description 
+---
 
-* [Repo]()
+---
 
-* [Deployed Site]()
+### pixie.js
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name | [Github]()  | [LinkedIn]() |
->| Name | [Github]()  | [LinkedIn]() |
->| Name | [Github]()  | [LinkedIn]() |
->| Name | [Github]()  | [LinkedIn]() |
+> A Tarot-based API celebrating the artwork of Pamela Colman Smith, allowing users to pick, track and update their pulls from the symbolic Rider Waite Smith deck.
 
-___
-___
+- [Repo](https://github.com/Witch-Quips/pixie.js)
 
-### App Name
+- [Deployed Site](https://pixie-tarot-api.herokuapp.com/)
 
-> Description 
+  > | Team Members    | Github                                      | LinkedIn                                              |
+  > | --------------- | ------------------------------------------- | ----------------------------------------------------- |
+  > | Niki Hite       | [Github](https://github.com/nikihite)       | [LinkedIn](https://www.linkedin.com/in/nikihite)      |
+  > | Amanda Hecht    | [Github](https://github.com/amanda-hecht89) | [LinkedIn](https://www.linkedin.com/in/amanda-hecht/) |
+  > | Amaya Alejandra | [Github](https://github.com/amayamaya)      | [LinkedIn](https://www.linkedin.com/in/amayamaya/)    |
+  > | David Francisco | [Github](https://github.com/dfrancisco26)   | [LinkedIn](https://www.linkedin.com/in/davidn0tdave/) |
 
-* [Repo]()
+---
 
-* [Deployed Site]()
+---
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name | [Github]()  | [LinkedIn]() |
->| Name | [Github]()  | [LinkedIn]() |
->| Name | [Github]()  | [LinkedIn]() |
->| Name | [Github]()  | [LinkedIn]() |
+### Gotta Catch Them All
 
-___
-___
+> An App that provides the user with the tools to make the fishing experience better. Manages all aspects of the fishing trip and provides the user with information about the fish species and fishing regulations
 
-### App Name
+- [Repo](https://github.com/Fisherman-API/Backend-fisherman)
 
-> Description 
+- [Deployed Site](https://github.com/Fisherman-API/Backend-fisherman)
 
-* [Repo]()
+  > | Team Members         | Github                                    | LinkedIn                                                    |
+  > | -------------------- | ----------------------------------------- | ----------------------------------------------------------- |
+  > | Aaron Enyetu         | [Github](https://github.com/aaronEnyetu/) | [LinkedIn](https://www.linkedin.com/in/aaron-enyetu/)       |
+  > | Sean Moriaty         | [Github](https://github.com/spmoriarty/)  | [LinkedIn](https://www.linkedin.com/in/seanmoriarty1)       |
+  > | Daniel Stanford      | [Github](https://github.com/stanfdan000)  | [LinkedIn](https://www.linkedin.com/in/daniel-stanford/)    |
+  > | Pedro Chavez-Nolasco | [Github](https://github.com/PCN23)        | [LinkedIn](https://www.linkedin.com/in/pedro-chaveznolasco) |
 
-* [Deployed Site]()
+---
 
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->| Name | [Github]()  | [LinkedIn]() |
->| Name | [Github]()  | [LinkedIn]() |
->| Name | [Github]()  | [LinkedIn]() |
->| Name | [Github]()  | [LinkedIn]() |
+---
 
-___
-___
--->
+### Dadbot
+
+> DadBot is a Discord Bot created using discord.js, as well as APIs from icanhazdadjoke, Giphy, and YouTube combined to create the ultimate user experience, guaranteed to make anybody groan in embarrassment.
+
+- [Repo](https://github.com/alchemy-dad-bot/dad-bot)
+
+- See GitHub Repo for info on how to use.
+
+  > | Team Members         | Github                                     | LinkedIn                                                      |
+  > | -------------------- | ------------------------------------------ | ------------------------------------------------------------- |
+  > | Olivia Pasion        | [Github](https://github.com/Olivia-Pasion) | [LinkedIn](https://www.linkedin.com/in/olivia-pasion/)        |
+  > | Alejandra El-Dasouki | [Github](https://github.com/Alejae1998)    | [LinkedIn](https://www.linkedin.com/in/alejandrael-dasouki)   |
+  > | Austin Han           | [Github](https://github.com/austinbhan)    | [LinkedIn](https://www.linkedin.com/in/austin-han-740a69157/) |
+  > | Brien Thomas         | [Github](https://github.com/briensthomas)  | [LinkedIn](https://www.linkedin.com/in/brien-thomas/)         |
+
+---
+
+---
+
+### boo!BOT, your haunted enCounter
+
+> boo!BOT, your haunted enCounter, is a VS Code extension that was designed for those among us who are perpetually waiting for summer to come to an end and cold misty days to return. boo!BOT provides a daily countdown to Halloween along with spooky facts and links (generated from from our RESTful API) via recurring pop-ups in your VS Code window.
+
+- [Repo](https://github.com/orgs/boo-BOT-Team/repositories)
+
+- [Deployed Site](https://boo-bot-server.herokuapp.com/)
+
+  > | Team Members      | Github                                       | LinkedIn                                                 |
+  > | ----------------- | -------------------------------------------- | -------------------------------------------------------- |
+  > | David Rigby       | [Github](https://github.com/Rigby-David)     | [LinkedIn](https://www.linkedin.com/in/david-rigby2022/) |
+  > | Kashi Maya Tamang | [Github](https://github.com/kashitamang)     | [LinkedIn](https://www.linkedin.com/in/kashitamang/)     |
+  > | Kat Zaro          | [Github](https://github.com/kathrynzaro)     | [LinkedIn](https://www.linkedin.com/in/katzaro/)         |
+  > | Sebastian Šimek   | [Github](https://github.com/Sebastian-Simek) | [LinkedIn](https://www.linkedin.com/in/sebastian-simek/) |
+
+---
+
+---
+
+### JamBot
+
+> A Discord Bot that allows you to play music and save songs to a library or playlists within individual servers
+
+- [Repo](https://github.com/orgs/DiscordBotSprint/repositories)
+
+- [Discord Bot Invite](https://discord.com/oauth2/authorize?client_id=1012803334199062640&permissions=1505959738480&scope=bot)
+
+  > | Team Members  | Github                                    | LinkedIn                                               |
+  > | ------------- | ----------------------------------------- | ------------------------------------------------------ |
+  > | Dillon Brock  | [Github](https://github.com/dillon-brock) | [LinkedIn](https://www.linkedin.com/in/dillon-brock/)  |
+  > | Allison Ause  | [Github](https://github.com/Allison-Ause) | [LinkedIn](https://www.linkedin.com/in/allisonause/)   |
+  > | Chad Stabler  | [Github](https://github.com/Chad-Stabler) | [LinkedIn](https://www.linkedin.com/in/chad-stabler/)  |
+  > | David Quennoz | [Github](https://github.com/david-qz)     | [LinkedIn](https://www.linkedin.com/in/david-quennoz/) |
+
+---
+
+---
