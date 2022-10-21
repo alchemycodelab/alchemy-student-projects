@@ -13,7 +13,7 @@ Third team projects made in a short sprint, from concept through delivery, after
 - [Repo](https://github.com/jenna-graham/Termagotchi)
 
 - Install with: `npx the-termagochi`
-  Jessica Martin, Jenna Graham, Mariah Schock, Colter Garrison
+
   > | Team Members    | Github                                       | LinkedIn                                                    |
   > | --------------- | -------------------------------------------- | ----------------------------------------------------------- |
   > | Jessica Martin  | [Github](https://github.com/Jmart5564)       | [LinkedIn](https://www.linkedin.com/in/jessica-martin5564/) |
