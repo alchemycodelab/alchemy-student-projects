@@ -1,50 +1,77 @@
-<!-- # Alchemy Class Projects - Cohort 
+# Alchemy Class Projects - June 2022 Cohort
 
-## Project week
-Context, for example: First one week sprint, from concept through delivery, after week 4 in the program.  Focus was vanilla JS and teams built this working remotely.
-___
+## Backend / Express
 
-### Name of app
+Second one week sprint, from concept through delivery, after week 11 in the program. Back-end focused apps using Node, Express, PostgreSQL and RESTful API calls, on fully remote teams.
 
-> Description 
->>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
 
-* [Repo FE](Link)
+### JamBot
 
-* [Repo BE](Link)
-
-* [Deployed Site](Link)
-
-* [Video Presentation](Link)
-
+> Description
 >
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->|  [Student Name](Link-to-Portfolio) | [Github](Link)   | [LinkedIn](Link)   |
->|  Student Name | [Github](Link)   | [LinkedIn](Link)   |
+> > A Discord Bot that allows you to play music and save songs to a library or playlists within individual servers 
 
-___
-___
+- [Repo](https://github.com/DiscordBotSprint/jamback)
 
-### Name of app
+- [Deployed Site](https://discord.com/oauth2/authorize?client_id=1012803334199062640&permissions=1505959738480&scope=bot)
 
-> Description 
->>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> | Team Members    | Github                                      | LinkedIn                                                           |
+> | --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+> | Allison Ause       | [Github](https://github.com/Allison-Ause)     | [LinkedIn](http://www.linkedin.com/in/allisonause)      |
+> | David Quennoz    | [Github](https://github.com/david-qz)   | [LinkedIn](https://www.linkedin.com/in/david-quennoz/)    |
+> | Dillon Brock       | [Github](https://github.com/dillon-brock)     | [LinkedIn](https://www.linkedin.com/in/dillon-brock/)      |
+> | Chad Stabler | [Github](https://github.com/Chad-Stabler) | [LinkedIn](https://www.linkedin.com/in/chad-stabler/) |
 
-* [Repo FE](Link)
+### DadBot
 
-* [Repo BE](Link)
-
-* [Deployed Site](Link)
-
-* [Video Presentation](Link)
-
+> Description
 >
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->|  [Student Name](Link-to-Portfolio) | [Github](Link)   | [LinkedIn](Link)   |
->|  Student Name | [Github](Link)   | [LinkedIn](Link)   |
+> > A Discord Bot created using discord.js, as well as APIs from icanhazdadjoke, Giphy, and YouTube combined to create the ultimate user experience, guaranteed to make anybody groan in embarassment.
 
-___
-___
--->
+- [Repo](https://github.com/alchemy-dad-bot/dad-bot)
+
+- [Deployed Site](https://dad-bot-alchemy.herokuapp.com)
+
+> | Team Members    | Github                                      | LinkedIn                                                           |
+> | --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+> | Olivia Pasion       | [Github](https://github.com/Olivia-Pasion)     | [LinkedIn](https://www.linkedin.com/in/olivia-pasion/)      |
+> | Brien Thomas | [Github](https://github.com/briensthomas) | [LinkedIn](https://www.linkedin.com/in/brien-thomas/) |
+> | Austin Han | [Github](https://github.com/austinbhan) | [LinkedIn](https://www.linkedin.com/in/austin-han-740a69157/) |
+> | Alejandra El-Dasouki | [Github](https://github.com/Alejae1998) | [LinkedIn](https://www.linkedin.com/in/alejandrael-dasouki/) |
+
+### Termagotchi
+
+> Description
+>
+> > A terminal-based, Tamagotchi-inspired, choose your own adventure game.
+
+- [Repo](https://github.com/jenna-graham/Termagotchi)
+
+- npx the-termagotchi
+
+> | Team Members    | Github                                      | LinkedIn                                                           |
+> | --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+> | Jessica Martin | [Github](https://github.com/Jmart5564) | [LinkedIn](https://www.linkedin.com/in/jessica-martin5564/) |
+> | Jenna Graham | [Github](https://github.com/jenna-graham) | [LinkedIn](https://www.linkedin.com/in/jenna-lee-graham/) |
+> | Colter Garrison | [Github](https://github.com/Colter-Garrison) | [LinkedIn](https://www.linkedin.com/in/colter-garrison/) |
+> | Mariah Schock | [Github](https://github.com/mariahschock) | [LinkedIn](https://www.linkedin.com/in/mariah-schock/) |
+
+### Magic API
+
+> Description
+>
+> > This project is meant to explore data relationships when pulling from an api through the process
+of users creating decks of magic cards. In theory it could also extend the ability to build and
+store decks to third party fan sites for specific formats who connect to our backend.
+
+- [Repo](https://github.com/davejfish/magic-api)
+
+- [Deployed Site](https://japril-magic-api.herokuapp.com/)
+
+> | Team Members    | Github                                      | LinkedIn                                                           |
+> | --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+> | Shan Hathaway    | [Github](https://github.com/Hathaway-Shan)   | [LinkedIn](https://www.linkedin.com/in/shan-hathaway/)    |
+> | Dave Fisher | [Github](https://github.com/davejfish) | [LinkedIn](http://www.linkedin.com/in/davefisher88) |
+> | Zachary Piontek | [Github](https://github.com/Zachary-Piontek) | [LinkedIn](https://www.linkedin.com/in/zacharypiontek/) |
+> | Maxwill Winters    | [Github](https://github.com/Aphenphos)   | [LinkedIn](https://www.linkedin.com/in/maxwill-winters/)    |
