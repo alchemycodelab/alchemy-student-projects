@@ -9,7 +9,7 @@ ___
 > Description 
 >>Barkle is a social chat app made for dog owners to meet and connect with others.
 
-* [Repo FE](https://github.com/charlescrabtree/Dog-tinder-project)
+* [Repo](https://github.com/charlescrabtree/Dog-tinder-project)
 
 * [Deployed Site](https://coruscating-dasik-e76837.netlify.app/)
 
@@ -32,7 +32,7 @@ ___
 > Description 
 >>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-* [Repo FE](https://github.com/nathburg/chess)
+* [Repo](https://github.com/nathburg/chess)
 
 * [Deployed Site](https://alchemy-chess.netlify.app/)
 
@@ -52,9 +52,9 @@ ___
 ### Collabo
 
 > Description 
->>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+>>Create music with collaborators around the world with our open source song project platform. Our audio mixer utilizes the Waveform Playlist tool created by the brilliant Naomi Aro.
 
-* [Repo FE](https://github.com/Collabo-Team/collabo)
+* [Repo](https://github.com/Collabo-Team/collabo)
 
 * [Deployed Site](https://collabomusic.co/)
 
