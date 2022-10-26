@@ -61,7 +61,7 @@ Second one week sprint, from concept through delivery, after week 11 in the prog
 
 > Description
 >
-> > This project is meant to explore data relationships when pulling from an api through the process
+> > This project is meant to explore data relationships when pulling from an API through the process
 of users creating decks of magic cards. In theory it could also extend the ability to build and
 store decks to third party fan sites for specific formats who connect to our backend.
 
