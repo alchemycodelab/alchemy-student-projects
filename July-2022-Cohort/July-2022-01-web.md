@@ -1,4 +1,4 @@
-<!-- # Alchemy Class Projects - July 2022
+# Alchemy Class Projects - July 2022
 
 ## Web 01
 First one week sprint, from concept through delivery, after week 6 in the program.  Focus was vanilla JS and teams built this working remotely.
@@ -70,4 +70,4 @@ ___
 >|  Ryan Smith | [Github](https://github.com/ryanjeffrey)   | [LinkedIn](https://www.linkedin.com/in/ryan-jeffrey-smith/)   |
 
 ___
-___ -->
+___
