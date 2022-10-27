@@ -25,6 +25,7 @@ Second one week sprint, from concept through delivery, after week 11 in the prog
 > | Zachary Sultan       | [Github](https://github.com/Zacharyjsultan)     | [LinkedIn](https://www.linkedin.com/in/zachary-sultan/)      |
 
 
+
 ### MerchOn
 
 > Description
@@ -43,6 +44,7 @@ Second one week sprint, from concept through delivery, after week 11 in the prog
 > | Tanner Richards | [Github](https://github.com/TannerRichards990)     | [LinkedIn](https://www.linkedin.com/in/tannerrichards/)      |
 
 
+
 ### Sound Palette
 
 > Description
@@ -55,11 +57,12 @@ Second one week sprint, from concept through delivery, after week 11 in the prog
 
 > | Team Members    | Github                                      | LinkedIn                                                           |
 > | --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
-> | Jessica Martin | [Github](https://github.com/Jmart5564) | [LinkedIn](https://www.linkedin.com/in/jessica-martin5564/) |
-> | Ryan Smith | [Github](https://github.com/ryanjeffrey) | [LinkedIn](https://www.linkedin.com/in/ryan-jeffrey-smith/) |
 > | Nathan Burgess | [Github](https://github.com/nathburg) | [LinkedIn](https://www.linkedin.com/in/nathburg/) |
-> | Ryan Parker | [Github](https://github.com/ryan-j-parker) | [LinkedIn](https://www.linkedin.com/in/ryanparkerdev/) |
 > | Eddie Kuo | [Github](https://github.com/Eddie-Kuo) | [LinkedIn](https://www.linkedin.com/in/eddie-kuo17/) |
+> | Jessica Martin | [Github](https://github.com/Jmart5564) | [LinkedIn](https://www.linkedin.com/in/jessica-martin5564/) |
+> | Ryan Parker | [Github](https://github.com/ryan-j-parker) | [LinkedIn](https://www.linkedin.com/in/ryanparkerdev/) |
+> | Ryan Smith | [Github](https://github.com/ryanjeffrey) | [LinkedIn](https://www.linkedin.com/in/ryan-jeffrey-smith/) |
+
 
 
 ### Tally Ho!
@@ -74,10 +77,10 @@ Second one week sprint, from concept through delivery, after week 11 in the prog
 
 > | Team Members    | Github                                      | LinkedIn                                                           |
 > | --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
-> | Adam Robson | [Github](https://github.com/Adam-Robson) | [LinkedIn](https://www.linkedin.com/in/adamrrobson/) |
 > | Allison Ause       | [Github](https://github.com/Allison-Ause)     | [LinkedIn](http://www.linkedin.com/in/allisonause)      |
-> | David Quennoz    | [Github](https://github.com/david-qz)   | [LinkedIn](https://www.linkedin.com/in/david-quennoz/)    |
 > | Dillon Brock       | [Github](https://github.com/dillon-brock)     | [LinkedIn](https://www.linkedin.com/in/dillon-brock/)      |
+> | David Quennoz    | [Github](https://github.com/david-qz)   | [LinkedIn](https://www.linkedin.com/in/david-quennoz/)    |
+> | Adam Robson | [Github](https://github.com/Adam-Robson) | [LinkedIn](https://www.linkedin.com/in/adamrrobson/) |
 
 
 
