@@ -13,8 +13,6 @@ ___
 
 * [Deployed Site](https://coruscating-dasik-e76837.netlify.app/)
 
-* [Video Presentation](Link)
-
 >
 >| Team Members  | Github  | LinkedIn  |
 >|---|---|---|
@@ -30,13 +28,11 @@ ___
 ### Chess
 
 > Description 
->>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+>>
 
 * [Repo](https://github.com/nathburg/chess)
 
 * [Deployed Site](https://alchemy-chess.netlify.app/)
-
-* [Video Presentation](Link)
 
 >
 >| Team Members  | Github  | LinkedIn  |
@@ -58,7 +54,6 @@ ___
 
 * [Deployed Site](https://collabomusic.co/)
 
-* [Video Presentation](Link)
 
 >
 >| Team Members  | Github  | LinkedIn  |
