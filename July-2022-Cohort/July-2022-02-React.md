@@ -1,10 +1,11 @@
-# Alchemy Class Projects - June 2022 Cohort
+# Alchemy Class Projects - July 2022 Cohort
 
 ## React
 
 Second one week sprint, from concept through delivery, after week 11 in the program.  First full-stack app using ReactJS, Supabase and RESTful API calls hitting a 3rd party API, on fully remote teams. Paired with the June cohort this module.
 
 ---
+
 
 ### Desk Jockey
 
