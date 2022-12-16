@@ -1,50 +1,135 @@
-<!-- # Alchemy Class Projects - Cohort 
+# Alchemy Class Projects - June 2022 Cohort
 
-## Project week
-Context, for example: First one week sprint, from concept through delivery, after week 4 in the program.  Focus was vanilla JS and teams built this working remotely.
-___
+## Advanced Full Stack Final Project
 
-### Name of app
+First ever Alchemy Solo Projects!!!
 
-> Description 
->>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Fourth and final project made in a short sprint. These students have finished more than 1,000 hours of our professional software development training and learned how to harness Full Stack JavaScript capabilities using React, Node, Express, and PostgreSQL, all while working on fully remote teams.
 
-* [Repo FE](Link)
+---
 
-* [Repo BE](Link)
+### Giftus
 
-* [Deployed Site](Link)
-
-* [Video Presentation](Link)
-
+> Description
 >
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->|  [Student Name](Link-to-Portfolio) | [Github](Link)   | [LinkedIn](Link)   |
->|  Student Name | [Github](Link)   | [LinkedIn](Link)   |
+> > Gift planning app that stores your thoughtful ideas for future gifting.
 
-___
-___
+- [Repo](https://github.com/Allison-Ause/cadeau-cache)
 
-### Name of app
+- [Deployed Site](https://giftus-planner.herokuapp.com/)
 
-> Description 
->>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> | Team Members | Github                                    | LinkedIn                                           |
+> | ------------ | ----------------------------------------- | -------------------------------------------------- |
+> | Allison Ause | [Github](https://github.com/Allison-Ause) | [LinkedIn](http://www.linkedin.com/in/allisonause) |
 
-* [Repo FE](Link)
+---
 
-* [Repo BE](Link)
+### Saga
 
-* [Deployed Site](Link)
-
-* [Video Presentation](Link)
-
+> Description
 >
->| Team Members  | Github  | LinkedIn  |
->|---|---|---|
->|  [Student Name](Link-to-Portfolio) | [Github](Link)   | [LinkedIn](Link)   |
->|  Student Name | [Github](Link)   | [LinkedIn](Link)   |
+> > An app to connect educators and students
 
-___
-___
--->
+- [Repo](https://github.com/dillon-brock/mentorship-app)
+
+- [Deployed Site](https://teachsaga.herokuapp.com/)
+
+> | Team Members | Github                                    | LinkedIn                                              |
+> | ------------ | ----------------------------------------- | ----------------------------------------------------- |
+> | Dillon Brock | [Github](https://github.com/dillon-brock) | [LinkedIn](https://www.linkedin.com/in/dillon-brock/) |
+
+---
+
+### Eigo
+
+> Description
+>
+> > Application for studying English phonics
+
+- [Repo](https://github.com/davejfish/eiGo)
+
+- [Deployed Site](https://eigo.herokuapp.com/)
+
+> | Team Members | Github                                 | LinkedIn                                            |
+> | ------------ | -------------------------------------- | --------------------------------------------------- |
+> | Dave Fisher  | [Github](https://github.com/davejfish) | [LinkedIn](http://www.linkedin.com/in/davefisher88) |
+
+---
+
+### Jr Job Board
+
+> Description
+>
+> > A web scraping search tool for job listings
+
+- [Repo](https://github.com/Hathaway-Shan/final-project-base)
+
+- [Deployed Site](https://juniorjobboard.herokuapp.com/)
+
+> | Team Members  | Github                                     | LinkedIn                                               |
+> | ------------- | ------------------------------------------ | ------------------------------------------------------ |
+> | Shan Hathaway | [Github](https://github.com/Hathaway-Shan) | [LinkedIn](https://www.linkedin.com/in/shan-hathaway/) |
+
+---
+
+### Forager Journal
+
+> Description
+>
+> > A mushroom hunting site tracker for all your foraging locations
+
+- [Repo](https://github.com/Jmart5564/fullstack-monorepo)
+
+- [Deployed Site](https://forager-journal.netlify.app/)
+
+> | Team Members   | Github                                 | LinkedIn                                                    |
+> | -------------- | -------------------------------------- | ----------------------------------------------------------- |
+> | Jessica Martin | [Github](https://github.com/Jmart5564) | [LinkedIn](https://www.linkedin.com/in/jessica-martin5564/) |
+
+---
+
+### CryptoWarfare
+
+> Description
+>
+> > Military themed crypto tracker.
+
+- [Repo](https://github.com/Zachary-Piontek/CryptoWarfare)
+
+- [Deployed Site](https://crypto-warfare.up.railway.app/)
+
+> | Team Members    | Github                                       | LinkedIn                                                |
+> | --------------- | -------------------------------------------- | ------------------------------------------------------- |
+> | Zachary Piontek | [Github](https://github.com/Zachary-Piontek) | [LinkedIn](https://www.linkedin.com/in/zacharypiontek/) |
+
+---
+
+### GLSL Playground
+
+> Description
+>
+> > A browser-based GLSL code scratchpad.
+
+- [Repo](https://github.com/david-qz/glsl-playground)
+
+- [Deployed Site](https://glslplayground.com)
+
+> | Team Members  | Github                                | LinkedIn                                               |
+> | ------------- | ------------------------------------- | ------------------------------------------------------ |
+> | David Quennoz | [Github](https://github.com/david-qz) | [LinkedIn](https://www.linkedin.com/in/david-quennoz/) |
+
+---
+
+### ShoEcommerce
+
+> Description
+>
+> > Basic Ecommerce Site with most of the bells and whistles.
+
+- [Repo](https://github.com/Aphenphos/Ecommerce-template-project)
+
+- [Deployed Site](https://ecomexample.up.railway.app/)
+
+> | Team Members    | Github                                 | LinkedIn                                                 |
+> | --------------- | -------------------------------------- | -------------------------------------------------------- |
+> | Maxwill Winters | [Github](https://github.com/Aphenphos) | [LinkedIn](https://www.linkedin.com/in/maxwill-winters/) |
