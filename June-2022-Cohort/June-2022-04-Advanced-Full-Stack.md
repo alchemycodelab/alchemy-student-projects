@@ -4,7 +4,7 @@
 
 First ever Alchemy Solo Projects!!!
 
-Fourth and final project made in a short sprint. These students have finished more than 1,000 hours of our professional software development training and learned how to harness Full Stack JavaScript capabilities using React, Node, Express, and PostgreSQL, all while working on fully remote teams.
+Fourth and final project made in a short sprint. These students have finished more than 1,000 hours of our professional software development training and learned how to harness Full Stack JavaScript capabilities using React, Node, Express, and PostgreSQL, all while working fully remote.
 
 ---
 
