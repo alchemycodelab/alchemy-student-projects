@@ -6,21 +6,23 @@ Third one week sprint, from concept through delivery, after week 16 in the progr
 
 ---
 
-// ### App
+// ### Error-Affirmations
 
-// > Description
+// > A VSCode extension and custom Jest reporter designed to foster positive thought and self-improvement through error based and daily affirmations.
 // >
 // > > 
 
-// - [Repo]()
+// - [Repo](https://github.com/VSCode-Empaths)
 
-// - [Deployed Site]()
+// - [Deployed Site](https://error-affirmations.herokuapp.com/)
+
+// - [Deployed Site](https://marketplace.visualstudio.com/items?itemName=VSCodeEmpaths.erroraffirmations&ssr=false#overview)
 
 // > | Team Members    | Github                                      | LinkedIn                                                           |
 // > | --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
-// > |        | [Github]()     | [LinkedIn]()      |
-// > |        | [Github]()     | [LinkedIn]()      |
-// > |        | [Github]()     | [LinkedIn]()      |
-// > |        | [Github]()     | [LinkedIn]()      |
+// > | Rio Edwards      | [Github](https://github.com/rioredwards)     | [LinkedIn]()      |
+// > | Kevin Nail    | [Github]()     | [LinkedIn](https://github.com/kevinnail)      |
+// > | Zach Sultan   | [Github](https://github.com/Zacharyjsultan)     | [LinkedIn](https://www.linkedin.com/in/zachary-sultan/)      |
+// > | Karl Wernsman    | [Github](https://github.com/karlwernsman)     | [LinkedIn]()      |
 
 // ### App...
