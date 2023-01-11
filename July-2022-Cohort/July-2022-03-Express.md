@@ -65,6 +65,23 @@ Third one week sprint, from concept through delivery, after week 16 in the progr
 | Lawson McPhetridge   | [Github](https://github.com/lawsonmcphetridge)     | [LinkedIn](https://www.linkedin.com/in/lawson-mcphetridge/)      |
 
 
+### Intergalatic Space Escape
+
+> A fun interactive intergalactic escape room that you can play in your terminal!
+>
+> > 
+
+- [Repo](https://github.com/emilypisaygnane/terminal-escape-room-0)
+
+
+| Team Members    | Github                                      | LinkedIn                                                           |
+| --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+| Erik Baxstrom      | [Github](https://github.com/erikbaxstrom)     | [LinkedIn]()      |
+| Eddie Kuo         | [Github](https://github.com/Eddie-Kuo)     | [LinkedIn](https://www.linkedin.com/in/eddie-kuo17/)      |
+| Emily Pisaygnane   | [Github](https://github.com/emilypisaygnane)     | [LinkedIn](https://www.linkedin.com/in/emily-pisaygnane/)      |
+| Tanner Richards   | [Github](https://github.com/TannerRichards990)     | [LinkedIn](https://www.linkedin.com/in/tannerrichards/)      |
+
+
 ### Money-Goals
 
 > A terminal app dedicated to helping improve individual financial planning. 
