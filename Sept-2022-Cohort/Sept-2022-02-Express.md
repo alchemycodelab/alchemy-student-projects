@@ -120,4 +120,20 @@ Roll a d20 to receive a fortune based on the success or failure of the roll.
 | Jackson Kelly                      | [Github](https://github.com/Volantstream19) | [LinkedIn](https://www.linkedin.com/in/jackson-kelly-26999a201/) |
 
 
+### Intergalatic Space Escape
+
+> A fun interactive intergalactic escape room that you can play in your terminal!
+>
+> > 
+- [Repo](https://github.com/emilypisaygnane/terminal-escape-room-0)
+
+
+| Team Members    | Github                                      | LinkedIn                                                           |
+| --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+| Erik Baxstrom      | [Github](https://github.com/erikbaxstrom)     | [LinkedIn]()      |
+| Eddie Kuo         | [Github](https://github.com/Eddie-Kuo)     | [LinkedIn](https://www.linkedin.com/in/eddie-kuo17/)      |
+| Emily Pisaygnane   | [Github](https://github.com/emilypisaygnane)     | [LinkedIn](https://www.linkedin.com/in/emily-pisaygnane/)      |
+| Tanner Richards   | [Github](https://github.com/TannerRichards990)     | [LinkedIn](https://www.linkedin.com/in/tannerrichards/)      |
+
+
 
