@@ -130,7 +130,7 @@ Roll a d20 to receive a fortune based on the success or failure of the roll.
 
 | Team Members    | Github                                      | LinkedIn                                                           |
 | --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
-| Erik Baxstrom      | [Github](https://github.com/erikbaxstrom)     | [LinkedIn]()      |
+| Erik Baxstrom      | [Github](https://github.com/erikbaxstrom)     | [LinkedIn](https://www.linkedin.com/in/erik-baxstrom/)      |
 | Eddie Kuo         | [Github](https://github.com/Eddie-Kuo)     | [LinkedIn](https://www.linkedin.com/in/eddie-kuo17/)      |
 | Emily Pisaygnane   | [Github](https://github.com/emilypisaygnane)     | [LinkedIn](https://www.linkedin.com/in/emily-pisaygnane/)      |
 | Tanner Richards   | [Github](https://github.com/TannerRichards990)     | [LinkedIn](https://www.linkedin.com/in/tannerrichards/)      |
