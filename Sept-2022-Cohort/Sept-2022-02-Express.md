@@ -19,10 +19,10 @@ Second one week sprint, from concept through delivery, after week 11 in the prog
 
 | Team Members    | Github                                      | LinkedIn                                                           |
 | --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
-| Rio Edwards      | [Github](https://github.com/rioredwards)     | [LinkedIn]()      |
+| Rio Edwards      | [Github](https://github.com/rioredwards)     | [LinkedIn](https://www.linkedin.com/in/rio-edwards/)      |
 | Kevin Nail    | [Github]()     | [LinkedIn](https://github.com/kevinnail)      |
 | Zach Sultan   | [Github](https://github.com/Zacharyjsultan)     | [LinkedIn](https://www.linkedin.com/in/zachary-sultan/)      |
-| Karl Wernsman    | [Github](https://github.com/karlwernsman)     | [LinkedIn]()      |
+| Karl Wernsman    | [Github](https://github.com/karlwernsman)     | [LinkedIn](https://www.linkedin.com/in/karl-wernsman/)      |
 
 
 ### Escape From Terminal Forest
@@ -38,7 +38,7 @@ Second one week sprint, from concept through delivery, after week 11 in the prog
 
 | Team Members    | Github                                      | LinkedIn                                                           |
 | --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
-| Sam Adams      | [Github](https://github.com/soup1e)     | [LinkedIn]()      |
+| Sam Adams      | [Github](https://github.com/soup1e)     | [LinkedIn](https://www.linkedin.com/in/samsadams/)      |
 | Charles Crabtree    | [Github](https://github.com/charlescrabtree)     | [LinkedIn](https://www.linkedin.com/in/charles-crabtree/)      |
 | Thomas Jenkins   | [Github](https://github.com/Thomas-Jenkins)     | [LinkedIn](https://www.linkedin.com/in/thomas-p-jenkins/)      |
 | Ryan Parker   | [Github](https://github.com/ryan-j-parker)     | [LinkedIn](https://www.linkedin.com/in/ryanparkerdev/)      |
@@ -57,9 +57,9 @@ Second one week sprint, from concept through delivery, after week 11 in the prog
 
 | Team Members    | Github                                      | LinkedIn                                                           |
 | --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
-| Abdullahi Elmi      | [Github](https://github.com/ElmiAbdullahi)     | [LinkedIn]()      |
+| Abdullahi Elmi      | [Github](https://github.com/ElmiAbdullahi)     | [LinkedIn](https://www.linkedin.com/in/abdullahi-elmi14/)      |
 | Adam Robson    | [Github](https://github.com/Adam-Robson)     | [LinkedIn](https://www.linkedin.com/in/adamrrobson/)      |
-| Amanda Short   | [Github](https://github.com/amanda-short)     | [LinkedIn]()      |
+| Amanda Short   | [Github](https://github.com/amanda-short)     | [LinkedIn](https://www.linkedin.com/in/amanda-short24/)      |
 | Ryan Smith   | [Github](https://github.com/ryanjeffrey)     | [LinkedIn](https://www.linkedin.com/in/ryan-jeffrey-smith/)      |
 
 
@@ -76,10 +76,10 @@ Second one week sprint, from concept through delivery, after week 11 in the prog
 
 | Team Members    | Github                                      | LinkedIn                                                           |
 | --------------- | ------------------------------------------- | ------------------------------------------------------------------ |
-| Lexus Banton      | [Github](https://github.com/Lexus-Banton)     | [LinkedIn]()      |
+| Lexus Banton      | [Github](https://github.com/Lexus-Banton)     | [LinkedIn](https://www.linkedin.com/in/lexcancode/)      |
 | Andrew Boyle    | [Github](https://github.com/andrewjamesboyle)     | [LinkedIn](https://www.linkedin.com/in/andrewjamesboyle/)      |
-| Morgan Niemeyer   | [Github](https://github.com/morganniemeyer)     | [LinkedIn]()      |
-| Emily Sellers   | [Github](https://github.com/emilysellers)     | [LinkedIn]()      |
+| Morgan Niemeyer   | [Github](https://github.com/morganniemeyer)     | [LinkedIn](https://www.linkedin.com/in/morganniemeyer/)      |
+| Emily Sellers   | [Github](https://github.com/emilysellers)     | [LinkedIn](https://www.linkedin.com/in/emilymsellers/)      |
 
 ### Globot
 
